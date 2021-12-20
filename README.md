@@ -1,2 +1,2 @@
-# CIM103 Web Lab
-Class material for Web Lab students at University of Miami
+# CIM103 Web Lab | Fall 2022
+Class material for Web Lab students at University of Miami.
