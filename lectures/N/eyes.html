@@ -1,0 +1,105 @@
+<html>
+  <head>
+
+    <title>Eyes</title>
+
+    <style>
+
+      * {
+        margin: 0;
+      }
+
+      html {
+        height: 100%;
+      }
+
+      body {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: Plum;
+      }
+      .creature {
+        display: flex;
+      }
+
+      .eye {
+        position: relative;
+        width: 100px;
+        height: 100px;
+      }
+
+      .ball {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        background: GhostWhite;
+      }
+
+      .pupil {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 50%;
+        height: 50%;
+        border-radius: 50%;
+        background: Black;
+        transform: translate( -50%, -50% );
+        z-index: 1;
+      }
+
+    </style>
+
+  </head>
+  <body>
+
+    <div class="creature">
+
+      <div class="eye">
+        <div class="ball"></div>
+        <div class="pupil" id="leftPupil"></div>
+      </div>
+
+      <div class="eye">
+        <div class="ball"></div>
+        <div class="pupil" id="rightPupil"></div>
+      </div>
+
+    </div>
+
+    <script>
+
+      function follow()
+      {
+
+        const center = 50
+        const reducer = .25 // Arbitrary
+
+        let width = window.innerWidth
+        let height = window.innerHeight
+
+        let percentX = event.clientX * 100 / width
+        let percentY = event.clientY * 100 / height
+
+        let offsetX = percentX - center
+        let offsetY = percentY - center
+
+        let x = center + offsetX * reducer
+        let y = center + offsetY * reducer
+
+        leftPupil.style.left = x + '%'
+        leftPupil.style.top  = y + '%'
+
+        rightPupil.style.left = x + '%'
+        rightPupil.style.top  = y + '%'
+
+      }
+
+      window.addEventListener( 'mousemove', follow )
+
+    </script>
+
+  </body>
+</html>
