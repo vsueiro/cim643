@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+
+    <title>Dark Mode</title>
+
+  </head>
+  <body id="app">
+
+    <label>
+      <input type="checkbox" id="dark">
+      <span>Dark mode</span>
+    </label>
+
+    <script>
+
+      function handle()
+      {
+
+        if ( dark.checked )
+        {
+          app.style.background = 'black'
+          app.style.color = 'white'
+        }
+        else
+        {
+          app.style.background = 'white'
+          app.style.color = 'black'
+        }
+
+      }
+
+      dark.addEventListener( 'change', handle )
+
+    </script>
+
+  </body>
+</html>
