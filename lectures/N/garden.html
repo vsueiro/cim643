@@ -83,67 +83,74 @@
 
     <script>
 
-    const delay = 100 // milliseconds
+      const delay = 100
 
-    function random( min, max ) {
-      return Math.floor( Math.random() * ( max + 1 - min ) + min )
-    }
+      function random( min, max ) {
+        return Math.floor( Math.random() * ( max + 1 - min ) + min )
+      }
 
-    function hide( element )
-    {
-      element.style.opacity = 0
-    }
+      function hide( element )
+      {
+        element.style.opacity = 0
+      }
 
-    function show( element )
-    {
-      element.style.opacity = 1
-    }
+      function show( element )
+      {
+        element.style.opacity = 1
+      }
 
-    function add( parent, child )
-    {
-      parent.append( child )
-    }
+      function add( parent, child )
+      {
+        parent.append( child )
+      }
 
-    function seed( seeds )
-    {
-
-      for ( let i = 0; i < seeds; i++ )
+      function seed()
       {
 
-        let plant, stem, leaf, sleep
+        let seeds = random( 1, 6 )
 
-        sleep = random( 0, seeds ) * delay
+        // Removes all plants from garden
+        garden.replaceChildren()
 
-        plant = document.createElement( 'div' )
-        plant.classList.add( 'plant' )
-
-        stem = document.createElement( 'div' )
-        stem.classList.add( 'stem' )
-
-        plant.append( stem )
-
-        leaves = random( 1, 6 )
-
-        for ( let j = 0; j < leaves; j++ )
+        for ( let i = 0; i < seeds; i++ )
         {
 
-          leaf = document.createElement( 'div' )
-          leaf.classList.add( 'leaf' )
+          let plant, stem, leaf, sleep
 
-          setTimeout( add, sleep + ( delay * ( j + 1 ) ), plant, leaf )
+          sleep = random( 0, seeds ) * delay
+
+          plant = document.createElement( 'div' )
+          plant.classList.add( 'plant' )
+
+          stem = document.createElement( 'div' )
+          stem.classList.add( 'stem' )
+
+          plant.append( stem )
+
+          leaves = random( 1, 6 )
+
+          for ( let j = 0; j < leaves; j++ )
+          {
+
+            leaf = document.createElement( 'div' )
+            leaf.classList.add( 'leaf' )
+
+            setTimeout( add, sleep + ( delay * ( j + 1 ) ), plant, leaf )
+
+          }
+
+          hide( plant )
+          setTimeout( show, sleep, plant )
+
+          garden.append( plant )
 
         }
 
-        hide( plant )
-        setTimeout( show, sleep, plant )
-
-        garden.append( plant )
-
       }
 
-    }
+      seed()
 
-    seed( random( 1, 6 ) )
+      window.addEventListener( 'click', seed )
 
     </script>
 
