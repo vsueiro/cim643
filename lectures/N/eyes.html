@@ -10,20 +10,19 @@
         margin: 0;
       }
 
-      html {
-        height: 100%;
-      }
-
+      html,
       body {
         height: 100%;
+        overflow: hidden;
+      }
+
+      #creature {
         display: flex;
         justify-content: center;
         align-items: center;
+        width: 100%;
+        height: 100%;
         background: Plum;
-      }
-
-      .creature {
-        display: flex;
       }
 
       .eye {
@@ -58,7 +57,7 @@
   </head>
   <body>
 
-    <div class="creature">
+    <div id="creature">
 
       <div class="eye">
         <div class="ball"></div>
