@@ -26,17 +26,24 @@ This page displays all projects submitted by students of the CIM103 course, fall
     display: flex;
     flex-wrap: wrap;
     list-style: none;
+    padding: 0;
   }
 
   #list li {
-    padding: 8px;
+    padding: 0 16px 16px 0;
     width: 50%;
   }
 
-  img {
+  #list figure {
+    margin: 0;
+  }
+
+  #list img {
     display: flex;
     width: 100%;
     aspect-ratio: 16/9;
+    object-fit: cover;
+    box-shadow: 0 0 0 1px #eee;
   }
 
   @media (min-width: 640px) {
@@ -68,9 +75,11 @@ This page displays all projects submitted by students of the CIM103 course, fall
       this.links.demo = document.createElement( 'a' )
 
       this.item = document.createElement( 'li' )
+      this.figure = document.createElement( 'figure' )
       this.image = document.createElement( 'img' )
-      this.paragraph = document.createElement( 'p' )
+      this.caption = document.createElement( 'figcaption' )
       this.heading = document.createElement( 'h3' )
+      this.paragraph = document.createElement( 'p' )
 
       this.profile = `https://github.com/${ this.username }`
       this.source = `${ this.profile }/${ this.course }`
@@ -90,7 +99,6 @@ This page displays all projects submitted by students of the CIM103 course, fall
           {
 
             this.image.src = this.thumbnail
-            this.heading.textContent = this.name
 
             this.links.source.href = this.source
             this.links.source.textContent = 'Source'
@@ -98,9 +106,13 @@ This page displays all projects submitted by students of the CIM103 course, fall
             this.links.demo.href = this.demo
             this.links.demo.textContent = 'Demo'
 
-            this.paragraph.append( this.links.demo, ' | ', this.links.source )
+            // this.hea
 
-            this.item.append( this.image, this.heading, this.paragraph )
+            this.heading.append( this.name )
+            this.paragraph.append( this.links.demo, ' | ', this.links.source )
+            this.caption.append( this.heading, this.paragraph )
+            this.figure.append( this.image, this.caption )
+            this.item.append( this.figure )
             list.append( this.item )
 
           }
