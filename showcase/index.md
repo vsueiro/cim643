@@ -13,7 +13,7 @@ This page displays all projects submitted by students of the CIM103 course, fall
 
 <ul id="list"></ul>
 
----
+## Can’t find your project?
 
 If your project is not listed, you might need to:
 
@@ -22,10 +22,6 @@ If your project is not listed, you might need to:
 3. Make sure the following image exists `CIM103/project-name/media/thumbnail.png`
 
 <style>
-
-  hr {
-    height: 1px !important;
-  }
 
   #list,
   #list * {
