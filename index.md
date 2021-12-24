@@ -74,6 +74,16 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
+## Drawing on `<canvas>`
+
+<video autoplay muted loop playsinline>
+  <source src="examples/canvas/thumbnail.mp4" type="video/mp4">
+</video>
+
+[Demo](examples/canvas) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/canvas)
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
+
 <style>
 
   hr {
