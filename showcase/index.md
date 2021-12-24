@@ -1,5 +1,7 @@
 # Showcase
 
+⚠️ This whole repository is a work in progress ⚠️ 
+
 This page displays all projects submitted by students of the CIM103 course, fall 2022.
 
 <label>
