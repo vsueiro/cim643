@@ -17,8 +17,8 @@ This page displays all projects submitted by students of the CIM103 course, fall
 
 If your project is not listed, you might need to:
 
-1. Add your name (and GitHub username) to [students.json][]
-2. Create a repository called `CIM103`
+1. Add your name (and GitHub username) to [students.json](https://github.com/vsueiro/CIM103/blob/main/showcase/students.json)
+2. Create a repository called `CIM103` in your GitHub account
 3. Make sure the following image exists `CIM103/project-name/media/thumbnail.png`
 
 <style>
@@ -57,7 +57,6 @@ If your project is not listed, you might need to:
   #list figcaption {
     margin: .5em 0;
   }
-
 
   #list img {
     display: flex;
