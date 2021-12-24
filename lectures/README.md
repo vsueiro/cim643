@@ -128,3 +128,10 @@ Adding a simple table because why not?
 | --- | --- | --- |
 | Some data | Some more data | data |
 | data | Some long data here | more data |
+
+
+<div id="test"></div>
+
+<script>
+  test.textContent = 'This website runs JavaScript!'
+</script>
