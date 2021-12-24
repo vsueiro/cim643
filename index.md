@@ -1,6 +1,6 @@
 # Lectures
 
-⚠️ This whole repository is a work in progress ⚠️
+⚠️ Work in progress ⚠️
 
 Check our [showcase](showcase/) to see all projects submitted by students.
 
