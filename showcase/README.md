@@ -38,6 +38,15 @@ This page displays all projects submitted by students of the CIM103 course, fall
     margin: 0;
   }
 
+  #list figure a:hover {
+    opacity: .5;
+  }
+
+  #list figcaption {
+    margin: 16px 0;
+  }
+
+
   #list img {
     display: flex;
     width: 100%;
@@ -78,8 +87,6 @@ This page displays all projects submitted by students of the CIM103 course, fall
       this.figure = document.createElement( 'figure' )
       this.image = document.createElement( 'img' )
       this.caption = document.createElement( 'figcaption' )
-      this.heading = document.createElement( 'h3' )
-      this.paragraph = document.createElement( 'p' )
 
       this.profile = `https://github.com/${ this.username }`
       this.source = `${ this.profile }/${ this.course }`
@@ -100,18 +107,14 @@ This page displays all projects submitted by students of the CIM103 course, fall
 
             this.image.src = this.thumbnail
 
-            this.links.source.href = this.source
-            this.links.source.textContent = 'Source'
-
             this.links.demo.href = this.demo
-            this.links.demo.textContent = 'Demo'
+            this.links.demo.append( this.image )
 
-            // this.hea
+            this.links.source.href = this.source
+            this.links.source.append( this.name )
 
-            this.heading.append( this.name )
-            this.paragraph.append( this.links.demo, ' | ', this.links.source )
-            this.caption.append( this.heading, this.paragraph )
-            this.figure.append( this.image, this.caption )
+            this.caption.append( 'By ', this.links.source )
+            this.figure.append( this.links.demo, this.caption )
             this.item.append( this.figure )
             list.append( this.item )
 
