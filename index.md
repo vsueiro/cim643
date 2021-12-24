@@ -10,70 +10,70 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ## Creating your first website
 
 <video autoplay muted loop playsinline>
-  <source src="examples/bio.mp4" type="video/mp4">
+  <source src="examples/bio/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](1/bio) \| [Source](https://github.com/vsueiro/CIM103/tree/main/lectures/1)
+[Demo](examples/bio) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/bio)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Applying style transitions
 
 <video autoplay muted loop playsinline>
-  <source src="examples/sky.mp4" type="video/mp4">
+  <source src="examples/sky/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](N/sky) \| [Source](https://github.com/vsueiro/CIM103/tree/main/lectures/N)
+[Demo](examples/sky) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/sky)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
 ## Creating 1,000+ objects with Classes
 
 <video autoplay muted loop playsinline>
-  <source src="examples/popup.mp4" type="video/mp4">
+  <source src="examples/popup/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](N/popup) \| [Source](https://github.com/vsueiro/CIM103/tree/main/lectures/N)
+[Demo](examples/popup) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/popup)
 
 Lorem ipsum dolor sit amet, consectetur.
 
 ## Generating random plants
 
 <video autoplay muted loop playsinline>
-  <source src="examples/garden.mp4" type="video/mp4">
+  <source src="examples/garden/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](#) \| [Source](#)
+[Demo](examples/garden) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/garden)
 
 Lorem ipsum dolor sit amet, consectetur.
 
 ## Creating a monster with fancy math
 
 <video autoplay muted loop playsinline>
-  <source src="examples/eyes.mp4" type="video/mp4">
+  <source src="examples/monster/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](#) \| [Source](#)
+[Demo](examples/monster) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/monster)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
 ## Exploring native HTML elements
 
 <video autoplay muted loop playsinline>
-  <source src="examples/to-do.mp4" type="video/mp4">
+  <source src="examples/to-do/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](#) \| [Source](#)
+[Demo](examples/to-do) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/to-do)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Listening for events
 
 <video autoplay muted loop playsinline>
-  <source src="examples/dark-mode.mp4" type="video/mp4">
+  <source src="examples/dark-mode/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](#) \| [Source](#)
+[Demo](examples/dark-mode) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/dark-mode)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
