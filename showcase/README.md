@@ -20,6 +20,26 @@ TODO: Display student projects by linking to their own GitHub pages, like:
 -->
 
 <script>
+
+  // Read list of students (and their GitHub @) from external file
+
+  // Fnction to update list:
+
+    // Get selected project from list
+    // Shuffles list (so there is no order)
+
+    // For each student in list
+      // If selected project was submitted
+        // Create item
+        // Create image
+        // Create author tag (with student’s name)
+        // Create link to the source code
+        // Add item to the list
+
+  // When user selects another project, run update function
+
+  // run update function on page load
+
   for ( let i = 0; i < 30; i++ )
   {
     let item = document.createElement( 'li' )
