@@ -5,46 +5,90 @@ This page displays all projects submitted by students of the CIM103 Web Lab cour
 <label>
   Filter by project:
   <select id="project">
-    <option value="1">Lorem ipsum</option>
-    <option value="2">Dolor sit amet</option>
-    <option value="3">Consectetur</option>
-    <option value="4">Adipisicing elit</option>
+    <option value="project-1">Project 1</option>
+    <option value="project-2">Project 2</option>
+    <option value="project-3">Project 3</option>
   </select>
 </label>
 
 <ul id="list"></ul>
 
-<!--
-TODO: Display student projects by linking to their own GitHub pages, like:
-<img src="https://username.github.io/CIM103/image.png">
--->
+<style>
+  img {
+    max-width: 100%;
+    height: 240px;
+  }
+</style>
 
 <script>
 
-  // Read list of students (and their GitHub @) from external file
-
-  // Fnction to update list:
-
-    // Get selected project from list
-    // Shuffles list (so there is no order)
-
-    // For each student in list
-      // If selected project was submitted
-        // Create item
-        // Create image
-        // Create author tag (with student’s name)
-        // Create link to the source code
-        // Add item to the list
-
-  // When user selects another project, run update function
-
-  // run update function on page load
-
-  for ( let i = 0; i < 30; i++ )
+  class Item
   {
-    let item = document.createElement( 'li' )
+    constructor( student )
+    {
+      this.name = student.name
+      this.github = student.github
 
-    item.textContent = `This is item ${i}.`
-    list.append( item)
+      this.item = document.createElement( 'li' )
+      this.image = document.createElement( 'img' )
+      this.link = document.createElement( 'a' )
+
+      this.base = `https://${ this.github }.github.io/CIM103/${ project.value }/`
+      this.thumbnail = `${ this.base }media/thumbnail.png`
+
+      this.update()
+
+    }
+    update() {
+
+      fetch( this.thumbnail )
+
+        .then( response => {
+
+          if ( response.ok )
+          {
+
+            this.image.src = this.thumbnail
+            this.link.href = this.base
+            this.link.textContent = this.name
+
+            this.item.append( this.image, this.link )
+            list.append( this.item )
+
+          }
+
+        } )
+
+    }
   }
+
+  class List
+  {
+    constructor( file )
+    {
+
+      fetch( file )
+        .then( response => response.json() )
+        .then( students => {
+          this.students = students
+          this.shuffle()
+          this.update()
+        } )
+
+      project.addEventListener( 'change', () => { this.update() } )
+
+    }
+    shuffle()
+    {
+      this.students.sort( () => Math.random() - 0.5 )
+    }
+    update()
+    {
+      list.replaceChildren()
+      this.students.forEach( student => new Item( student ) )
+    }
+  }
+
+  new List( 'students.json' )
+
 </script>
