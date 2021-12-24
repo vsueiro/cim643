@@ -27,10 +27,12 @@ This page displays all projects submitted by students of the CIM103 course, fall
     flex-wrap: wrap;
     list-style: none;
     padding: 0;
+    margin-top: 0;
   }
 
   #list li {
-    padding: 0 16px 16px 0;
+    margin: 0;
+    padding: 0 1em 1em 0;
     width: 50%;
   }
 
@@ -43,7 +45,7 @@ This page displays all projects submitted by students of the CIM103 course, fall
   }
 
   #list figcaption {
-    margin: 16px 0;
+    margin: .5em 0;
   }
 
 
