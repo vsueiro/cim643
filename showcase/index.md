@@ -19,7 +19,7 @@ If your project is not listed, you might need to:
 
 1. Add your name (and GitHub username) to [students.json][]
 2. Create a repository called `CIM103`
-3. Make sure the following image existis `CIM103/project-1/media/thumbnail.png`
+3. Make sure the following image exists `CIM103/project-name/media/thumbnail.png`
 
 <style>
 
