@@ -85,6 +85,12 @@ What about some ★★★☆☆?
 - [ ] Nada
 - [ ] Nil
 
+What about this one?
+
+[x] Nothing
+[ ] Nada
+[ ] Nil
+
 Here is an example of JavaScript:
 
 ```javascript
