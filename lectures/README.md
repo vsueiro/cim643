@@ -8,52 +8,66 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 
 ## Creating your first website
+
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/bio.mp4" type="video/mp4">
 </video>
 `HTML` `CSS`
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Applying style transitions
+
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/sky.mp4" type="video/mp4">
 </video>
 `HTML` `CSS`
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
 ## Creating 1,000+ objects with Classes
+
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/popup.mp4" type="video/mp4">
 </video>
 `HTML` `CSS` `JS`
+
 Lorem ipsum dolor sit amet, consectetur.
 
 ## Generating random plants
+
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/garden.mp4" type="video/mp4">
 </video>
 `HTML` `CSS` `JS`
+
 Lorem ipsum dolor sit amet, consectetur.
 
 ## Creating a monster with fancy math
+
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/eyes.mp4" type="video/mp4">
 </video>
 `HTML` `CSS` `JS`
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
 ## Exploring native HTML elements
+
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/to-do.mp4" type="video/mp4">
 </video>
 `HTML`
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Listening for events
+
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/dark-mode.mp4" type="video/mp4">
 </video>
 `HTML` `JS`
+
 Lorem ipsum dolor sit amet, consectetur.
 
 ## This is another heading
