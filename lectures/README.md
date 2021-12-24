@@ -73,18 +73,38 @@ What about some ★★★☆☆?
 
 Here is an example of JavaScript:
 
-    let name = 'Vini'
+```javascript
+let name = 'Vini'
 
-    // You can do:
-    console.log( 'Hello, ' + name )
+// You can do:
+console.log( 'Hello, ' + name )
 
-    // Which is the same as:
-    console.log( `Hello, ${name}` )
+// Which is the same as:
+console.log( `Hello, ${name}` )
+
+function test( arg ) {
+  const obj = {
+    name : 'Vini',
+    age : 1
+  }
+}
+```
+
+```html
+<p class="center">Hi</p>
+```
+
+```css
+p::after {
+  content: '!';
+  margin: 4px;
+}
+```
 
 
 Adding a simple table because why not?
 
 | Header 1 | Another header here | This is a long header |
 | --- | --- | --- |
-| Some data | Some more data | data | 
+| Some data | Some more data | data |
 | data | Some long data here | more data |
