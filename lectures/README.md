@@ -80,3 +80,11 @@ Here is an example of JavaScript:
 
     // Which is the same as:
     console.log( `Hello, ${name}` )
+
+
+Adding a simple table because why not?
+
+| Header 1 | Another header here | This is a long header |
+| --- | --- | --- |
+| Some data | Some more data | data | 
+| data | Some long data here | more data |
