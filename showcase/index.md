@@ -24,7 +24,7 @@ If your project is not listed, you might need to:
 <style>
 
   hr {
-    height: 1px;
+    height: 1px !important;
   }
 
   #list,

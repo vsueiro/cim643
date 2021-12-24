@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 <style>
 
   hr {
-    height: 1px;
+    height: 1px !important;
   }
 
   video {
