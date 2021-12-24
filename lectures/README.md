@@ -13,7 +13,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
   <source src="examples/bio.mp4" type="video/mp4">
 </video>
 
-[Demo](1/bio) [Source](https://github.com/vsueiro/CIM103/tree/main/lectures/1)
+[Demo](1/bio) | [Source](https://github.com/vsueiro/CIM103/tree/main/lectures/1)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
@@ -22,7 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/sky.mp4" type="video/mp4">
 </video>
-[▶ Demo](N/sky) [Source ↗](https://github.com/vsueiro/CIM103/tree/main/lectures/N)
+
+[Demo](N/sky) | [Source](https://github.com/vsueiro/CIM103/tree/main/lectures/N)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
@@ -31,7 +32,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/popup.mp4" type="video/mp4">
 </video>
-[▶ Demo](N/popup) [Source](https://github.com/vsueiro/CIM103/tree/main/lectures/N)
+
+[Demo](N/popup) | [Source](https://github.com/vsueiro/CIM103/tree/main/lectures/N)
 
 Lorem ipsum dolor sit amet, consectetur.
 
@@ -41,6 +43,8 @@ Lorem ipsum dolor sit amet, consectetur.
   <source src="examples/garden.mp4" type="video/mp4">
 </video>
 
+[Demo](#) | [Source](#)
+
 Lorem ipsum dolor sit amet, consectetur.
 
 ## Creating a monster with fancy math
@@ -48,6 +52,8 @@ Lorem ipsum dolor sit amet, consectetur.
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/eyes.mp4" type="video/mp4">
 </video>
+
+[Demo](#) | [Source](#)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
@@ -57,6 +63,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   <source src="examples/to-do.mp4" type="video/mp4">
 </video>
 
+[Demo](#) | [Source](#)
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Listening for events
@@ -64,3 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 <video height="240" autoplay muted loop playsinline>
   <source src="examples/dark-mode.mp4" type="video/mp4">
 </video>
+
+[Demo](#) | [Source](#)
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
