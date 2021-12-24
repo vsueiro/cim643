@@ -54,6 +54,16 @@ Lorem ipsum dolor sit amet, consectetur.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
+## Drawing on `<canvas>`
+
+<video autoplay muted loop playsinline>
+  <source src="examples/canvas/thumbnail.mp4" type="video/mp4">
+</video>
+
+[Demo](examples/canvas) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/canvas)
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
+
 ## Exploring native HTML elements
 
 <video autoplay muted loop playsinline>
@@ -73,16 +83,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 [Demo](examples/dark-mode) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/dark-mode)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
-## Drawing on `<canvas>`
-
-<video autoplay muted loop playsinline>
-  <source src="examples/canvas/thumbnail.mp4" type="video/mp4">
-</video>
-
-[Demo](examples/canvas) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/canvas)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
 <style>
 
