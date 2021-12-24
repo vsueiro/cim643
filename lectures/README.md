@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur.
 
 ## This is another heading
 
-Here comes more test. And a list:
+Here comes more test, and a [link](https://vsueiro.com). And a list:
 
 -   Red
 -   Green
@@ -104,8 +104,12 @@ This is some quote with styles:
 >
 >     return shell_exec("echo $input | $markdown_script");
 
-Here is an example of AppleScript:
+Here is an example of JavaScript:
 
-  tell application "Foo"
-    beep
-  end tell
+    let name = 'Vini'
+
+    // You can do:
+    console.log( 'Hello, ' + name )
+
+    // Which is the same as:
+    console.log( `Hello, ${name}` )
