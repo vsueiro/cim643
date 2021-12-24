@@ -78,6 +78,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 <style>
+
+  hr {
+    height: 1px;
+  }
+
   video {
     max-width: 100%;
     max-height: 240px;
