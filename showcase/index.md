@@ -23,6 +23,10 @@ If your project is not listed, you might need to:
 
 <style>
 
+  hr {
+    height: 1px;
+  }
+
   #list,
   #list * {
     box-sizing: border-box;
@@ -33,7 +37,7 @@ If your project is not listed, you might need to:
     flex-wrap: wrap;
     list-style: none;
     padding: 0;
-    margin: 1em 0;
+    margin: 2em 0;
   }
 
   #list li {
