@@ -2,8 +2,6 @@
 
 This page displays all projects submitted by students of the CIM103 course, fall 2022.
 
-## Student projects
-
 <label>
   Filter by:
   <select id="project">
@@ -14,6 +12,14 @@ This page displays all projects submitted by students of the CIM103 course, fall
 </label>
 
 <ul id="list"></ul>
+
+---
+
+If your project is not listed, you might need to:
+
+1. Add your name (and GitHub username) to [students.json][]
+2. Create a repository called `CIM103`
+3. Make sure the following image existis `CIM103/project-1/media/thumbnail.png`
 
 <style>
 
@@ -27,7 +33,7 @@ This page displays all projects submitted by students of the CIM103 course, fall
     flex-wrap: wrap;
     list-style: none;
     padding: 0;
-    margin-top: 0;
+    margin: 1em 0;
   }
 
   #list li {
