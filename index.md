@@ -83,5 +83,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
   video {
     max-width: 100%;
     max-height: 240px;
+    box-shadow: 0 0 0 1px #eee;
   }
+
+
 </style>
