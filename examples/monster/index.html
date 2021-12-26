@@ -237,8 +237,8 @@
         }
         listen()
         {
-          window.addEventListener( 'mousemove', event => { this.update( event ) } )
-          window.addEventListener( 'click', this.morph )
+          document.addEventListener( 'mousemove', event => { this.update( event ) } )
+          document.addEventListener( 'click', this.morph )
         }
         morph()
         {
