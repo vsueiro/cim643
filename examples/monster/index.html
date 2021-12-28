@@ -118,8 +118,19 @@
         }
         update( event )
         {
-          this.x = event.clientX / window.innerWidth
-          this.y = event.clientY / window.innerHeight
+
+          let x = event.clientX
+          let y = event.clientY
+
+          if ( event.type === 'touchmove' )
+          {
+            x = event.touches[ 0 ].clientX
+            y = event.touches[ 0 ].clientY
+          }
+
+          this.x = x / window.innerWidth
+          this.y = y / window.innerHeight
+
         }
       }
 
