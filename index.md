@@ -57,10 +57,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Drawing on `<canvas>`
 
 <video autoplay muted loop playsinline>
-  <source src="examples/canvas/thumbnail.mp4" type="video/mp4">
+  <source src="examples/particles/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](examples/canvas) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/canvas)
+[Demo](examples/particles) \| [Source](https://github.com/vsueiro/CIM103/tree/main/examples/particles)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
