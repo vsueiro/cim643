@@ -5,7 +5,7 @@
     <title>Particles</title>
 
   </head>
-  <body style="margin:0;">
+  <body>
 
     <canvas></canvas>
 
@@ -19,7 +19,7 @@
       {
         constructor()
         {
-          this.radius = 8
+          this.radius = 4
 
           this.position = {}
           this.velocity = {}
@@ -65,8 +65,8 @@
 
       function setup()
       {
-        canvas.width = 1280
-        canvas.height = 720
+        canvas.width = 640
+        canvas.height = 360
 
         for ( let i = 0; i < 1000; i++ )
           particles.push( new Particle() )
