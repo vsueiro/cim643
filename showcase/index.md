@@ -1,6 +1,6 @@
 # Showcase
 
-This page displays all projects submitted by students of the CIM103 course, fall 2022.
+This page displays all projects publicly submitted by students of the CIM103 course, fall 2022.
 
 <label>
   Filter by:
