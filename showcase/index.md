@@ -21,5 +21,7 @@ If your project is not listed, you might need to:
 2. Create a repository called `CIM103` in your GitHub account
 3. Make sure the following image exists `CIM103/project-name/media/thumbnail.png`
 
+---
+
 <style>@import "index.css"</style>
 <script src="index.js"></script>
