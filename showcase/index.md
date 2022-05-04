@@ -1,6 +1,6 @@
 # Showcase
 
-This page displays all projects publicly submitted by students of the CIM103 course, fall 2022.
+This page displays all projects publicly submitted by students of the CIM443/643 course, fall 2022.
 
 <label>
   Filter by:
@@ -17,9 +17,9 @@ This page displays all projects publicly submitted by students of the CIM103 cou
 
 If your project is not listed, you might need to:
 
-1. Add your name (and GitHub username) to [students.json](https://github.com/vsueiro/CIM103/blob/main/showcase/students.json)
-2. Create a repository called `CIM103` in your GitHub account
-3. Make sure the following image exists `CIM103/project-name/media/thumbnail.png`
+1. Add your name (and GitHub username) to [students.json](https://github.com/vsueiro/cim443/blob/main/showcase/students.json)
+2. Create a repository called `cim443` in your GitHub account
+3. Make sure the following image exists `cim443/project-name/media/thumbnail.png`
 
 ---
 
