@@ -4,4 +4,4 @@
 
 Class material for CIM443/643 students at University of Miami.
 
-Find all materials and lectures [on this website](https://vsueiro.github.io/cim443/).
+Find all materials, examples and lectures [on this website](https://vsueiro.github.io/cim443/).

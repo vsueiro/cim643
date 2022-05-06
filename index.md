@@ -1,4 +1,4 @@
-# Lectures
+# Examples
 
 ⚠️ Work in progress ⚠️
 
