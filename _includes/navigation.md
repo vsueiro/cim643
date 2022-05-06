@@ -1,8 +1,8 @@
-[Lectures](/cim443/lectures/)
+[Lectures](/cim443/lectures)
 \|
-[Examples](/cim443/examples/)
+[Examples](/cim443/examples)
 \|
-[Showcase](/cim443/showcase/)
+[Showcase](/cim443/showcase)
 
 <!--
 <nav>
