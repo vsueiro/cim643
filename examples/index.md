@@ -4,7 +4,7 @@
 
 ⚠️ Work in progress ⚠️
 
-Check our [showcase](cim443/showcase) to see all projects submitted by students.
+Check our [showcase](/cim443/showcase) to see all projects submitted by students.
 
 ## Creating your first website
 
@@ -12,7 +12,7 @@ Check our [showcase](cim443/showcase) to see all projects submitted by students.
   <source src="examples/bio/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](cim443/examples/bio) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/bio)
+[Demo](/cim443/examples/bio) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/bio)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
   <source src="examples/sky/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](cim443/examples/sky) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/sky)
+[Demo](/cim443/examples/sky) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/sky)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   <source src="examples/popup/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](cim443/examples/popup) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/popup)
+[Demo](/cim443/examples/popup) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/popup)
 
 Lorem ipsum dolor sit amet, consectetur.
 
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur.
   <source src="examples/garden/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](cim443/examples/garden) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/garden)
+[Demo](/cim443/examples/garden) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/garden)
 
 Lorem ipsum dolor sit amet, consectetur.
 
@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur.
   <source src="examples/monster/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](cim443/examples/monster) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/monster)
+[Demo](/cim443/examples/monster) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/monster)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   <source src="examples/particles/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](cim443/examples/particles) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/particles)
+[Demo](/cim443/examples/particles) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/particles)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
 
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   <source src="examples/to-do/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](cim443/examples/to-do) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/to-do)
+[Demo](/cim443/examples/to-do) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/to-do)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
   <source src="examples/dark-mode/thumbnail.mp4" type="video/mp4">
 </video>
 
-[Demo](cim443/examples/dark-mode) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/dark-mode)
+[Demo](/cim443/examples/dark-mode) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/dark-mode)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
