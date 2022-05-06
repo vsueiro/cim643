@@ -2,7 +2,7 @@
 
 # Lectures
 
-Below you’ll find the course outline. Classes were divided into 3 modules, with 5 weeks each. In each module, students will have 4 weeks to create and develop a website – which will be presented to class during the last week of each the module.
+Below you’ll find the course outline. Classes are divided into 3 modules, with 5 weeks each. In each module, students have 4 weeks to create a website – which will be presented to class during the last week of that module.
 
 📍 This content is subject to change at any time.
 
