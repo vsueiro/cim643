@@ -8,9 +8,14 @@ Check our [showcase](/cim443/showcase) to see all projects submitted by students
 
 ## Creating your first website
 
-<video autoplay muted loop playsinline>
-  <source src="bio/thumbnail.mp4" type="video/mp4">
-</video>
+bio/thumbnail.mp4
+
+./bio/thumbnail.mp4
+
+https://github.com/vsueiro/cim643/blob/main/examples/bio/thumbnail.mp4
+
+https://raw.githubusercontent.com/vsueiro/cim643/main/examples/bio/thumbnail.mp4
+
 
 [Demo](/cim443/examples/bio) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/bio)
 
