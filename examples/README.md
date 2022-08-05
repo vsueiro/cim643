@@ -17,6 +17,10 @@ https://github.com/vsueiro/cim643/blob/main/examples/bio/thumbnail.mp4
 https://raw.githubusercontent.com/vsueiro/cim643/main/examples/bio/thumbnail.mp4
 
 
+
+https://user-images.githubusercontent.com/11807768/182975861-75d2d27b-06c4-4e65-94bb-e9e1c31cb84f.mp4
+
+
 [Demo](/cim443/examples/bio) \| [Source](https://github.com/vsueiro/cim443/tree/main/examples/bio)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
