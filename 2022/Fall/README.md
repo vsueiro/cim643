@@ -13,6 +13,16 @@ This course focuses on the job-ready skills and production workflow techniques i
 - Provide a foundation for working on web development projects independently.
 - Provide practice creating modern, adaptable layouts.
 
+### Course Timeline
+
+![Weekly gantt chart](assets/cim643.png)
+
+#### Presentation week
+![Character with microphone](assets/presentation-week.png)
+
+#### Looking ahead
+![Character with telescope](assets/looking-ahead.png)
+
 ### Course Topics
 
 The schedule will evolve as the semester goes on. These are some topics we’ll cover during the semester.
