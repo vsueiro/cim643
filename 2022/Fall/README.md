@@ -17,6 +17,19 @@ This course focuses on the job-ready skills and production workflow techniques i
 
 ![Weekly gantt chart](assets/cim643.png)
 
+#### Introduction
+
+![2 weeks](assets/part-0.png)
+
+#### First website
+![4 weeks](assets/part-1.png)
+
+#### Second website
+![4 weeks](assets/part-2.png)
+
+#### Third website
+![5 weeks](assets/part-3.png)
+
 #### Presentation week
 ![Character with microphone](assets/presentation-week.png)
 
