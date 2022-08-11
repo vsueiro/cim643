@@ -8,12 +8,27 @@ Classes take place on Tuesdays and Thursdays, from 12:30pm to 1:45pm.
 
 This course focuses on the job-ready skills and production workflow techniques in high demand for front end web developers. Students will learn, practice and demonstrate the skills and principles needed to make effective use of these technologies.
 
-### Course Goal & Objectives
+### Course goals
 
-- Provide an introduction to JavaScript.
-- Provide experience building interactive websites and modules.
-- Provide a foundation for working on web development projects independently.
-- Provide practice creating modern, adaptable layouts.
+By the end of this course, students should be able to:
+
+- Create interactive prototypes for their ideas
+- Collaborate with development teams efficiently
+- Apply computational thinking skills to other fields
+
+### Course topics
+
+In order to reach the desired goals, students will learn concepts and techniques related to the 3 core technologies of the web (with an emphasis on the last one, so we can build custom interactions):
+
+1. 🧱 [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) (Hypertext Markup Language)
+2. 🎨 [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) (Cascading Stylesheets)
+3. ✨ [JS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (JavaScript)
+
+This course also covers tools that help us organize and scale up our projects:
+
+- [GitHub](https://github.com/) (to collaborate with other people)
+- [React](https://reactjs.org/) (to organize your app into components)
+- [CodeSandbox](https://codesandbox.io/) (to use react without instlling stuff)
 
 ### Course Timeline
 
@@ -38,6 +53,7 @@ This course focuses on the job-ready skills and production workflow techniques i
 #### Looking ahead
 ![Character with telescope](assets/looking-ahead.png)
 
+<!--
 ### Course Topics
 
 The schedule will evolve as the semester goes on. These are some topics we’ll cover during the semester.
@@ -67,6 +83,8 @@ We’ll be using Codepen to prototype and practice concepts quickly. You will be
 #### GitHub
 
 We’ll be using GitHub to back up, share, and publish our code.
+
+-->
 
 ## Grading
 
