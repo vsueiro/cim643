@@ -32,20 +32,22 @@ This course also covers tools that help us organize and scale up our projects:
 
 ### Course Timeline
 
-![Weekly gantt chart shows 16 weeks of class, divided into 5 blocks: “Introduction”, “First website”, “Second website”, “Third website”, and “Looking ahead. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
+We will not learn everything at once. Instead, the course is split into 5 steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
+
+![Weekly gantt chart shows 16 weeks of class, divided into 5 steps: “Introduction”, “First website”, “Second website”, “Third website”, and “Looking ahead. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
 
 #### Introduction
 
-![Chart shows a block with 2 weeks](assets/part-0.png)
+![Chart shows a step with 2 weeks](assets/part-0.png)
 
 #### First website
-![Chart shows a block with 3 weeks of class plus 1 presentation week 🎤](assets/part-1.png)
+![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-1.png)
 
 #### Second website
-![Chart shows a block with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
+![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
 
 #### Third website
-![Chart shows a block with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
+![Chart shows a step with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
 
 #### Presentation week
 ![Character with microphone](assets/presentation-week.png)
