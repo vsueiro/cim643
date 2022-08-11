@@ -28,7 +28,7 @@ This course also covers tools that help us organize and scale up our projects:
 
 - [GitHub](https://github.com/) (to collaborate with other people)
 - [React](https://reactjs.org/) (to organize your app into components)
-- [CodeSandbox](https://codesandbox.io/) (to use react without instlling stuff)
+- [CodeSandbox](https://codesandbox.io/) (to use react without installing stuff)
 
 ### Course Timeline
 
