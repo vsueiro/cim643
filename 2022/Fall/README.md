@@ -17,7 +17,7 @@ This course focuses on the job-ready skills and production workflow techniques i
 
 ### Course Timeline
 
-![Weekly gantt chart](assets/cim643.png)
+![Weekly gantt chart shows 16 weeks of class, divided into 5 blocks: “Introduction”, “First website”, “Second website”, “Third website”, and “Looking ahead”](assets/cim643.png)
 
 #### Introduction
 
