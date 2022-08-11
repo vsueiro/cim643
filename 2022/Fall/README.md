@@ -17,20 +17,20 @@ This course focuses on the job-ready skills and production workflow techniques i
 
 ### Course Timeline
 
-![Weekly gantt chart shows 16 weeks of class, divided into 5 blocks: “Introduction”, “First website”, “Second website”, “Third website”, and “Looking ahead”](assets/cim643.png)
+![Weekly gantt chart shows 16 weeks of class, divided into 5 blocks: “Introduction”, “First website”, “Second website”, “Third website”, and “Looking ahead. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
 
 #### Introduction
 
-![2 weeks](assets/part-0.png)
+![Chart shows a block with 2 weeks](assets/part-0.png)
 
 #### First website
-![4 weeks](assets/part-1.png)
+![Chart shows a block with 3 weeks of class plus 1 presentation week 🎤](assets/part-1.png)
 
 #### Second website
-![4 weeks](assets/part-2.png)
+![Chart shows a block with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
 
 #### Third website
-![5 weeks](assets/part-3.png)
+![Chart shows a block with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
 
 #### Presentation week
 ![Character with microphone](assets/presentation-week.png)
