@@ -48,12 +48,12 @@ Week | Weekday | Date | Preparation | Content | Notes
 
 <table>
     <tr>
-        <td>Week</td>
-        <td>Weekday</td>
-        <td>Date</td>
-        <td>Preparation</td>
-        <td>Content</td>
-        <td>Notes</td>
+        <th>Week</th>
+        <th>Weekday</th>
+        <th>Date</th>
+        <th>Preparation</th>
+        <th>Content</th>
+        <th>Notes</th>
     </tr>
     <tr>
         <td rowspan=2>1</td>
