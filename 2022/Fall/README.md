@@ -4,11 +4,11 @@ This is the main document for the CIM 443/643 course at University of Miami, Fal
 
 Classes take place on Tuesdays and Thursdays, from 12:30pm to 1:45pm.
 
-## About the course
+## About the Course
 
 This course focuses on the job-ready skills and production workflow techniques in high demand for front end web developers. Students will learn, practice and demonstrate the skills and principles needed to make effective use of these technologies.
 
-### Course goals
+### Course Goals
 
 By the end of this course, students should be able to:
 
@@ -16,7 +16,7 @@ By the end of this course, students should be able to:
 - Collaborate with development teams efficiently
 - Apply computational thinking skills to other fields
 
-### Course topics
+### Course Topics
 
 In order to reach the desired goals, students will learn concepts and techniques related to the 3 core technologies of the web (with an emphasis on the last one):
 
@@ -40,16 +40,16 @@ We will not learn everything at once. Instead, the course is split into 5 steps.
 
 ![Chart shows a step with 2 weeks](assets/part-0.png)
 
-#### First website
+#### First Website
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-1.png)
 
-#### Second website
+#### Second Website
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
 
-#### Third website
+#### Third Website
 ![Chart shows a step with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
 
-#### Presentation week
+#### Presentation Week
 ![Character with microphone](assets/presentation-week.png)
 
 #### Looking ahead
@@ -95,9 +95,11 @@ quality of work, etc.
 
 ### Grading Breakdown
 
+<!--
 - Discussions & Exercises: 50%
 - Project 1: 25%
 - Project 2: 25%
+-->
 
 ### Grade Scale
 
