@@ -370,61 +370,53 @@ quality of work, etc.
         <th>Points</th>
     </tr>
     <tr>
-        <td rowspan=2>Introduction</td>
+        <td>Introduction</td>
         <td>…</td>
-        <td>…</td>
-    </tr>
-    <tr>
-        <td>…</td>
-        <td>…</td>
+        <td>5</td>
     </tr>
     <tr>
         <td rowspan=3>First website</td>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
         <td rowspan=3>Second website</td>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
         <td rowspan=3>Third website</td>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
         <td>…</td>
-        <td>…</td>
+        <td>10</td>
     </tr>
     <tr>
-        <td rowspan=2>Looking ahead</td>
+        <td>Looking ahead</td>
         <td>…</td>
-        <td>…</td>
-    </tr>
-    <tr>
-        <td>…</td>
-        <td>…</td>
+        <td>5</td>
     </tr>
 </table>
 
