@@ -371,51 +371,51 @@ quality of work, etc.
     </tr>
     <tr>
         <td>Introduction</td>
-        <td>…</td>
+        <td>🔍 &nbsp;Critique</td>
         <td>5</td>
     </tr>
     <tr>
         <td rowspan=3>First website</td>
-        <td>…</td>
+        <td>✏️ &nbsp;Planning</td>
         <td>10</td>
     </tr>
     <tr>
-        <td>…</td>
+        <td>🎤 &nbsp;Presentation</td>
         <td>10</td>
     </tr>
     <tr>
-        <td>…</td>
+        <td>💻 &nbsp;Submission</td>
         <td>10</td>
     </tr>
     <tr>
         <td rowspan=3>Second website</td>
-        <td>…</td>
+        <td>✏️ &nbsp;Planning</td>
         <td>10</td>
     </tr>
     <tr>
-        <td>…</td>
+        <td>🎤 &nbsp;Presentation</td>
         <td>10</td>
     </tr>
     <tr>
-        <td>…</td>
+        <td>💻 &nbsp;Submission</td>
         <td>10</td>
     </tr>
     <tr>
         <td rowspan=3>Third website</td>
-        <td>…</td>
+        <td>✏️ &nbsp;Planning</td>
         <td>10</td>
     </tr>
     <tr>
-        <td>…</td>
+        <td>🎤 &nbsp;Presentation</td>
         <td>10</td>
     </tr>
     <tr>
-        <td>…</td>
+        <td>💻 &nbsp;Submission</td>
         <td>10</td>
     </tr>
     <tr>
         <td>Looking ahead</td>
-        <td>…</td>
+        <td>🔭 &nbsp;Self-reflection</td>
         <td>5</td>
     </tr>
 </table>
