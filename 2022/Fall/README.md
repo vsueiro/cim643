@@ -34,7 +34,7 @@ This course also covers tools that help us organize and scale up our projects:
 
 We will not learn everything at once. Instead, the course is split into 5 steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
 
-![Weekly gantt chart shows 16 weeks of class, divided into 5 steps: “Introduction”, “First website”, “Second website”, “Third website”, and “Looking ahead. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
+![Weekly gantt chart shows 16 weeks of class, divided into 5 steps: “Introduction”, “First project, “Second project, “Third project, and “Looking ahead. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
 
 After a couple of weeks of introduction, students begin working on projects. There are 3 individual projects (of increasing complexity) – and students will have around 3 weeks to create each one of them, from ideation to coding.
 
@@ -89,7 +89,7 @@ After the presentation, students are free to adjust the project (based on that f
     </tr>
 </table>
 
-#### First Website
+#### First Project
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-1.png)
 
 <table>
@@ -154,7 +154,7 @@ After the presentation, students are free to adjust the project (based on that f
     </tr>
 </table>
 
-#### Second Website
+#### Second Project
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
 
 <table>
@@ -219,7 +219,7 @@ After the presentation, students are free to adjust the project (based on that f
     </tr>
 </table>
 
-#### Third Website
+#### Third Project
 ![Chart shows a step with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
 
 <table>
