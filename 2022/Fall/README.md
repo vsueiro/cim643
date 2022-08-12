@@ -36,15 +36,22 @@ We will not learn everything at once. Instead, the course is split into 5 steps.
 
 ![Weekly gantt chart shows 16 weeks of class, divided into 5 steps: “Introduction”, “First website”, “Second website”, “Third website”, and “Looking ahead. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
 
+After a couple of weeks of introduction, students begin working on projects. There are 3 individual projects (of increasing complexity) – and students will have around 3 weeks to create each one of them, from ideation to coding.
+
+#### Presentation week
+
+At the end of each project step, we have **presentation week** – imagine this to be you 3× during the semester:
+
+![Character with microphone](assets/presentation-week.png)
+
+On presentation week, both classes of that week will be dedicated to presentation and discussion of projects. Half of the students present on Tuesday and half on Thursday. Each student has ≈5 min to present their website and get feedback.
+
+After the presentation, students are free to adjust the project (based on that feedback) and submit it for grading (prior to the beginning of the first class of the following week).
+
+### Course Content
+
 #### Introduction
 ![Chart shows a step with 2 weeks](assets/part-0.png)
-
-Week | Weekday | Date | Preparation | Content | Notes
----|---|---|---|---|---
-1 | Tue | Aug 23 |  | Lorem ipsum dolor sit amet, consectetur adipiscing elit |
-1 | Thu | Aug 25 |  | Sed ut eros enim. Sed efficitur convallis blandit |
-2 | Tue | Aug 30 |  | Nunc posuere massa mi, in elementum nunc vestibulum eget |
-2 | Thu | Sep 1 |  | Maecenas auctor ex sed dolor egestas |
 
 <table>
     <tr>
@@ -53,99 +60,268 @@ Week | Weekday | Date | Preparation | Content | Notes
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
-        <th>Notes</th>
     </tr>
     <tr>
         <td rowspan=2>1</td>
         <td>Tue</td>
-        <td>Aug&nbsp;23</td>
+        <td>Aug 23</td>
         <td></td>
         <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
-        <td></td>
     </tr>
     <tr>
-        <!-- <td>1</td> -->
         <td>Thu</td>
-        <td>Aug&nbsp;25</td>
+        <td>Aug 25</td>
         <td></td>
         <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
-        <td></td>
     </tr>
     <tr>
         <td rowspan=2>2</td>
         <td>Tue</td>
-        <td>Aug&nbsp;30</td>
+        <td>Aug 30</td>
         <td></td>
         <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
-        <td></td>
     </tr>
     <tr>
-        <!-- <td>2</td> -->
         <td>Thu</td>
-        <td>Sep&nbsp;1</td>
+        <td>Sep 1</td>
         <td></td>
         <td>Maecenas auctor ex sed dolor egestas</td>
-        <td></td>
     </tr>
 </table>
 
 #### First Website
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-1.png)
 
-Week | Weekday | Date | Preparation | Content | Notes
----|---|---|---|---|---
-3 | x | x |  | x | 
-3 | x | x |  | x | 
-4 | x | x |  | x | 
-4 | x | x |  | x | 
-5 | x | x |  | x | 
-5 | x | x |  | x | 
-6 | x | x |  | x | 
-6 | x | x |  | x | 
-
+<table>
+    <tr>
+        <th>Week</th>
+        <th>Weekday</th>
+        <th>Date</th>
+        <th>Preparation</th>
+        <th>Content</th>
+    </tr>
+    <tr>
+        <td rowspan=2>3</td>
+        <td>Tue</td>
+        <td>Sep 6</td>
+        <td></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Sep 8</td>
+        <td></td>
+        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+    </tr>
+    <tr>
+        <td rowspan=2>4</td>
+        <td>Tue</td>
+        <td>Sep 13</td>
+        <td></td>
+        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Sep 15</td>
+        <td></td>
+        <td>Maecenas auctor ex sed dolor egestas</td>
+    </tr>
+    <tr>
+        <td rowspan=2>5</td>
+        <td>Tue</td>
+        <td>Sep 20</td>
+        <td></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Sep 22</td>
+        <td></td>
+        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+    </tr>
+    <tr>
+        <td rowspan=2>6</td>
+        <td>Tue</td>
+        <td>Sep 27</td>
+        <td></td>
+        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Sep 29</td>
+        <td></td>
+        <td>Maecenas auctor ex sed dolor egestas</td>
+    </tr>
+</table>
 
 #### Second Website
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
 
-Week | Weekday | Date | Preparation | Content | Notes
----|---|---|---|---|---
-7 | x | x |  | x | 
-7 | x | x |  | x | 
-8 | x | x |  | x | 
-8 | x | x |  | x | 
-9 | x | x |  | x | 
-9 | x | x |  | x | 
-10 | x | x |  | x | 
-10 | x | x |  | x | 
+<table>
+    <tr>
+        <th>Week</th>
+        <th>Weekday</th>
+        <th>Date</th>
+        <th>Preparation</th>
+        <th>Content</th>
+    </tr>
+    <tr>
+        <td rowspan=2>7</td>
+        <td>Tue</td>
+        <td>Oct 4</td>
+        <td></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Oct 6</td>
+        <td></td>
+        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+    </tr>
+    <tr>
+        <td rowspan=2>8</td>
+        <td>Tue</td>
+        <td>Oct 11</td>
+        <td></td>
+        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Oct 13</td>
+        <td></td>
+        <td>🚫 No class</td>
+    </tr>
+    <tr>
+        <td rowspan=2>9</td>
+        <td>Tue</td>
+        <td>Oct 18</td>
+        <td></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Oct 20</td>
+        <td></td>
+        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+    </tr>
+    <tr>
+        <td rowspan=2>10</td>
+        <td>Tue</td>
+        <td>Oct 25</td>
+        <td></td>
+        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Oct 27</td>
+        <td></td>
+        <td>Maecenas auctor ex sed dolor egestas</td>
+    </tr>
+</table>
 
 #### Third Website
 ![Chart shows a step with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
 
-Week | Weekday | Date | Preparation | Content | Notes
----|---|---|---|---|---
-11 | x | x |  | x | 
-11 | x | x |  | x | 
-12 | x | x |  | x | 
-12 | x | x |  | x | 
-13 | x | x |  | x | 
-13 | x | x |  | x | 
-14 | x | x |  | x | 
-14 | x | x |  | x | 
-15 | x | x |  | x | 
-15 | x | x |  | x | 
+<table>
+    <tr>
+        <th>Week</th>
+        <th>Weekday</th>
+        <th>Date</th>
+        <th>Preparation</th>
+        <th>Content</th>
+    </tr>
+    <tr>
+        <td rowspan=2>11</td>
+        <td>Tue</td>
+        <td>Nov 1</td>
+        <td></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Nov 3</td>
+        <td></td>
+        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+    </tr>
+    <tr>
+        <td rowspan=2>12</td>
+        <td>Tue</td>
+        <td>Nov 8</td>
+        <td></td>
+        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Nov 10</td>
+        <td></td>
+        <td>Maecenas auctor ex sed dolor egestas</td>
+    </tr>
+    <tr>
+        <td rowspan=2>13</td>
+        <td>Tue</td>
+        <td>Nov 15</td>
+        <td></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Nov 17</td>
+        <td></td>
+        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+    </tr>
+    <tr>
+        <td rowspan=2>14</td>
+        <td>Tue</td>
+        <td>Nov 22</td>
+        <td></td>
+        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Nov 24</td>
+        <td></td>
+        <td>🚫 No class</td>
+    </tr>
+    <tr>
+        <td rowspan=2>15</td>
+        <td>Tue</td>
+        <td>Nov 29</td>
+        <td></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Dec 1</td>
+        <td></td>
+        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+    </tr>
+</table>
 
 #### Looking ahead
 ![Character with telescope](assets/looking-ahead.png)
 
-Week | Weekday | Date | Preparation | Content | Notes
----|---|---|---|---|---
-16 | x | x |  | x | 
-16 | x | x |  | x | 
-
-<!-- 
-#### Presentation Week
-![Character with microphone](assets/presentation-week.png)
--->
+<table>
+    <tr>
+        <th>Week</th>
+        <th>Weekday</th>
+        <th>Date</th>
+        <th>Preparation</th>
+        <th>Content</th>
+    </tr>
+    <tr>
+        <td rowspan=2>16</td>
+        <td>Tue</td>
+        <td>Dec 6</td>
+        <td></td>
+        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+    </tr>
+    <tr>
+        <td>Thu</td>
+        <td>Dec 8</td>
+        <td></td>
+        <td>🚫 No class</td>
+    </tr>
+</table>
 
 <!--
 ### Course Topics
