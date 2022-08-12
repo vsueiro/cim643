@@ -2,7 +2,7 @@
 
 This is the main document for the CIM 443/643 course at University of Miami, Fall 2022.
 
-Classes take place on Tuesdays and Thursdays, from 12:30pm to 1:45pm.
+🗓 Classes on Tuesdays and Thursdays, from 12:30pm to 1:45pm.
 
 ## About the Course
 
