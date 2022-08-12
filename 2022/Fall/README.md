@@ -74,7 +74,7 @@ After the presentation, students are free to adjust the project (based on that f
         <td>Thu</td>
         <td>Aug 25</td>
         <td>Watch <a href="https://www.youtube.com/watch?v=ysEN5RaKOlA">Learn web development as an absolute beginner</a>. Install <a href="https://code.visualstudio.com/">Visual Studo Code</a></td>
-        <td>Code our first website (with HTML & CSS)</td>
+        <td>Code your first website (with HTML & CSS)</td>
         <td>Demystify coding</td>
     </tr>
     <tr>
