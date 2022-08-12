@@ -370,12 +370,29 @@ quality of work, etc.
 -->
 
 ### Grade Scale
-
+<!--
 - A: ≥ 90
 - B: 80 – 89
 - C: 70 – 79
 - D: 60 – 69
 - F: ≤ 59
+-->
+
+Grade | Minimum points
+---|---
+A+ | 100
+A | ≥ 95
+A- | ≥ 90
+B+ | ≥ 87
+B | ≥ 84
+B- | ≥ 80
+C+ | ≥ 77
+C | ≥ 74
+C- | ≥ 70
+D+ | ≥ 67
+D | ≥ 60
+F | ≥ 0
+
 
 ## Office Hours
 
