@@ -60,32 +60,37 @@ After the presentation, students are free to adjust the project (based on that f
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
+        <th>Goal</th>
     </tr>
     <tr>
         <td rowspan=2>1</td>
         <td>Tue</td>
         <td>Aug 23</td>
         <td></td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+        <td>Discuss course goals, topics, tools, timeline & grading</td>
+        <td>Spark curiosity</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Aug 25</td>
-        <td></td>
-        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+        <td>Watch <a href="https://www.youtube.com/watch?v=ysEN5RaKOlA">Learn web development as an absolute beginner</a>. Install <a href="https://code.visualstudio.com/">Visual Studo Code</a></td>
+        <td>Code our first website (with HTML & CSS)</td>
+        <td>Demystify coding</td>
     </tr>
     <tr>
         <td rowspan=2>2</td>
         <td>Tue</td>
         <td>Aug 30</td>
-        <td></td>
-        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+        <td>Pick a bad website, identify its goal & what it does wrong</td>
+        <td>Analyze bad examples and build a “takeaways” list</td>
+        <td rowspan=2>Build repertoire</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 1</td>
-        <td></td>
-        <td>Maecenas auctor ex sed dolor egestas</td>
+        <td>Pick a good website, identify its goal & what it does well</td>
+        <td>Analyze good examples and build a “takeaways” list</td>
+        <!-- <td>Build repertoire</td> -->
     </tr>
 </table>
 
