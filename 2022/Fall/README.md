@@ -361,7 +361,7 @@ We’ll be using GitHub to back up, share, and publish our code.
 I reserve the right to adjust the final grade according to class participation, attendance, overall
 quality of work, etc.
 
-### Grading 
+### Grading Breakdown
 
 <table>
     <tr>
