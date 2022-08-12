@@ -12,7 +12,7 @@ This course focuses on the job-ready skills and production workflow techniques i
 
 By the end of this course, students should be able to:
 
-- Create interactive prototypes for their ideas
+- Materialize ideas as interactive websites
 - Collaborate with development teams efficiently
 - Apply computational thinking skills to other fields
 
