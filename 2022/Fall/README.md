@@ -371,7 +371,7 @@ quality of work, etc.
     </tr>
     <tr>
         <td>Introduction</td>
-        <td>🔍 &nbsp;Critique</td>
+        <td>🔍 &nbsp;Analysis</td>
         <td>5</td>
     </tr>
     <tr>
@@ -436,7 +436,6 @@ C- | ≥ 70
 D+ | ≥ 67
 D | ≥ 60
 F | ≥ 0
-
 
 ## Office Hours
 
