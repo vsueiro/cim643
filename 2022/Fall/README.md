@@ -297,7 +297,7 @@ After the presentation, students are free to adjust the project (based on that f
     </tr>
 </table>
 
-#### Looking ahead
+#### Looking Ahead
 ![Character with telescope](assets/looking-ahead.png)
 
 <table>
