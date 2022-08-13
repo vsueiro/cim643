@@ -32,7 +32,7 @@ This course also covers tools that help us organize and scale up our projects:
 
 ### Course Timeline
 
-We will not learn everything at once. Instead, the course is split into 5 steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
+We will not learn everything at once. Instead, this 16-week course is split into 5 steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
 
 ![Weekly gantt chart shows 16 weeks of class, divided into 5 steps: “Introduction”, “First project, “Second project, “Third project, and “Looking ahead. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
 
@@ -81,7 +81,8 @@ After the presentation, students are free to adjust the project (based on that f
         <td rowspan=2>2</td>
         <td>Tue</td>
         <td>Aug 30</td>
-        <td>Pick a bad website, identify its goal & what it does wrong</td>
+        <td>Watch <a href="https://www.youtube.com/watch?v=TNQsmPf24go">How Does the Internet Work?</a>. Sign up for <a href="#">GitHub</a>
+        <!--Pick a bad website, identify its goal & what it does wrong--></td>
         <td>Analyze bad examples and build a “takeaways” list</td>
         <td rowspan=2>Build repertoire</td>
     </tr>
