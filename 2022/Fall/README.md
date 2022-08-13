@@ -73,25 +73,36 @@ After the presentation, students are free to adjust the project (based on that f
     <tr>
         <td>Thu</td>
         <td>Aug 25</td>
-        <td>Watch <a href="https://www.youtube.com/watch?v=ysEN5RaKOlA">Learn web development as an absolute beginner</a>. Install <a href="https://code.visualstudio.com/">Visual Studo Code</a></td>
-        <td>Code your first website (with HTML & CSS)</td>
+        <td>
+            Watch <a href="https://www.youtube.com/watch?v=ysEN5RaKOlA">this</a>. Install <a href="https://code.visualstudio.com/">Visual Studo Code</a>
+        </td>
+        <td>Code a simple website (with HTML & CSS)</td>
         <td>Demystify coding</td>
     </tr>
     <tr>
         <td rowspan=2>2</td>
         <td>Tue</td>
         <td>Aug 30</td>
-        <td>Watch <a href="https://www.youtube.com/watch?v=TNQsmPf24go">How Does the Internet Work?</a>. Sign up for <a href="#">GitHub</a>
-        <!--Pick a bad website, identify its goal & what it does wrong--></td>
-        <td>Analyze bad examples and build a “takeaways” list</td>
-        <td rowspan=2>Build repertoire</td>
+        <td>
+            <!--
+            Watch <a href="https://www.youtube.com/watch?v=TNQsmPf24go">this</a>. Sign up for <a href="https://codesandbox.io/">CodeSandbox</a>
+            -->
+            Pick a bad website, identify its goal & what it does wrong
+        </td>
+        <td>
+            Analyze bad examples and build a “takeaways” list
+            <!--Get a shareble link for your website-->
+        </td>
+        <td rowspan=2>
+            Build repertoire
+            <!--Introduce servers-->
+        </td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 1</td>
         <td>Pick a good website, identify its goal & what it does well</td>
         <td>Analyze good examples and build a “takeaways” list</td>
-        <!-- <td>Build repertoire</td> -->
     </tr>
 </table>
 
