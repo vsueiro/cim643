@@ -112,17 +112,19 @@ After the presentation, students are free to adjust the project (based on that f
     </tr>
 </table>
 
-##### Assignment: Analysis
+##### Assignment: 🔍 Analysis 
 ```
 Pick a website you find hard to use.
 Pick another website you find easy to use.
-For each of them, submit the following via Blackboard:
+For each of them, submit the following:
 
 • 📱 Screen capture or recording
 • URL (https://example.com)
 • What did you want to use it for?
 • What made it (hard|easy) to use?
 • How could it be improved?
+
+Due Sep 6, via Blackboard.
 ```
 
 #### First Project: Personal Site
@@ -140,27 +142,35 @@ For each of them, submit the following via Blackboard:
         <td rowspan=2>3</td>
         <td>Tue</td>
         <td>Sep 6</td>
-        <td></td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+        <td>
+            Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
+            <br><br>
+            Watch <a href="https://youtu.be/5g0x2xv3aHU?t=3155">this</a> to better understand the potential of HTML & CSS
+        </td>
+        <td>
+            Presenting project goals, deliveries and due dates.
+            <br><br>
+            Coding a minimalist personal site
+        </td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 8</td>
-        <td></td>
-        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+        <td>Sign up for <a href="">Vercel</a></td>
+        <td>Deploying (publishing) your personal website</td>
     </tr>
     <tr>
         <td rowspan=2>4</td>
         <td>Tue</td>
         <td>Sep 13</td>
-        <td></td>
-        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+        <td>Plan your website: what is its purpose? what is its content?</td>
+        <td>Translating your content into a semantic (meaningful) HTML structure</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 15</td>
-        <td></td>
-        <td>Maecenas auctor ex sed dolor egestas</td>
+        <td>Plan your website: what would it look like?</td>
+        <td>Translating your sketch into CSS properties and values</td>
     </tr>
     <tr>
         <td rowspan=2>5</td>
@@ -190,7 +200,14 @@ For each of them, submit the following via Blackboard:
     </tr>
 </table>
 
-#### Second Project
+##### Assignment: ✏️ Planning
+```
+Plan your personal site. 
+
+Due ___, via Blackboard.
+```
+
+#### Second Project: Quiz
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
 
 <table>
@@ -205,7 +222,8 @@ For each of them, submit the following via Blackboard:
         <td rowspan=2>7</td>
         <td>Tue</td>
         <td>Oct 4</td>
-        <td></td>
+        <td>
+            Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript</td>
         <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
     </tr>
     <tr>
