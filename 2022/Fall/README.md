@@ -255,7 +255,7 @@ For each of them, submit the following via Blackboard:
     </tr>
 </table>
 
-#### Third Project
+#### Third Project: Dynamic Site
 ![Chart shows a step with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
 
 <table>
@@ -411,7 +411,7 @@ quality of work, etc.
         <td>5</td>
     </tr>
     <tr>
-        <td rowspan=3>First website</td>
+        <td rowspan=3>First Project</td>
         <td>✏️ &nbsp;Planning</td>
         <td>10</td>
     </tr>
@@ -424,7 +424,7 @@ quality of work, etc.
         <td>10</td>
     </tr>
     <tr>
-        <td rowspan=3>Second website</td>
+        <td rowspan=3>Second Project</td>
         <td>✏️ &nbsp;Planning</td>
         <td>10</td>
     </tr>
@@ -437,7 +437,7 @@ quality of work, etc.
         <td>10</td>
     </tr>
     <tr>
-        <td rowspan=3>Third website</td>
+        <td rowspan=3>Third Project</td>
         <td>✏️ &nbsp;Planning</td>
         <td>10</td>
     </tr>
