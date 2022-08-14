@@ -26,9 +26,9 @@ In order to reach the desired goals, students will learn concepts and techniques
 
 This course also covers tools that help us organize and scale up our projects:
 
+- [CodeSandbox](https://codesandbox.io/) (to write code without installing stuff)
 - [GitHub](https://github.com/) (to collaborate with others – and your future self)
 - [React](https://reactjs.org/) (to organize your app into components)
-- [CodeSandbox](https://codesandbox.io/) (to use React without installing stuff)
 
 ### Course Timeline
 
