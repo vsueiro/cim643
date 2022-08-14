@@ -60,53 +60,65 @@ After the presentation, students are free to adjust the project (based on that f
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
-        <th>Goal</th>
     </tr>
     <tr>
         <td rowspan=2>1</td>
         <td>Tue</td>
         <td>Aug 23</td>
         <td></td>
-        <td>Discuss course goals, topics, tools, timeline & grading</td>
-        <td>Spark curiosity</td>
+        <td>Discussing course goals, topics, tools, timeline & grading</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Aug 25</td>
         <td>
-            Watch <a href="https://www.youtube.com/watch?v=ysEN5RaKOlA">this</a>. Install <a href="https://code.visualstudio.com/">Visual Studo Code</a>
+            Watch <a href="https://youtu.be/TNQsmPf24go">this</a> to learn how the “cloud” is actually a <em>very</em> tangible thing
+            <br><br>
+            Watch <a href="https://youtu.be/YoXxevp1WRQ?t=313">this</a>, from
+ <code>5:13</code> to <code>41:54</code>, to learn how computers cleverly represent numbers, text, color, images & even emoji
+            <br><br>
+            Sign up for <a href="https://codesandbox.io/">CodeSandbox</a>
         </td>
-        <td>Code a simple website (with HTML & CSS)</td>
-        <td>Demystify coding</td>
+        <td>
+            Exploring the anatomy of the web:
+            servers (back end) & clients (front end)
+            <br><br>
+            Coding the <em>simplest</em> website
+        </td>
     </tr>
     <tr>
         <td rowspan=2>2</td>
         <td>Tue</td>
         <td>Aug 30</td>
         <td>
-            <!--
-            Watch <a href="https://www.youtube.com/watch?v=TNQsmPf24go">this</a>. Sign up for <a href="https://codesandbox.io/">CodeSandbox</a>
-            -->
-            Pick a bad website, identify its goal & what it does wrong
+            Pick a website you find <strong>hard</strong> to use
         </td>
         <td>
             Analyze bad examples and build a “takeaways” list
-            <!--Get a shareble link for your website-->
-        </td>
-        <td rowspan=2>
-            Build repertoire
-            <!--Introduce servers-->
         </td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 1</td>
-        <td>Pick a good website, identify its goal & what it does well</td>
+        <td>Pick a website you find <strong>easy</strong> to use</td>
         <td>Analyze good examples and build a “takeaways” list</td>
     </tr>
 </table>
 
-#### First Project
+##### Assignment: Analysis
+```
+Pick a website you find hard to use.
+Pick another website you find easy to use.
+For each of them, submit the following via Blackboard:
+
+• 📱 Screen capture or recording
+• URL (https://example.com)
+• What did you want to use it for?
+• What made it (hard|easy) to use?
+• How could it be improved?
+```
+
+#### First Project: Personal Site
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-1.png)
 
 <table>
