@@ -27,12 +27,12 @@ In order to reach the desired goals, students will learn concepts and techniques
 This course also covers tools that help us organize and scale up our projects:
 
 - [CodeSandbox](https://codesandbox.io/) (to write code without installing stuff)
-- [Vercel](https://vercel.com/) (to easily deploy your website)
+- [React](https://reactjs.org/) (to organize your website into components)
 - [GitHub](https://github.com/) (to collaborate with others – and your future self)
 
 Optionally:
 - [Visual Studio Code](https://code.visualstudio.com/) (to write code as files in your own computer)
-- [React](https://reactjs.org/) (to organize your website into components)
+- [Vercel](https://vercel.com/) (to easily deploy your website)
 - [Google Domains](https://domains.google/) (to rent a friendly name, like  “example.com”)
 
 All tools are free (or provide a free version), except Google Domains. 💸.
