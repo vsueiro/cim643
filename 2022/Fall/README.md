@@ -98,6 +98,8 @@ After the presentation, students are free to adjust the project (based on that f
         <td>Tue</td>
         <td>Aug 30</td>
         <td>
+            Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
+            <br><br>
             Pick a website you find <strong>hard</strong> to use
         </td>
         <td>
@@ -143,8 +145,6 @@ Due Sep 6, via Blackboard.
         <td>Tue</td>
         <td>Sep 6</td>
         <td>
-            Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
-            <br><br>
             Watch <a href="https://youtu.be/5g0x2xv3aHU?t=3155">this</a> to better understand the potential of HTML & CSS
         </td>
         <td>
@@ -156,20 +156,25 @@ Due Sep 6, via Blackboard.
     <tr>
         <td>Thu</td>
         <td>Sep 8</td>
-        <td>Sign up for <a href="">Vercel</a></td>
-        <td>Deploying (publishing) your personal website</td>
+        <td>
+            <!--Sign up for <a href="">Vercel</a>-->
+        </td>
+        <td>
+            Coding a more complex personal site
+            <!--Deploying (publishing) your personal website-->
+        </td>
     </tr>
     <tr>
         <td rowspan=2>4</td>
         <td>Tue</td>
         <td>Sep 13</td>
-        <td>Plan your website: what is its purpose? what is its content?</td>
+        <td>Plan your website: what is its purpose? what is its content? what could it look like?</td>
         <td>Translating your content into a semantic (meaningful) HTML structure</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 15</td>
-        <td>Plan your website: what would it look like?</td>
+        <td></td>
         <td>Translating your sketch into CSS properties and values</td>
     </tr>
     <tr>
@@ -177,35 +182,60 @@ Due Sep 6, via Blackboard.
         <td>Tue</td>
         <td>Sep 20</td>
         <td></td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 22</td>
         <td></td>
-        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td rowspan=2>6</td>
         <td>Tue</td>
         <td>Sep 27</td>
         <td></td>
-        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 29</td>
         <td></td>
-        <td>Maecenas auctor ex sed dolor egestas</td>
+        <td>…</td>
     </tr>
 </table>
 
 ##### Assignment: ✏️ Planning
 ```
-Plan your personal site. 
+Plan your website:
 
-Due ___, via Blackboard.
+• What is its purpose?
+• What is its content?
+• What could it look like?
+
+Due Sep 13, via Blackboard.
 ```
+
+##### Assignment: 🎤 Presentation
+```
+Present your website:
+
+• Up to 5 minutes
+
+Due Sep 27 or 29, during class.
+```
+
+##### Assignment: 💻 Submission
+```
+Submit your website:
+
+• URL
+• Screen capture or recording
+• Paragraph describing what you would have done differently – and why
+
+Due Oct 4, via Blackboard.
+```
+
 
 #### Second Project: Quiz
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
@@ -223,21 +253,23 @@ Due ___, via Blackboard.
         <td>Tue</td>
         <td>Oct 4</td>
         <td>
-            Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript</td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+            Watch <a href="https://youtu.be/YoXxevp1WRQ?t=2514">this</a>, from <code>41:54</code> to <code>1:25:18</code>, to learn how to break complex tasks into simple step-by-step instructions
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Oct 6</td>
-        <td></td>
-        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+        <td>
+            Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript</td>
+        </td>
+        <td>…</td>
     </tr>
     <tr>
         <td rowspan=2>8</td>
         <td>Tue</td>
         <td>Oct 11</td>
         <td></td>
-        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
@@ -250,28 +282,59 @@ Due ___, via Blackboard.
         <td>Tue</td>
         <td>Oct 18</td>
         <td></td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Oct 20</td>
         <td></td>
-        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td rowspan=2>10</td>
         <td>Tue</td>
         <td>Oct 25</td>
         <td></td>
-        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Oct 27</td>
         <td></td>
-        <td>Maecenas auctor ex sed dolor egestas</td>
+        <td>…</td>
     </tr>
 </table>
+
+##### Assignment: ✏️ Planning
+```
+Plan your website:
+
+• What is its purpose?
+• What is its content?
+• What could it look like?
+
+Due ___, via Blackboard.
+```
+
+##### Assignment: 🎤 Presentation
+```
+Present your website:
+
+• Up to 5 minutes
+
+Due ___ or ___, during class.
+```
+
+##### Assignment: 💻 Submission
+```
+Submit your website:
+
+• URL
+• Screen capture or recording
+• Paragraph describing what you would have done differently – and why
+
+Due ___, via Blackboard.
+```
 
 #### Third Project: Dynamic Site
 ![Chart shows a step with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
@@ -289,46 +352,46 @@ Due ___, via Blackboard.
         <td>Tue</td>
         <td>Nov 1</td>
         <td></td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Nov 3</td>
         <td></td>
-        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td rowspan=2>12</td>
         <td>Tue</td>
         <td>Nov 8</td>
         <td></td>
-        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Nov 10</td>
         <td></td>
-        <td>Maecenas auctor ex sed dolor egestas</td>
+        <td>…</td>
     </tr>
     <tr>
         <td rowspan=2>13</td>
         <td>Tue</td>
         <td>Nov 15</td>
         <td></td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Nov 17</td>
         <td></td>
-        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td rowspan=2>14</td>
         <td>Tue</td>
         <td>Nov 22</td>
         <td></td>
-        <td>Nunc posuere massa mi, in elementum nunc vestibulum eget</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
@@ -341,15 +404,46 @@ Due ___, via Blackboard.
         <td>Tue</td>
         <td>Nov 29</td>
         <td></td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Dec 1</td>
         <td></td>
-        <td>Sed ut eros enim. Sed efficitur convallis blandit</td>
+        <td>…</td>
     </tr>
 </table>
+
+##### Assignment: ✏️ Planning
+```
+Plan your website:
+
+• What is its purpose?
+• What is its content?
+• What could it look like?
+
+Due ___, via Blackboard.
+```
+
+##### Assignment: 🎤 Presentation
+```
+Present your website:
+
+• Up to 5 minutes
+
+Due ___ or ___, during class.
+```
+
+##### Assignment: 💻 Submission
+```
+Submit your website:
+
+• URL
+• Screen capture or recording
+• Paragraph describing what you would have done differently – and why
+
+Due ___, via Blackboard.
+```
 
 #### Looking Ahead
 ![Character with telescope](assets/looking-ahead.png)
@@ -367,7 +461,7 @@ Due ___, via Blackboard.
         <td>Tue</td>
         <td>Dec 6</td>
         <td></td>
-        <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+        <td>…</td>
     </tr>
     <tr>
         <td>Thu</td>
@@ -376,6 +470,13 @@ Due ___, via Blackboard.
         <td>🚫 No class</td>
     </tr>
 </table>
+
+##### Assignment: 🔭 Self-reflection 
+```
+…
+
+Due ___, via Blackboard.
+```
 
 <!--
 ### Course Topics
