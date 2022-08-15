@@ -475,7 +475,7 @@ Due Dec 6, via Blackboard.
 ```
 …
 
-Due ___, via Blackboard.
+Due Dec 9, via Blackboard (instead of Final Exam).
 ```
 
 <!--
