@@ -51,7 +51,7 @@ At the end of each project step, we have **presentation week** – imagine this 
 
 ![Character with microphone](assets/presentation-week.png)
 
-On presentation week, both classes of that week will be dedicated to presentation and discussion of projects. Half of the students present on Tuesday and half on Thursday. Each student has about 5 minutes to present their website and get feedback.
+On presentation week, both classes of that week will be dedicated to presentation and discussion of projects. Half of the students present on Tuesday and half on Thursday. Each student has about 5 minutes to present their project and get feedback.
 
 After the presentation, students are free to adjust the project (based on that feedback) and submit it for grading (prior to the beginning of the first class of the following week).
 
