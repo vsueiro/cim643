@@ -43,7 +43,7 @@ We will not learn everything at once. Instead, this 16-week course is split into
 
 ![Weekly gantt chart shows 16 weeks of class, divided into 5 steps: “Introduction”, “First project, “Second project, “Third project, and “Looking ahead. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
 
-After a couple of weeks of introduction, students begin working on projects. There are 3 individual projects (of increasing complexity) – and students will have around 3 weeks to create each one of them, from ideation to coding.
+After a couple of weeks of introduction, students begin working on projects. There are 3 individual projects (of increasing complexity) – and students will have around 3 weeks to create each one of them, from idea to coding.
 
 #### Presentation week
 
@@ -56,6 +56,8 @@ On presentation week, both classes of that week will be dedicated to presentatio
 After the presentation, students are free to adjust the project (based on that feedback) and submit it for grading (prior to the beginning of the first class of the following week).
 
 ### Course Content
+
+The following tables briefly describe what we will be doing during class (“Content”) and what you are expected to do before each class (“Preparation”).
 
 #### Introduction
 ![Chart shows a step with 2 weeks](assets/part-0.png)
@@ -90,7 +92,7 @@ After the presentation, students are free to adjust the project (based on that f
             Exploring the anatomy of the web:
             servers (back end) & clients (front end)
             <br><br>
-            Coding the <em>simplest</em> website
+            Coding the <em>simplest</em> website (HTML)
         </td>
     </tr>
     <tr>
@@ -100,30 +102,38 @@ After the presentation, students are free to adjust the project (based on that f
         <td>
             Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
             <br><br>
+            Watch <a href="https://www.youtube.com/watch?v=NTdRuYSOpV0">this</a> to hear from a pro how problem solving is more relevant than memorizing
+            <!--
+            <br><br>
             Pick a website you find <strong>hard</strong> to use
+            -->
         </td>
         <td>
-            Analyze bad examples and build a “takeaways” list
+            Coding a website with a simple style (CSS) & interaction (JS)
         </td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 1</td>
-        <td>Pick a website you find <strong>easy</strong> to use</td>
-        <td>Analyze good examples and build a “takeaways” list</td>
+        <td>
+            Pick a website you <strong>hate</strong> using
+            <br><br>
+            Pick a website you <strong>love</strong> using
+        </td>
+        <td>Analyzing examples & discussing improvements</td>
     </tr>
 </table>
 
 ##### Assignment: 🔍 Analysis 
 ```
-Pick a website you find hard to use.
-Pick another website you find easy to use.
+Pick a website you hate using.
+Pick another website you love using.
 For each of them, submit the following:
 
 • 📱 Screen capture or recording
 • URL (https://example.com)
-• What did you want to use it for?
-• What made it (hard|easy) to use?
+• What do you use it for?
+• Why do you hate or love using it?
 • How could it be improved?
 
 Due Sep 6, via Blackboard.
@@ -150,17 +160,18 @@ Due Sep 6, via Blackboard.
         <td>
             Presenting project goals, deliveries and due dates.
             <br><br>
-            Coding a minimalist personal site
+            Coding a minimalist personal site (one page)
         </td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 8</td>
         <td>
+            Read <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure">this</a> to learn how to structure whole <em>pages</em> with meaningful HTML tags
             <!--Sign up for <a href="">Vercel</a>-->
         </td>
         <td>
-            Coding a more complex personal site
+            Coding a more complex personal site (multiple pages)
             <!--Deploying (publishing) your personal website-->
         </td>
     </tr>
@@ -174,34 +185,36 @@ Due Sep 6, via Blackboard.
     <tr>
         <td>Thu</td>
         <td>Sep 15</td>
-        <td></td>
+        <td>
+            Read <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">this</a> to better understand the basics of CSS
+        </td>
         <td>Translating your sketch into CSS properties and values</td>
     </tr>
     <tr>
         <td rowspan=2>5</td>
         <td>Tue</td>
         <td>Sep 20</td>
-        <td></td>
-        <td>…</td>
+        <td>Take note of 1-3 tasks you need help with</td>
+        <td>Pairing up with classmates to help each other (instructor may intervene)</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 22</td>
         <td></td>
-        <td>…</td>
+        <td>Pairing up with classmates to help each other (instructor may intervene)</td>
     </tr>
     <tr>
         <td rowspan=2>6</td>
         <td>Tue</td>
         <td>Sep 27</td>
-        <td></td>
-        <td>…</td>
+        <td>Sign up for a presentation slot (½ of the students)</td>
+        <td>Presenting your work & getting feedback</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Sep 29</td>
-        <td></td>
-        <td>…</td>
+        <td>Sign up for a presentation slot (½ of the students)</td>
+        <td>Presenting your work & getting feedback</td>
     </tr>
 </table>
 
@@ -254,7 +267,7 @@ Due Oct 4, via Blackboard.
         <td>Oct 4</td>
         <td>
             Watch <a href="https://youtu.be/YoXxevp1WRQ?t=2514">this</a>, from <code>41:54</code> to <code>1:25:18</code>, to learn how to break complex tasks into simple step-by-step instructions
-        <td>…</td>
+        <td>Discussing algorithms, data types & structures</td>
     </tr>
     <tr>
         <td>Thu</td>
@@ -262,14 +275,14 @@ Due Oct 4, via Blackboard.
         <td>
             Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript</td>
         </td>
-        <td>…</td>
+        <td>Coding a simple quiz with JavaScript</td>
     </tr>
     <tr>
         <td rowspan=2>8</td>
         <td>Tue</td>
         <td>Oct 11</td>
-        <td></td>
-        <td>…</td>
+        <td>Plan your website: what is its purpose? what is its content? what could it look like?</td>
+        <td>Coding a quiz with a score & lots of questions</td>
     </tr>
     <tr>
         <td>Thu</td>
@@ -281,27 +294,27 @@ Due Oct 4, via Blackboard.
         <td rowspan=2>9</td>
         <td>Tue</td>
         <td>Oct 18</td>
-        <td></td>
-        <td>…</td>
+        <td>Take note of 1-3 tasks you need help with</td>
+        <td>Pairing up with classmates to help each other (instructor may intervene)</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Oct 20</td>
         <td></td>
-        <td>…</td>
+        <td>Pairing up with classmates to help each other (instructor may intervene)</td>
     </tr>
     <tr>
         <td rowspan=2>10</td>
         <td>Tue</td>
         <td>Oct 25</td>
-        <td></td>
-        <td>…</td>
+        <td>Sign up for a presentation slot (½ of the students)</td>
+        <td>Presenting your work & getting feedback</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Oct 27</td>
-        <td></td>
-        <td>…</td>
+        <td>Sign up for a presentation slot (½ of the students)</td>
+        <td>Presenting your work & getting feedback</td>
     </tr>
 </table>
 
@@ -477,39 +490,6 @@ Due Dec 6, via Blackboard.
 
 Due Dec 9, via Blackboard (instead of Final Exam).
 ```
-
-<!--
-### Course Topics
-
-The schedule will evolve as the semester goes on. These are some topics we’ll cover during the semester.
-
-- Setting up a development environment
-- Using different CSS units
-- Advanced CSS selectors & variables
-- Animating changes with CSS
-- Basic JavaScript & related programming concepts
-- DOM Scripting
-- Useful JavaScript libraries like jQuery, Highcharts.js, and Waypoints
-- Web frameworks like Jekyll and React
-
-### Resources & Materials for class
-
-I will provide you with relevant readings digitally. You will need access to either the Google Suite (Docs, Sheets, Slides, etc.) or the Microsoft Office Suite (Word, Excel).
-
-#### JavaScript for Web Designers
-
-This is the only book you’ll need for the class. It’s a wonderful introduction to JavaScript concepts we’ll cover, and it’s not too pricey. You can order it directly from A Book Apart
-or find it on Amazon. Please don’t buy the book until after our first lecture.
-
-#### Codepen
-
-We’ll be using Codepen to prototype and practice concepts quickly. You will be fine with just the free tier.
-
-#### GitHub
-
-We’ll be using GitHub to back up, share, and publish our code.
-
--->
 
 ## Grading
 
