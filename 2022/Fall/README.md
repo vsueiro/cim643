@@ -473,8 +473,8 @@ Due Dec 6, via Blackboard.
         <td rowspan=2>16</td>
         <td>Tue</td>
         <td>Dec 6</td>
-        <td></td>
-        <td>…</td>
+        <td>[Optional] Read about no-code tools, AI “copilots”, native apps, 3D environments, tangible interfaces or the so-called “Web3”</td>
+        <td>Discussing the future of the web – and paths we can take</td>
     </tr>
     <tr>
         <td>Thu</td>
@@ -486,7 +486,17 @@ Due Dec 6, via Blackboard.
 
 ##### Assignment: 🔭 Self-reflection 
 ```
-…
+Submit a self-reflection considering:
+
+• Your experience learning about web development
+• How it relates to your future pursuits (personal & professional)
+
+The format could either be:
+
+• Written (up to a page); or
+• Video recording (up to 5 minutes)
+
+Feel free to include sketches, photos or any other media.
 
 Due Dec 9, via Blackboard (instead of Final Exam).
 ```
