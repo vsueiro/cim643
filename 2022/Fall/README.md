@@ -4,6 +4,8 @@ This is the main document for the CIM 443/643 course at University of Miami, Fal
 
 🗓 Classes on Tuesdays and Thursdays, from `12:30` to `1:45 pm`.
 
+<small>Last updated on Aug 17, 2022.</small>
+
 ## About the Course
 
 This course focuses on the job-ready skills and production workflow techniques in high demand for front end web developers. Students will learn, practice and demonstrate the skills and principles needed to make effective use of these technologies.
