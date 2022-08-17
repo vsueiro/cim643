@@ -249,7 +249,6 @@ Submit your website:
 Due Oct 4, via Blackboard.
 ```
 
-
 #### Second Project: Quiz
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
 
@@ -267,13 +266,18 @@ Due Oct 4, via Blackboard.
         <td>Oct 4</td>
         <td>
             Watch <a href="https://youtu.be/YoXxevp1WRQ?t=2514">this</a>, from <code>41:54</code> to <code>1:25:18</code>, to learn how to break complex tasks into simple step-by-step instructions
-        <td>Discussing algorithms, data types & structures</td>
+        </td>
+        <td>
+            Presenting project goals, deliveries and due dates.
+            <br><br>
+            Discussing algorithms, data types & structures
+        </td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Oct 6</td>
         <td>
-            Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript</td>
+            Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript
         </td>
         <td>Coding a simple quiz with JavaScript</td>
     </tr>
@@ -365,7 +369,11 @@ Due Nov 1, via Blackboard.
         <td>Tue</td>
         <td>Nov 1</td>
         <td></td>
-        <td>…</td>
+        <td>
+            Presenting project goals, deliveries and due dates.
+            <br><br>
+            Coding a simple dynamic page with the Fetch API
+        </td>
     </tr>
     <tr>
         <td>Thu</td>
