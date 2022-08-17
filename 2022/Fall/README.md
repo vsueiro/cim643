@@ -414,7 +414,7 @@ Due Nov 1, via Blackboard.
         <td>Tue</td>
         <td>Nov 22</td>
         <td>Submit a question for online (Zoom) session with instructor</td>
-        <td>Answering most common questions from students</td>
+        <td>Answering most common questions from students (Zoom)</td>
     </tr>
     <tr>
         <td>Thu</td>
