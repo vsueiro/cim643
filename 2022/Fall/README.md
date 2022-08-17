@@ -483,7 +483,11 @@ Due Dec 6, via Blackboard.
         <td rowspan=2>16</td>
         <td>Tue</td>
         <td>Dec 6</td>
-        <td>[Optional] Read about no-code tools, AI “copilots”, native apps, 3D environments, tangible interfaces or the so-called “Web3”</td>
+        <td>
+            <code>Optional</code>
+            <br>
+            Read about no-code tools, AI “copilots”, native apps, 3D environments, tangible interfaces or the so-called “Web3”
+        </td>
         <td>Discussing the future of the web – and paths we can take</td>
     </tr>
     <tr>
