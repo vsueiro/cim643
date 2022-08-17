@@ -179,7 +179,7 @@ Due Sep 6, via Blackboard.
         <td rowspan=2>4</td>
         <td>Tue</td>
         <td>Sep 13</td>
-        <td>Plan your website: what is its purpose? what is its content? what could it look like?</td>
+        <td>Plan your website</td>
         <td>Translating your content into a semantic (meaningful) HTML structure</td>
     </tr>
     <tr>
@@ -285,7 +285,7 @@ Due Oct 4, via Blackboard.
         <td rowspan=2>8</td>
         <td>Tue</td>
         <td>Oct 11</td>
-        <td>Plan your website: what is its purpose? what is its content? what could it look like?</td>
+        <td>Plan your website</td>
         <td>Coding a quiz with a score & lots of questions</td>
     </tr>
     <tr>
