@@ -160,7 +160,7 @@ Due Sep 6, via Blackboard.
             Watch <a href="https://youtu.be/5g0x2xv3aHU?t=3155">this</a> to better understand the potential of HTML & CSS
         </td>
         <td>
-            Presenting project goals, deliveries and due dates.
+            Presenting project goals, deliveries and due dates
             <br><br>
             Coding a minimalist personal site (one page)
         </td>
@@ -270,7 +270,7 @@ Due Oct 4, via Blackboard.
             Watch <a href="https://youtu.be/YoXxevp1WRQ?t=2514">this</a>, from <code>41:54</code> to <code>1:25:18</code>, to learn how to break complex tasks into simple step-by-step instructions
         </td>
         <td>
-            Presenting project goals, deliveries and due dates.
+            Presenting project goals, deliveries and due dates
             <br><br>
             Discussing algorithms, data types & structures
         </td>
@@ -372,7 +372,7 @@ Due Nov 1, via Blackboard.
         <td>Nov 1</td>
         <td></td>
         <td>
-            Presenting project goals, deliveries and due dates.
+            Presenting project goals, deliveries and due dates
             <br><br>
             Coding a simple dynamic page with the Fetch API
         </td>
