@@ -374,47 +374,47 @@ Due Nov 1, via Blackboard.
         <td>
             Presenting project goals, deliveries and due dates
             <br><br>
-            Coding a simple dynamic page with the Fetch API
+            Coding a simple dynamic page with Fetch API
         </td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Nov 3</td>
         <td></td>
-        <td>…</td>
+        <td>Exploring a variety of APIs and Libraries</td>
     </tr>
     <tr>
         <td rowspan=2>12</td>
         <td>Tue</td>
         <td>Nov 8</td>
-        <td></td>
-        <td>…</td>
+        <td>Plan your website</td>
+        <td>Coding a dynamic page with Google Sheets API</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Nov 10</td>
         <td></td>
-        <td>…</td>
+        <td>Coding a simple page with React</td>
     </tr>
     <tr>
         <td rowspan=2>13</td>
         <td>Tue</td>
         <td>Nov 15</td>
-        <td></td>
-        <td>…</td>
+        <td>Take note of 1-3 tasks you need help with</td>
+        <td>Pairing up with classmates to help each other (instructor may intervene)</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Nov 17</td>
         <td></td>
-        <td>…</td>
+        <td>Pairing up with classmates to help each other (instructor may intervene)</td>
     </tr>
     <tr>
         <td rowspan=2>14</td>
         <td>Tue</td>
         <td>Nov 22</td>
-        <td></td>
-        <td>…</td>
+        <td>Submit a question for online (Zoom) session with instructor</td>
+        <td>Answering most common questions from students</td>
     </tr>
     <tr>
         <td>Thu</td>
@@ -426,14 +426,14 @@ Due Nov 1, via Blackboard.
         <td rowspan=2>15</td>
         <td>Tue</td>
         <td>Nov 29</td>
-        <td></td>
-        <td>…</td>
+        <td>Sign up for a presentation slot (½ of the students)</td>
+        <td>Presenting your work & getting feedback</td>
     </tr>
     <tr>
         <td>Thu</td>
         <td>Dec 1</td>
-        <td></td>
-        <td>…</td>
+        <td>Sign up for a presentation slot (½ of the students)</td>
+        <td>Presenting your work & getting feedback</td>
     </tr>
 </table>
 
