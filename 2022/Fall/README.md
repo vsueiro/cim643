@@ -594,7 +594,7 @@ F | ≥ 0
 
 ## Office Hours
 
-TBA
+Students may schedule individual sessions with the instructor. A Calendly link will be made available with specific time slots for online (Zoom) meetings.
 
 ## Policies
 
