@@ -85,8 +85,7 @@ The following tables briefly describe what we will be doing during class (“Con
         <td>
             Watch <a href="https://youtu.be/TNQsmPf24go">this</a> to learn how the “cloud” is actually a <em>very</em> tangible thing
             <br><br>
-            Watch <a href="https://youtu.be/YoXxevp1WRQ?t=313">this</a>, from
- <code>5:13</code> to <code>41:54</code>, to learn how computers cleverly represent numbers, text, color, images & even emoji
+            Watch <a href="https://youtu.be/YoXxevp1WRQ?t=313">this</a>, from <code>5:13</code> to <code>41:54</code>, to learn how computers cleverly represent numbers, text, color, images & even emoji
             <br><br>
             Sign up for <a href="https://codesandbox.io/">CodeSandbox</a>
         </td>
