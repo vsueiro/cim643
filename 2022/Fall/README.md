@@ -137,7 +137,7 @@ For each of them, submit the following:
 • Why do you hate or love using it?
 • How could it be improved?
 
-Due Sep 6, via Blackboard.
+Due Sep 6, via Google Forms (exceptionally).
 ```
 
 #### First Project: Personal Site
