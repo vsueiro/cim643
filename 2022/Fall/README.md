@@ -104,10 +104,6 @@ The following tables briefly describe what we will be doing during class (“Con
             Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
             <br><br>
             Watch <a href="https://www.youtube.com/watch?v=NTdRuYSOpV0">this</a> to hear from a pro how problem solving is more relevant than memorizing
-            <!--
-            <br><br>
-            Pick a website you find <strong>hard</strong> to use
-            -->
         </td>
         <td>
             Coding a website with a simple style (CSS) & interaction (JS)
