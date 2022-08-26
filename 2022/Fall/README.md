@@ -152,7 +152,7 @@ Due Sep 6, via Google Forms (exceptionally).
         <td>Tue</td>
         <td>Sep 6</td>
         <td>
-            Watch <a href="https://youtu.be/5g0x2xv3aHU?t=3155">this</a> to better understand the potential of HTML & CSS
+            Watch <a href="https://youtu.be/5g0x2xv3aHU?t=3155">this</a>, from <code>52:35</code> to <code>1:52:34</code>, to better understand the potential of HTML & CSS
         </td>
         <td>
             Presenting project goals, deliveries and due dates
