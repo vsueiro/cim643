@@ -71,7 +71,6 @@ The following tables briefly describe what we will be doing during class (“Con
 <table>
     <tr>
         <th>Week</th>
-        <!-- <th>Weekday</th> -->
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
@@ -79,14 +78,12 @@ The following tables briefly describe what we will be doing during class (“Con
     </tr>
     <tr>
         <td rowspan=2>1</td>
-        <!-- <td>Tue</td> -->
         <td>Aug 23</td>
         <td></td>
         <td>Discussing course goals, topics, tools, timeline & grading</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Aug 25</td>
         <td>
             Watch <a href="https://youtu.be/TNQsmPf24go">this</a> to learn how the “cloud” is actually a <em>very</em> tangible thing
@@ -105,7 +102,6 @@ The following tables briefly describe what we will be doing during class (“Con
     </tr>
     <tr>
         <td rowspan=2>2</td>
-        <!-- <td>Tue</td> -->
         <td>Aug 30</td>
         <td>
             Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
@@ -118,7 +114,6 @@ The following tables briefly describe what we will be doing during class (“Con
         <td><a href="lectures/cloud-myth">Topics</a></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Sep 1</td>
         <td>
             Pick a website you <strong>hate</strong> using
@@ -151,7 +146,6 @@ Due Sep 6, via Google Forms (exceptionally).
 <table>
     <tr>
         <th>Week</th>
-        <!-- <th>Weekday</th> -->
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
@@ -159,7 +153,6 @@ Due Sep 6, via Google Forms (exceptionally).
     </tr>
     <tr>
         <td rowspan=2>3</td>
-        <!-- <td>Tue</td> -->
         <td>Sep 6</td>
         <td>
             Watch <a href="https://youtu.be/5g0x2xv3aHU?t=3155">this</a>, from <code>52:35</code> to <code>1:52:34</code>, to better understand the potential of HTML & CSS
@@ -174,7 +167,6 @@ Due Sep 6, via Google Forms (exceptionally).
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Sep 8</td>
         <td>
             Read <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure">this</a> to learn how to structure whole <em>pages</em> with meaningful HTML tags
@@ -188,14 +180,12 @@ Due Sep 6, via Google Forms (exceptionally).
     </tr>
     <tr>
         <td rowspan=2>4</td>
-        <!-- <td>Tue</td> -->
         <td>Sep 13</td>
         <td>Plan your website</td>
         <td>Translating your content into a semantic (meaningful) HTML structure</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Sep 15</td>
         <td>
             Read <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">this</a> to better understand the basics of CSS
@@ -205,14 +195,12 @@ Due Sep 6, via Google Forms (exceptionally).
     </tr>
     <tr>
         <td rowspan=2>5</td>
-        <!-- <td>Tue</td> -->
         <td>Sep 20</td>
         <td>Take note of 1-3 tasks you need help with</td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Sep 22</td>
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
@@ -220,14 +208,12 @@ Due Sep 6, via Google Forms (exceptionally).
     </tr>
     <tr>
         <td rowspan=2>6</td>
-        <!-- <td>Tue</td> -->
         <td>Sep 27</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Sep 29</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
