@@ -71,20 +71,22 @@ The following tables briefly describe what we will be doing during class (“Con
 <table>
     <tr>
         <th>Week</th>
-        <th>Weekday</th>
+        <!-- <th>Weekday</th> -->
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
+        <th>Materials</th>
     </tr>
     <tr>
         <td rowspan=2>1</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Aug 23</td>
         <td></td>
         <td>Discussing course goals, topics, tools, timeline & grading</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Aug 25</td>
         <td>
             Watch <a href="https://youtu.be/TNQsmPf24go">this</a> to learn how the “cloud” is actually a <em>very</em> tangible thing
@@ -99,10 +101,11 @@ The following tables briefly describe what we will be doing during class (“Con
             <br><br>
             Coding the <em>simplest</em> website (HTML)
         </td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>2</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Aug 30</td>
         <td>
             Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
@@ -112,9 +115,10 @@ The following tables briefly describe what we will be doing during class (“Con
         <td>
             Coding a website with a simple style (CSS) & interaction (JS)
         </td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Sep 1</td>
         <td>
             Pick a website you <strong>hate</strong> using
@@ -122,6 +126,7 @@ The following tables briefly describe what we will be doing during class (“Con
             Pick a website you <strong>love</strong> using
         </td>
         <td>Analyzing examples & discussing improvements</td>
+        <td></td>
     </tr>
 </table>
 
@@ -146,14 +151,15 @@ Due Sep 6, via Google Forms (exceptionally).
 <table>
     <tr>
         <th>Week</th>
-        <th>Weekday</th>
+        <!-- <th>Weekday</th> -->
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
+        <th>Materials</th>
     </tr>
     <tr>
         <td rowspan=2>3</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Sep 6</td>
         <td>
             Watch <a href="https://youtu.be/5g0x2xv3aHU?t=3155">this</a>, from <code>52:35</code> to <code>1:52:34</code>, to better understand the potential of HTML & CSS
@@ -165,9 +171,10 @@ Due Sep 6, via Google Forms (exceptionally).
             <br><br>
             Coding a minimalist personal site (one page)
         </td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Sep 8</td>
         <td>
             Read <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure">this</a> to learn how to structure whole <em>pages</em> with meaningful HTML tags
@@ -177,47 +184,54 @@ Due Sep 6, via Google Forms (exceptionally).
             Coding a more complex personal site (multiple pages)
             <!--Deploying (publishing) your personal website-->
         </td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>4</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Sep 13</td>
         <td>Plan your website</td>
         <td>Translating your content into a semantic (meaningful) HTML structure</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Sep 15</td>
         <td>
             Read <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">this</a> to better understand the basics of CSS
         </td>
         <td>Translating your sketch into CSS properties and values</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>5</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Sep 20</td>
         <td>Take note of 1-3 tasks you need help with</td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Sep 22</td>
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>6</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Sep 27</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Sep 29</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
+        <td></td>
     </tr>
 </table>
 
@@ -258,14 +272,15 @@ Due Oct 4, via Blackboard.
 <table>
     <tr>
         <th>Week</th>
-        <th>Weekday</th>
+        <!-- <th>Weekday</th> -->
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
+        <th>Materials</th>
     </tr>
     <tr>
         <td rowspan=2>7</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Oct 4</td>
         <td>
             Watch <a href="https://youtu.be/YoXxevp1WRQ?t=2514">this</a>, from <code>41:54</code> to <code>1:25:18</code>, to learn how to break complex tasks into simple step-by-step instructions
@@ -275,53 +290,61 @@ Due Oct 4, via Blackboard.
             <br><br>
             Discussing algorithms, data types & structures
         </td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Oct 6</td>
         <td>
             Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript
         </td>
         <td>Coding a simple quiz with JavaScript</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>8</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Oct 11</td>
         <td>Plan your website</td>
         <td>Coding a quiz with a score & lots of questions</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Oct 13</td>
         <td></td>
         <td>🚫 No class</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>9</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Oct 18</td>
         <td>Take note of 1-3 tasks you need help with</td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Oct 20</td>
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>10</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Oct 25</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Oct 27</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
+        <td></td>
     </tr>
 </table>
 
@@ -362,14 +385,15 @@ Due Nov 1, via Blackboard.
 <table>
     <tr>
         <th>Week</th>
-        <th>Weekday</th>
+        <!-- <th>Weekday</th> -->
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
+        <th>Materials</th>
     </tr>
     <tr>
         <td rowspan=2>11</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Nov 1</td>
         <td></td>
         <td>
@@ -377,64 +401,74 @@ Due Nov 1, via Blackboard.
             <br><br>
             Coding a simple dynamic page with Fetch API
         </td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Nov 3</td>
         <td></td>
         <td>Exploring a variety of APIs and Libraries</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>12</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Nov 8</td>
         <td>Plan your website</td>
         <td>Coding a dynamic page with Google Sheets API</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Nov 10</td>
         <td></td>
         <td>Coding a simple page with React</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>13</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Nov 15</td>
         <td>Take note of 1-3 tasks you need help with</td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Nov 17</td>
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>14</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Nov 22</td>
         <td>Submit a question for online (Zoom) session with instructor</td>
         <td>Answering most common questions from students (Zoom)</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Nov 24</td>
         <td></td>
         <td>🚫 No class</td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan=2>15</td>
-        <td>Tue</td>
+        <!-- <td>Tue</td> -->
         <td>Nov 29</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Thu</td>
+        <!-- <td>Thu</td> -->
         <td>Dec 1</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
+        <td></td>
     </tr>
 </table>
 
