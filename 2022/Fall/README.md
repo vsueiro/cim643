@@ -115,7 +115,7 @@ The following tables briefly describe what we will be doing during class (“Con
         <td>
             Coding a website with a simple style (CSS) & interaction (JS)
         </td>
-        <td></td>
+        <td><a href="lectures/cloud-myth.html">Topics</a></td>
     </tr>
     <tr>
         <!-- <td>Thu</td> -->
