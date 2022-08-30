@@ -109,7 +109,7 @@ The following tables briefly describe what we will be doing during class (“Con
             Watch <a href="https://www.youtube.com/watch?v=NTdRuYSOpV0">this</a> to hear from a pro how problem solving is more relevant than memorizing
         </td>
         <td>
-            Coding a website with a simple style (CSS) & interaction (JS)
+            Coding a website with a simple style (CSS) <s>& interaction (JS)</s>
         </td>
         <td><a href="lectures/cloud-myth">Topics</a></td>
     </tr>
