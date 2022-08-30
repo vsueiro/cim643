@@ -115,7 +115,7 @@ The following tables briefly describe what we will be doing during class (“Con
         <td>
             Coding a website with a simple style (CSS) & interaction (JS)
         </td>
-        <td><a href="lectures/cloud-myth.html">Topics</a></td>
+        <td><a href="lectures/cloud-myth">Topics</a></td>
     </tr>
     <tr>
         <!-- <td>Thu</td> -->
@@ -272,7 +272,6 @@ Due Oct 4, via Blackboard.
 <table>
     <tr>
         <th>Week</th>
-        <!-- <th>Weekday</th> -->
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
@@ -280,7 +279,6 @@ Due Oct 4, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>7</td>
-        <!-- <td>Tue</td> -->
         <td>Oct 4</td>
         <td>
             Watch <a href="https://youtu.be/YoXxevp1WRQ?t=2514">this</a>, from <code>41:54</code> to <code>1:25:18</code>, to learn how to break complex tasks into simple step-by-step instructions
@@ -293,7 +291,6 @@ Due Oct 4, via Blackboard.
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Oct 6</td>
         <td>
             Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript
@@ -303,14 +300,12 @@ Due Oct 4, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>8</td>
-        <!-- <td>Tue</td> -->
         <td>Oct 11</td>
         <td>Plan your website</td>
         <td>Coding a quiz with a score & lots of questions</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Oct 13</td>
         <td></td>
         <td>🚫 No class</td>
@@ -318,14 +313,12 @@ Due Oct 4, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>9</td>
-        <!-- <td>Tue</td> -->
         <td>Oct 18</td>
         <td>Take note of 1-3 tasks you need help with</td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Oct 20</td>
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
@@ -333,14 +326,12 @@ Due Oct 4, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>10</td>
-        <!-- <td>Tue</td> -->
         <td>Oct 25</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Oct 27</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
@@ -385,7 +376,6 @@ Due Nov 1, via Blackboard.
 <table>
     <tr>
         <th>Week</th>
-        <!-- <th>Weekday</th> -->
         <th>Date</th>
         <th>Preparation</th>
         <th>Content</th>
@@ -393,7 +383,6 @@ Due Nov 1, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>11</td>
-        <!-- <td>Tue</td> -->
         <td>Nov 1</td>
         <td></td>
         <td>
@@ -404,7 +393,6 @@ Due Nov 1, via Blackboard.
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Nov 3</td>
         <td></td>
         <td>Exploring a variety of APIs and Libraries</td>
@@ -412,14 +400,12 @@ Due Nov 1, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>12</td>
-        <!-- <td>Tue</td> -->
         <td>Nov 8</td>
         <td>Plan your website</td>
         <td>Coding a dynamic page with Google Sheets API</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Nov 10</td>
         <td></td>
         <td>Coding a simple page with React</td>
@@ -427,14 +413,12 @@ Due Nov 1, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>13</td>
-        <!-- <td>Tue</td> -->
         <td>Nov 15</td>
         <td>Take note of 1-3 tasks you need help with</td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Nov 17</td>
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
@@ -442,14 +426,12 @@ Due Nov 1, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>14</td>
-        <!-- <td>Tue</td> -->
         <td>Nov 22</td>
         <td>Submit a question for online (Zoom) session with instructor</td>
         <td>Answering most common questions from students (Zoom)</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Nov 24</td>
         <td></td>
         <td>🚫 No class</td>
@@ -457,14 +439,12 @@ Due Nov 1, via Blackboard.
     </tr>
     <tr>
         <td rowspan=2>15</td>
-        <!-- <td>Tue</td> -->
         <td>Nov 29</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
         <td></td>
     </tr>
     <tr>
-        <!-- <td>Thu</td> -->
         <td>Dec 1</td>
         <td>Sign up for a presentation slot (½ of the students)</td>
         <td>Presenting your work & getting feedback</td>
