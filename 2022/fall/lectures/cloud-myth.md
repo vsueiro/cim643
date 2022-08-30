@@ -7,7 +7,7 @@
 - The [first website](http://info.cern.ch/hypertext/WWW/TheProject.html) ever
 
 ### At [Google]()
-- Google’s first 40 GB storage uni with [coolers & LEGO bricks](https://upload.wikimedia.org/wikipedia/commons/3/35/The_first_Google_computer_at_Stanford.jpg)
+- Google’s first 40 GB storage unit with [coolers & LEGO bricks](https://upload.wikimedia.org/wikipedia/commons/3/35/The_first_Google_computer_at_Stanford.jpg)
 - Google’s first [web server](https://upload.wikimedia.org/wikipedia/commons/e/e0/Google%E2%80%99s_First_Production_Server.jpg)
 
 ## IPs & DNS
