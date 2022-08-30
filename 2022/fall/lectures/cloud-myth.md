@@ -42,6 +42,8 @@ for freelance.
 Let’s make magic. 🦄
 ```
 
+### Coded example
+
 Here is what we built during class:
 
 <iframe src="https://codesandbox.io/embed/competent-wescoff-g3bzwr?fontsize=14&hidenavigation=1&theme=dark"
@@ -51,6 +53,10 @@ Here is what we built during class:
     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
 ></iframe>
 
-You can also access the direct link:
+You can also access the direct link: [g3bzwr.csb.app](https://g3bzwr.csb.app/)
 
-[https://g3bzwr.csb.app/](https://g3bzwr.csb.app/)
+### Learning CSS
+
+Want to experiment with different CSS properties?
+
+Here you can find a (big) list of them: [w3schools.com/cssref/](https://www.w3schools.com/cssref/)
