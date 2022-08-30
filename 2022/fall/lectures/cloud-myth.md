@@ -24,3 +24,20 @@
 - [Vercel](https://vercel.com/)
 - [GitHub Pages](https://pages.github.com/)
 - …
+
+## Building a personal site
+
+We’ll live code a simple website (using HTML & CSS) with this content:
+
+```
+Hello! 👋 
+
+My name is Vinicius Sueiro and I’m a
+designer that codes things for the web.
+
+Check my projects on Instagram
+and reach out to me on Twitter
+for freelance.
+
+Let’s make magic. 🦄
+```
