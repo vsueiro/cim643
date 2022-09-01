@@ -140,6 +140,7 @@ For each of them, submit the following:
 
 Due Sep 6, via Google Forms (exceptionally).
 ```
+[Answer the Google Form ↗](https://forms.gle/NaRyGnFrXDarSzxF9)
 
 #### First Project: Personal Site
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-1.png)
