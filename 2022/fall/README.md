@@ -136,6 +136,7 @@ For each of them, submit the following:
 • What do you use it for?
 • Why do you hate or love using it?
 • How could it be improved?
+• How could those improvements be implemented?
 
 Due Sep 6, via Google Forms (exceptionally).
 ```
