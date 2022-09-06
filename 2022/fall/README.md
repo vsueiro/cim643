@@ -176,6 +176,9 @@ Due Sep 6, via Google Forms (exceptionally).
             <a href="https://codesandbox.io/s/personal-site-dog-5o8mfx">
                 Sandbox (pre-made)
             </a>
+            <a href="https://codesandbox.io/s/mr-corgi-tecwiq">
+                Sandbox (live-coded)
+            </a>
         </td>
     </tr>
     <tr>
