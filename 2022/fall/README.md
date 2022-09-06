@@ -121,7 +121,9 @@ The following tables briefly describe what we will be doing during class (“Con
             Pick a website you <strong>love</strong> using
         </td>
         <td>Analyzing examples & discussing improvements</td>
-        <td></td>
+        <td>
+            <a href="https://codesandbox.io/s/personal-site-warm-up-g3bzwr?file=/index.html">Sandbox</a>
+        </td>
     </tr>
 </table>
 
@@ -166,7 +168,15 @@ Due Sep 6, via Google Forms (exceptionally).
             <br><br>
             Coding a minimalist personal site (one page)
         </td>
-        <td></td>
+        <td>
+            <a href="lectures/planning-example">
+                Planning example
+            </a>
+            <br><br>
+            <a href="https://codesandbox.io/s/personal-site-dog-5o8mfx">
+                Sandbox (pre-made)
+            </a>
+        </td>
     </tr>
     <tr>
         <td>Sep 8</td>
@@ -231,7 +241,7 @@ Plan your website:
 • What is its content?
 • What could it look like?
 
-Due Sep 13, via Blackboard.
+Due Sep 13, via Google Forms (exceptionally).
 ```
 
 ##### Assignment: 🎤 Presentation
