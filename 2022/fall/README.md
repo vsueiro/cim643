@@ -197,7 +197,11 @@ Due Sep 6, via Google Forms (exceptionally).
         <td rowspan=2>4</td>
         <td>Sep 13</td>
         <td>Plan your website</td>
-        <td>Translating your content into a semantic (meaningful) HTML structure</td>
+        <td>
+            ✨ In person ✨
+            <br><br>
+            Translating your content into a semantic (meaningful) HTML structure
+        </td>
         <td></td>
     </tr>
     <tr>
