@@ -177,7 +177,7 @@ Due Sep 6, via Google Forms (exceptionally).
                 Sandbox (pre-made)
             </a>
             <a href="https://codesandbox.io/s/mr-corgi-tecwiq">
-                Sandbox (live-coded)
+                Sandbox
             </a>
         </td>
     </tr>
@@ -185,13 +185,15 @@ Due Sep 6, via Google Forms (exceptionally).
         <td>Sep 8</td>
         <td>
             Read <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure">this</a> to learn how to structure whole <em>pages</em> with meaningful HTML tags
-            <!--Sign up for <a href="">Vercel</a>-->
         </td>
         <td>
             Coding a more complex personal site (multiple pages)
-            <!--Deploying (publishing) your personal website-->
         </td>
-        <td></td>
+        <td>
+            <a href="https://codesandbox.io/s/multi-page-website-ckvy9z">
+                Sandbox
+            </a>
+        </td>
     </tr>
     <tr>
         <td rowspan=2>4</td>
