@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Sep 6, 2022. This document is subject to change.
+Last updated on Sep 8, 2022. This document is subject to change.
 
 ## About the Course
 
