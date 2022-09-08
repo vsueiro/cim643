@@ -251,6 +251,8 @@ Plan your website:
 Due Sep 13, via Google Forms (exceptionally).
 ```
 
+[Answer the Google Form ↗](https://forms.gle/wNnbJfmdioj9AHdM9)
+
 ##### Assignment: 🎤 Presentation
 ```
 Present your website:
