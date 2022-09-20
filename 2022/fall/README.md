@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Sep 8, 2022. This document is subject to change.
+Last updated on Sep 20, 2022. This document is subject to change.
 
 ## About the Course
 
@@ -212,20 +212,26 @@ Due Sep 6, via Google Forms (exceptionally).
             Read <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">this</a> to better understand the basics of CSS
         </td>
         <td>Translating your sketch into CSS properties and values</td>
-        <td></td>
+        <td>
+            <a href="https://codesandbox.io/s/flex-icons-zgvidb?file=/style.css">Sandbox</a>
+        </td>
     </tr>
     <tr>
         <td rowspan=2>5</td>
         <td>Sep 20</td>
         <td>Take note of 1-3 tasks you need help with</td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
-        <td></td>
+        <td>
+            <a href="https://codesandbox.io/s/transform-transition-d80miw">Sandbox (pre-coded)</a>
+        </td>
     </tr>
     <tr>
         <td>Sep 22</td>
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
-        <td></td>
+        <td>
+            <a href="https://codesandbox.io/s/loading-animation-2wxh9o">Sandbox (pre-coded)</a>
+        </td>
     </tr>
     <tr>
         <td rowspan=2>6</td>
