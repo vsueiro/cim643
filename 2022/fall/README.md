@@ -263,9 +263,11 @@ Due Sep 13, via Google Forms (exceptionally).
 
 ##### Assignment: 🎤 Presentation
 ```
-Present your website:
+Present your website (5 min):
 
-• Up to 5 minutes
+• Goals
+• Process
+• Learnings
 
 Due Sep 27 or 29, during class.
 ```
@@ -367,9 +369,11 @@ Due Oct 11, via Blackboard.
 
 ##### Assignment: 🎤 Presentation
 ```
-Present your website:
+Present your website (5 min):
 
-• Up to 5 minutes
+• Goals
+• Process
+• Learnings
 
 Due Oct 25 or 27, during class.
 ```
@@ -480,9 +484,11 @@ Due Nov 8, via Blackboard.
 
 ##### Assignment: 🎤 Presentation
 ```
-Present your website:
+Present your website (5 min):
 
-• Up to 5 minutes
+• Goals
+• Process
+• Learnings
 
 Due Nov 29 or Dec 1, during class.
 ```
