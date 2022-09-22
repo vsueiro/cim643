@@ -176,6 +176,7 @@ Due Sep 6, via Google Forms (exceptionally).
             <a href="https://codesandbox.io/s/personal-site-dog-5o8mfx">
                 Sandbox (pre-made)
             </a>
+            <br><br>
             <a href="https://codesandbox.io/s/mr-corgi-tecwiq">
                 Sandbox
             </a>
@@ -230,7 +231,11 @@ Due Sep 6, via Google Forms (exceptionally).
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
         <td>
+            <a href="https://youtu.be/SZ7ar_vGMVE">▶️ Pixels Under Microscope</a>
+            <br><br>
             <a href="https://codesandbox.io/s/loading-animation-2wxh9o">Sandbox (pre-coded)</a>
+            <br><br>
+            <a href="https://codesandbox.io/s/pulse-animation-cmg9sm">Sandbox (pre-coded)</a>
         </td>
     </tr>
     <tr>
@@ -283,7 +288,7 @@ Submit your website:
 • Screen capture or recording
 • Paragraph describing what you would have done differently – and why
 
-Due Oct 4, via Blackboard.
+Due Oct 4, via Google Forms.
 ```
 
 #### Second Project: Quiz
