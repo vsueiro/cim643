@@ -174,7 +174,7 @@ Due Sep 6, via Google Forms (exceptionally).
             </a>
             <br><br>
             <a href="https://codesandbox.io/s/personal-site-dog-5o8mfx">
-                Sandbox (pre-made)
+                Sandbox (pre-coded)
             </a>
             <br><br>
             <a href="https://codesandbox.io/s/mr-corgi-tecwiq">
@@ -231,7 +231,13 @@ Due Sep 6, via Google Forms (exceptionally).
         <td></td>
         <td>Pairing up with classmates to help each other (instructor may intervene)</td>
         <td>
+            <!--
             <a href="https://youtu.be/SZ7ar_vGMVE">▶️ Pixels Under Microscope</a>
+            <br><br>
+            -->
+            <a href="https://codesandbox.io/s/color-animation-dxc52e">
+            Sandbox
+            </a>
             <br><br>
             <a href="https://codesandbox.io/s/loading-animation-2wxh9o">Sandbox (pre-coded)</a>
             <br><br>
