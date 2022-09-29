@@ -292,10 +292,13 @@ Submit your website:
 
 • URL
 • Screen capture or recording
-• Paragraph describing what you would have done differently – and why
+• Answers to reflective questions about your project
 
 Due Oct 4, via Google Forms.
 ```
+
+[Submit via Google Forms ↗](https://forms.gle/d6ci9FUNDGcSKt4p8)
+
 
 #### Second Project: Quiz
 ![Chart shows a step with 3 weeks of class plus 1 presentation week 🎤](assets/part-2.png)
@@ -398,7 +401,7 @@ Submit your website:
 
 • URL
 • Screen capture or recording
-• Paragraph describing what you would have done differently – and why
+• Answers to reflective questions about your project
 
 Due Nov 1, via Blackboard.
 ```
@@ -513,7 +516,7 @@ Submit your website:
 
 • URL
 • Screen capture or recording
-• Paragraph describing what you would have done differently – and why
+• Answers to reflective questions about your project
 
 Due Dec 6, via Blackboard.
 ```
