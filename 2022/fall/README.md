@@ -322,7 +322,9 @@ Due Oct 4, via Google Forms.
             <br><br>
             Discussing algorithms, data types & structures
         </td>
-        <td></td>
+        <td>
+            <a href="https://codesandbox.io/s/like-counter-6jfy9s?file=/script.js">Sandbox</a>
+        </td>
     </tr>
     <tr>
         <td>Oct 6</td>
