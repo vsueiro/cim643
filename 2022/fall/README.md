@@ -41,7 +41,7 @@ Optionally:
 - [GitHub](https://github.com/) (to collaborate with others – and your future self)
 - [Google Domains](https://domains.google/) (to rent a friendly name, like  “example.com”)
 
-All tools are free (or provide a free version), except Google Domains. 💸.
+All tools are free (or provide a free version), except Google Domains. 💸
 
 ### Course Timeline
 
