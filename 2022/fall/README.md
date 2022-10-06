@@ -383,8 +383,9 @@ Plan your website:
 • What is its content?
 • What could it look like?
 
-Due Oct 11, via Blackboard.
+Due Oct 11, via Google Forms.
 ```
+[Answer the Google Form ↗](https://forms.gle/CbSQrhgBKEu59NJF6)
 
 ##### Assignment: 🎤 Presentation
 ```
@@ -405,7 +406,7 @@ Submit your website:
 • Screen capture or recording
 • Answers to reflective questions about your project
 
-Due Nov 1, via Blackboard.
+Due Nov 1, via Google Forms.
 ```
 
 #### Third Project: Dynamic Site
@@ -498,7 +499,7 @@ Plan your website:
 • What is its content?
 • What could it look like?
 
-Due Nov 8, via Blackboard.
+Due Nov 8, via Google Forms.
 ```
 
 ##### Assignment: 🎤 Presentation
@@ -520,7 +521,7 @@ Submit your website:
 • Screen capture or recording
 • Answers to reflective questions about your project
 
-Due Dec 6, via Blackboard.
+Due Dec 6, via Google Forms.
 ```
 
 #### Looking Ahead
@@ -567,7 +568,7 @@ The format could either be:
 
 Feel free to include sketches, photos or any other media.
 
-Due Dec 9, via Blackboard (instead of Final Exam).
+Due Dec 9, via Google Forms (instead of Final Exam).
 ```
 
 ## Grading
