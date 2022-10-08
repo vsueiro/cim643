@@ -332,7 +332,9 @@ Due Oct 4, via Google Forms.
             Watch <a href="https://youtu.be/5g0x2xv3aHU?t=6774">this</a>, from <code>1:50:50</code> to <code>2:25:40</code>, to learn the basics of JavaScript
         </td>
         <td>Coding a simple quiz with JavaScript</td>
-        <td></td>
+        <td>
+            <a href="https://codesandbox.io/s/quiz-single-question-7deoh8">Sandbox</a>
+        </td>
     </tr>
     <tr>
         <td rowspan=2>8</td>
