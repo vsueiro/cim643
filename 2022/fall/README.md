@@ -394,11 +394,14 @@ Due Oct 11, via Google Forms.
 Present your website (5 min):
 
 • Goals
-• Process
+• Demonstration (classmates as play testers, ideally)
 • Learnings
 
 Due Oct 25 or 27, during class.
 ```
+
+[Sign up for a presentation slot ↗](https://docs.google.com/spreadsheets/d/19L6CDpw94xk3K233FHQ6ju__e2-l8Y5FVlgx0qD8dWI/edit#gid=1551064258)
+
 
 ##### Assignment: 💻 Submission
 ```
