@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Oct 20, 2022. This document is subject to change.
+Last updated on Oct 27, 2022. This document is subject to change.
 
 ## About the Course
 
@@ -413,6 +413,8 @@ Submit your website:
 
 Due Nov 1, via Google Forms.
 ```
+
+[Submit via Google Forms ↗](https://forms.gle/6aKd8EtHYfvD1CBH7)
 
 #### Third Project: Dynamic Site
 ![Chart shows a step with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
