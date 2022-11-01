@@ -427,7 +427,7 @@ You (and your pair) are free to choose the topic of your project. Here is how yo
 
 - Usage of semantic HTML: 3 points
 - Usage of responsive CSS: 3 points
-- Usage of third-party API’s or JS libraries: 4 points
+- Usage of third-party APIs or JS libraries: 4 points
 
 <table>
     <tr>
@@ -448,6 +448,10 @@ You (and your pair) are free to choose the topic of your project. Here is how yo
         </td>
         <td>
             <a href="lectures/apis">List of Free APIs</a>
+            <br><br>
+            <a href="https://codesandbox.io/s/api-request-64yl89">Sandbox</a>
+            <br><br>
+            <a href="https://codesandbox.io/s/not-bored-7nzdnz">Sandbox</a> 
         </td>
     </tr>
     <tr>
