@@ -423,7 +423,7 @@ This project should be conducted in **pairs**.
 
 ##### Rubric
 
-You (and your pair) are free to choose the topic of your project. Here is how you will be evaluated:
+You (and your pair) are free to choose the topic of your project. Here is how you will be evaluated (pairs will obtain the same grade):
 
 - Usage of semantic HTML: 3 points
 - Usage of responsive CSS: 3 points
