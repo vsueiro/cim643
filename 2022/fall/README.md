@@ -436,7 +436,9 @@ Due Nov 1, via Google Forms.
             <br><br>
             Coding a simple dynamic page with Fetch API
         </td>
-        <td></td>
+        <td>
+            <a href="lectures/apis">List of Free APIs</a>
+        </td>
     </tr>
     <tr>
         <td>Nov 3</td>
