@@ -419,6 +419,16 @@ Due Nov 1, via Google Forms.
 #### Third Project: Dynamic Site
 ![Chart shows a step with 4 weeks of class plus 1 presentation week 🎤](assets/part-3.png)
 
+This project should be conducted in **pairs**.
+
+##### Rubric
+
+You (and your pair) are free to choose the topic of your project. Here is how you will be evaluated:
+
+- Usage of semantic HTML: 3 points
+- Usage of responsive CSS: 3 points
+- Usage of third-party API’s or JS libraries: 4 points
+
 <table>
     <tr>
         <th>Week</th>
