@@ -4,7 +4,7 @@ Here is a list of free JavaScript libraries. Of course there are thousands more,
 
 
 Swiper (easy sliders)
-https://swiperjs.com/](https://swiperjs.com/)
+[https://swiperjs.com/](https://swiperjs.com/)
 
 Mapbox (custom interactive maps)
 [https://www.mapbox.com/mapbox-gljs](https://www.mapbox.com/mapbox-gljs)
