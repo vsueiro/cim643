@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Nov 1, 2022. This document is subject to change.
+Last updated on Nov 3, 2022. This document is subject to change.
 
 ## About the Course
 
@@ -458,7 +458,9 @@ You (and your pair) are free to choose the topic of your project. Here is how yo
         <td>Nov 3</td>
         <td></td>
         <td>Exploring a variety of APIs and Libraries</td>
-        <td></td>
+        <td>
+            <a href="lectures/libraries">List of Free Libraries</a>
+        </td>
     </tr>
     <tr>
         <td rowspan=2>12</td>
@@ -477,20 +479,20 @@ You (and your pair) are free to choose the topic of your project. Here is how yo
         <td rowspan=2>13</td>
         <td>Nov 15</td>
         <td>Take note of 1-3 tasks you need help with</td>
-        <td>Pairing up with classmates to help each other (instructor may intervene)</td>
+        <td>Debug session</td>
         <td></td>
     </tr>
     <tr>
         <td>Nov 17</td>
-        <td></td>
-        <td>Pairing up with classmates to help each other (instructor may intervene)</td>
+        <td>Take note of 1-3 tasks you need help with</td>
+        <td>Debug session</td>
         <td></td>
     </tr>
     <tr>
         <td rowspan=2>14</td>
         <td>Nov 22</td>
-        <td>Submit a question for online (Zoom) session with instructor</td>
-        <td>Answering most common questions from students (Zoom)</td>
+        <td>Submit a question via Google Forms</td>
+        <td>Answering most common questions from students (Zoom recording)</td>
         <td></td>
     </tr>
     <tr>
@@ -502,8 +504,8 @@ You (and your pair) are free to choose the topic of your project. Here is how yo
     <tr>
         <td rowspan=2>15</td>
         <td>Nov 29</td>
-        <td>Sign up for a presentation slot (½ of the students)</td>
-        <td>Presenting your work & getting feedback</td>
+        <td>Take note of 1-3 tasks you need help with</td>
+        <td>Debug session</td>
         <td></td>
     </tr>
     <tr>
@@ -533,7 +535,7 @@ Present your website (5 min):
 • Process
 • Learnings
 
-Due Nov 29 or Dec 1, during class.
+Due Dec 1, during class.
 ```
 
 ##### Assignment: 💻 Submission
