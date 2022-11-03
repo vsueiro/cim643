@@ -527,6 +527,8 @@ Plan your website:
 Due Nov 8, via Google Forms.
 ```
 
+[Answer the Google Form ↗](https://forms.gle/WDwhEBvrdkWxuq2V6)
+
 ##### Assignment: 🎤 Presentation
 ```
 Present your website (5 min):
