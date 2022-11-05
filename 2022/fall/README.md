@@ -429,6 +429,10 @@ You (and your pair) are free to choose the topic of your project. Here is how yo
 - Usage of responsive CSS: 3 points
 - Usage of third-party APIs or JS libraries: 4 points
 
+##### No idea what to build?
+
+Here are a few [project ideas to get you started](lectures/project-3-ideas).
+
 <table>
     <tr>
         <th>Week</th>
@@ -447,7 +451,7 @@ You (and your pair) are free to choose the topic of your project. Here is how yo
             Coding a simple dynamic page with Fetch API
         </td>
         <td>
-            <a href="lectures/apis">List of Free APIs</a>
+            <a href="lectures/apis">List of free APIs</a>
             <br><br>
             <a href="https://codesandbox.io/s/api-request-64yl89">Sandbox</a>
             <br><br>
@@ -457,9 +461,9 @@ You (and your pair) are free to choose the topic of your project. Here is how yo
     <tr>
         <td>Nov 3</td>
         <td></td>
-        <td>Exploring a variety of APIs and Libraries</td>
+        <td>Exploring a variety of APIs and libraries</td>
         <td>
-            <a href="lectures/libraries">List of Free Libraries</a>
+            <a href="lectures/libraries">List of free libraries</a>
         </td>
     </tr>
     <tr>
