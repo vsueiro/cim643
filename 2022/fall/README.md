@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Nov 9, 2022. This document is subject to change.
+Last updated on Nov 15, 2022. This document is subject to change.
 
 ## About the Course
 
@@ -470,7 +470,7 @@ Here are a few [project ideas to get you started](lectures/project-3-ideas).
         <td rowspan=2>12</td>
         <td>Nov 8</td>
         <td>Plan your website</td>
-        <td>Coding a dynamic page with Google Sheets API</td>
+        <td>Coding a dynamic page with Google Sheets API (write)</td>
         <td>
             <a href="https://codesandbox.io/s/google-sheets-write-j2p91k?file=/index.html">Sandbox</a>
         </td>
@@ -478,14 +478,14 @@ Here are a few [project ideas to get you started](lectures/project-3-ideas).
     <tr>
         <td>Nov 10</td>
         <td></td>
-        <td>Coding a simple page with React</td>
+        <td>Coding a <del>simple page with React</del> dynamic page with Google Sheets API (read)</td>
         <td></td>
     </tr>
     <tr>
         <td rowspan=2>13</td>
         <td>Nov 15</td>
         <td>Take note of 1-3 tasks you need help with</td>
-        <td>Debug session</td>
+        <td>Debug session (online through Zoom! 💻)</td>
         <td></td>
     </tr>
     <tr>
