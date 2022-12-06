@@ -543,7 +543,7 @@ Present your website (5 min):
 • Process
 • Learnings
 
-Due Dec 1, during class.
+Due Dec 6, during class.
 ```
 
 [Sign up for a presentation slot ↗](https://docs.google.com/spreadsheets/d/19L6CDpw94xk3K233FHQ6ju__e2-l8Y5FVlgx0qD8dWI/edit#gid=2076035939)
