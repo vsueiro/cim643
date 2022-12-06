@@ -8,7 +8,7 @@ Lecturer | Email
 ---|---
 Vinicius Sueiro | hi@vsueiro.com
 
-Last updated on Nov 15, 2022. This document is subject to change.
+Last updated on Dec 6, 2022. This document is subject to change.
 
 ## About the Course
 
@@ -556,8 +556,11 @@ Submit your website:
 • Screen capture or recording
 • Answers to reflective questions about your project
 
-Due Dec 6, via Google Forms.
+Due Dec 9, via Google Forms.
 ```
+
+[Submit via Google Forms ↗](https://forms.gle/VGXWZuaasVQm6H5y8)
+
 
 #### Looking Ahead
 ![Character with telescope](assets/looking-ahead.png)
