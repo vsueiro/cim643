@@ -562,8 +562,10 @@ Due Dec 9, via Google Forms.
 [Submit via Google Forms ↗](https://forms.gle/VGXWZuaasVQm6H5y8)
 
 
-#### Looking Ahead
+#### Looking Ahead (Cancelled)
 ![Character with telescope](assets/looking-ahead.png)
+
+⚠️ This step of the course was cancelled, to make room for project 3 presentations.
 
 <table>
     <tr>
