@@ -611,6 +611,9 @@ Feel free to include sketches, photos or any other media.
 Due Dec 9, via Google Forms (instead of Final Exam).
 ```
 
+[Submit via Google Forms ↗](https://forms.gle/kRK8rPGhAPjfJKCW9)
+
+
 ## Grading
 
 I reserve the right to adjust the final grade according to class participation, attendance, overall
