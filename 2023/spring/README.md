@@ -380,7 +380,7 @@ quality of work, etc.
     </tr>
 </table>
 
-Late submissions will be accepted, but with a **10% grade deduction** on that specific assignment.
+Late submissions <em>will</em> be accepted during the semester, but with a **10% grade deduction** on that assignment.
 
 ### Grading Scale
 
