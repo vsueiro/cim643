@@ -80,20 +80,37 @@ The following tables briefly describe what we will be doing during class (“Con
     <tr>
       <td rowspan="2">1</td><td>Jan 17</td>
       <td></td>
-      <td></td>
+      <td>Discussing course goals, topics, tools, timeline & grading</td>
       <td></td>
     </tr>
     <tr>
       <td>Jan 19</td>
-      <td></td>
-      <td></td>
-      <td></td>
+        <td>
+          Watch <a href="https://youtu.be/TNQsmPf24go">this</a> to learn how the “cloud” is actually a <em>very</em> tangible thing
+          <br><br>
+          Watch <a href="https://youtu.be/YoXxevp1WRQ?t=313">this</a>, from <code>5:13</code> to <code>41:54</code>, to learn how computers cleverly represent numbers, text, color, images & even emoji
+          <br><br>
+          Sign up for <a href="https://codesandbox.io/">CodeSandbox</a>
+        </td>
+        <td>
+          Exploring the anatomy of the web:
+          servers (back end) & clients (front end)
+          <br><br>
+          Coding the <em>simplest</em> website (HTML)
+        </td>
+      <td><a href="lectures/cloud-myth">Topics</a></td>
     </tr>
     <tr>
       <td rowspan="2">2</td><td>Jan 24</td>
-      <td></td>
-      <td></td>
-      <td></td>
+        <td>
+          Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
+          <br><br>
+          Watch <a href="https://www.youtube.com/watch?v=NTdRuYSOpV0">this</a> to hear from a pro how problem solving is more relevant than memorizing
+        </td>
+        <td>
+          Coding a website with a simple visual style (CSS)
+        </td>
+        <td></td>
     </tr>
     <tr>
       <td>Jan 26</td>
