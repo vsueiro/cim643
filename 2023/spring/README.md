@@ -219,13 +219,13 @@ The following tables briefly describe what we will be doing during class (“Con
     <tr>
       <td rowspan="2">9</td><td>Mar 14</td>
       <td></td>
-      <td>🚫 No class</td>
+      <td>🚫 No class (Spring Break)</td>
       <td></td>
     </tr>
     <tr>
       <td>Mar 16</td>
       <td></td>
-      <td>🚫 No class</td>
+      <td>🚫 No class (Spring Break)</td>
       <td></td>
     </tr>
     <tr>
