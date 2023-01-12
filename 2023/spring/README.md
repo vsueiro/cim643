@@ -1,4 +1,4 @@
-<script src="https://vsueiro.com/syllabus-generator/lib/timeline.css" defer></script>
+<link rel="stylesheet" href="https://vsueiro.com/syllabus-generator/lib/timeline.css">
 <script src="https://vsueiro.com/syllabus-generator/lib/timeline.js" defer></script>
 
 # Syllabus — Front End Fundamentals
