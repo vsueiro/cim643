@@ -1,3 +1,6 @@
+<script src="https://vsueiro.com/syllabus-generator/lib/timeline.css" defer></script>
+<script src="https://vsueiro.com/syllabus-generator/lib/timeline.js" defer></script>
+
 # Syllabus — Front End Fundamentals
 
 This is the main document for the CIM 443/643 course at University of Miami, Spring 2023.
@@ -47,6 +50,8 @@ All tools are free (or provide a free version), except Google Domains. 💸
 ### Course Timeline
 
 We will not learn everything at once. Instead, this course is split into a few steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
+
+<div class="timeline" data-id="1UF4zQJUSCg_VkPYPwaEEfqra7Xh9jEW_DLgL6SsF2q4" data-sheet="CIM 443/643"></div>
 
 ![Weekly gantt chart shows weeks class, divided into steps. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
 
