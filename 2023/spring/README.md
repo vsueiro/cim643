@@ -79,256 +79,6 @@ The following tables briefly describe what we will be doing during class (“Con
 
 <div class="table" data-step="4"></div>
 
-<table>
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Date</th>
-      <th>Preparation</th>
-      <th>Content</th>
-      <th>Materials</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">1</td><td>Jan 17</td>
-      <td></td>
-      <td>Discussing course goals, topics, tools, timeline & grading</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Jan 19</td>
-        <td>
-          Watch <a href="https://youtu.be/TNQsmPf24go">this</a> to learn how the “cloud” is actually a <em>very</em> tangible thing
-          <br><br>
-          Watch <a href="https://youtu.be/YoXxevp1WRQ?t=313">this</a>, from <code>5:13</code> to <code>41:54</code>, to learn how computers cleverly represent numbers, text, color, images & even emoji
-          <br><br>
-          Sign up for <a href="https://codesandbox.io/">CodeSandbox</a>
-        </td>
-        <td>
-          Exploring the anatomy of the web:
-          servers (back end) & clients (front end)
-          <br><br>
-          Coding the <em>simplest</em> website (HTML)
-        </td>
-      <td><a href="lectures/cloud-myth">Topics</a></td>
-    </tr>
-    <tr>
-      <td rowspan="2">2</td><td>Jan 24</td>
-        <td>
-          Watch <a href="https://youtu.be/ysEN5RaKOlA">this</a> to quickly grasp the full jargon of web development
-          <br><br>
-          Watch <a href="https://www.youtube.com/watch?v=NTdRuYSOpV0">this</a> to hear from a pro how problem solving is more relevant than memorizing
-        </td>
-        <td>
-          Coding a website with a simple visual style (CSS)
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-      <td>Jan 26</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">3</td><td>Jan 31</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Feb 2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Date</th>
-      <th>Preparation</th>
-      <th>Content</th>
-      <th>Materials</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">4</td><td>Feb 7</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Feb 9</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">5</td><td>Feb 14</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Feb 16</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">6</td><td>Feb 21</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Feb 23</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">7</td><td>Feb 28</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mar 2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">8</td><td>Mar 7</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mar 9</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Date</th>
-      <th>Preparation</th>
-      <th>Content</th>
-      <th>Materials</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">9</td><td>Mar 14</td>
-      <td></td>
-      <td>🚫 No class (Spring Break)</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mar 16</td>
-      <td></td>
-      <td>🚫 No class (Spring Break)</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">10</td><td>Mar 21</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mar 23</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">11</td><td>Mar 28</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Mar 30</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">12</td><td>Apr 4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Apr 6</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">13</td><td>Apr 11</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Apr 13</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">14</td><td>Apr 18</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Apr 20</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-<table>
-  <thead>
-    <tr>
-      <th>Week</th>
-      <th>Date</th>
-      <th>Preparation</th>
-      <th>Content</th>
-      <th>Materials</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">15</td><td>Apr 25</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Apr 27</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
 ## Grading
 
 I reserve the right to adjust the final grade according to class participation, attendance, overall
@@ -339,61 +89,73 @@ quality of work, etc.
 <table>
     <tr>
         <th>Step</th>
+        <th>Weight</th>
         <th>Assignment</th>
+        <th>Task</th>
         <th>Points</th>
     </tr>
     <tr>
-        <td>Introduction</td>
-        <td>🔍 &nbsp;Analysis</td>
+        <td rowspan=5>Project: Profile</td>
+        <td rowspan=5>40 Points</td>
+        <td rowspan=2>Planning</td>
+        <td>Presentation</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Feedback</td>
         <td>5</td>
     </tr>
     <tr>
-        <td rowspan=3>First Project</td>
-        <td>✏️ &nbsp;Planning</td>
+        <td rowspan=3>Website</td>
+        <td>Presentation</td>
         <td>10</td>
     </tr>
     <tr>
-        <td>🎤 &nbsp;Presentation</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>💻 &nbsp;Submission</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td rowspan=3>Second Project</td>
-        <td>✏️ &nbsp;Planning</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>🎤 &nbsp;Presentation</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>💻 &nbsp;Submission</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td rowspan=3>Third Project</td>
-        <td>✏️ &nbsp;Planning</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>🎤 &nbsp;Presentation</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>💻 &nbsp;Submission</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Looking ahead</td>
-        <td>🔭 &nbsp;Self-reflection</td>
+        <td>Feedback</td>
         <td>5</td>
+    </tr>
+    <tr>
+        <td>Submission</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td rowspan=5>Project: Quiz</td>
+        <td rowspan=5>50 Points</td>
+        <td rowspan=2>Planning</td>
+        <td>Presentation</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Feedback</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td rowspan=3>Website</td>
+        <td>Presentation</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>Feedback</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Submission</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Final Exam</td>
+        <td>10 Points</td>
+        <td>Self-reflection</td>
+        <td>Submission</td>
+        <td>10</td>
     </tr>
 </table>
 
-Late submissions <em>will</em> be accepted during the semester, but with a **10% grade deduction** on that assignment.
+#### Missed a task?
+
+Late submissions via Blackboard <em>will</em> be accepted during the semester, but with a **10% grade deduction**.
+
+In case students miss an in-class presentation, they can still submit a video recording via Blackboard, also with a **10% grade deduction**. However, the peer feedback points will be lost.
 
 ### Grading Scale
 
@@ -413,7 +175,7 @@ Late submissions <em>will</em> be accepted during the semester, but with a **10%
 
 ## Office Hours
 
-Students may schedule individual sessions with the instructor. Please use [Calendly](https://calendly.com/vsueiro/office-hours) to pick a specific time slot for our remote (Zoom) meeting. If you want to meet at another day or time, please email your instructor to check availability.
+Students are welcome to schedule individual sessions with the instructor. Please use [Calendly](https://calendly.com/vsueiro/office-hours) to pick a specific time slot for our remote (Zoom) meeting. If you want to meet at another day, time, or place, please email your instructor to check availability.
 
 ## Policies
 
@@ -430,7 +192,7 @@ Students may schedule individual sessions with the instructor. Please use [Calen
 <details>
     <summary>Recording Policy</summary>
     Students are expressly prohibited from recording any part of this course. If any recordings are available to students, they are intended to supplement the classroom experience. Students are expected to follow appropriate University policies and maintain the security of passwords used to access recorded lectures. Recordings may not be reproduced, shared with those not in the class, or uploaded to other online environments.
-
+    <br><br>
     If the instructor or a University of Miami office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. Instructors are the copyright owner of the courseware; individual recordings of the materials on Blackboard and/or of the virtual sessions are not allowed; and that such materials cannot be shared outside the physical or virtual classroom environment.
 
 </details>
