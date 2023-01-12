@@ -71,6 +71,14 @@ After the presentation, students are free to adjust the project (based on that f
 
 The following tables briefly describe what we will be doing during class (“Content”) and what you are expected to do before each class (“Preparation”).
 
+<div class="table" data-step="1"></div>
+
+<div class="table" data-step="2"></div>
+
+<div class="table" data-step="3"></div>
+
+<div class="table" data-step="4"></div>
+
 <table>
   <thead>
     <tr>
