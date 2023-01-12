@@ -51,7 +51,7 @@ All tools are free (or provide a free version), except Google Domains. 💸
 
 We will not learn everything at once. Instead, this course is split into a few steps. Each step builds on top of what we learned from the previous one. Here is what this progression looks like:
 
-<div class="timeline" data-id="1UF4zQJUSCg_VkPYPwaEEfqra7Xh9jEW_DLgL6SsF2q4" data-sheet="CIM 443/643"></div>
+<div class="timeline" data-id="1UF4zQJUSCg_VkPYPwaEEfqra7Xh9jEW_DLgL6SsF2q4" data-range="CIM 443/643"></div>
 
 ![Weekly gantt chart shows weeks class, divided into steps. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
 
