@@ -53,23 +53,11 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 <div class="timeline" data-id="1UF4zQJUSCg_VkPYPwaEEfqra7Xh9jEW_DLgL6SsF2q4" data-range="CIM 443/643"></div>
 
-![Weekly gantt chart shows weeks class, divided into steps. It resembles 2D platform games by indicading a 🐥 character needs to progress to reach a 🔭 in the end.”](assets/cim643.png)
-
 After a few of weeks of introduction, students begin working on projects (of increasing complexity).
-
-#### Presentation week
-
-At the end of each project step, we have **presentation week** – imagine this to be you a few times during the semester:
-
-![Character with microphone](assets/presentation-week.png)
-
-On presentation week, both classes of that week will be dedicated to presentation and discussion of projects. Half of the students present one day and half on the other. Each student has about 5 minutes to present their project and get feedback.
-
-After the presentation, students are free to adjust the project (based on that feedback) and submit it for grading (prior to the beginning of the first class of the following week).
 
 ### Course Content
 
-The following tables briefly describe what we will be doing during class (“Content”) and what you are expected to do before each class (“Preparation”).
+The following tables briefly describe what we will be doing during class (“Content”), what you are expected to do before each class (“Preparation”), and what we have built during class (“Materials”).
 
 <div class="table" data-step="1"></div>
 
@@ -197,28 +185,31 @@ Students are welcome to schedule individual sessions with the instructor. Please
 
 </details>
 
-### Honor Code & Plagiarism Statements
+<details>
+    <summary>Honor Code & Plagiarism Statements</summary>
+    Students enrolled in this course are expected to abide by the University of Miami Honor Code. The purpose of the Honor Code is to protect the academic integrity of the University by encouraging consistent ethical behavior in assigned coursework. Academic dishonesty of any kind, for whatever reason, will not be tolerated.
+    <br><br>
+    No honest student wants to be guilty of the intellectual crime of plagiarism, even unintentionally. Therefore, we provide you with these guidelines so that you don’t accidentally fall into the plagiarism trap.
+    <br><br>
+    Plagiarism is the taking of someone else’s words, work, or ideas, and passing them off as a product of your own efforts. Plagiarism may occur when a person fails to place quotation marks around someone else’s exact words, directly rephrasing or paraphrasing someone else’s words while still following the general form of the original, and/or failing to issue the proper citation to one’s source material.
+    <br><br>
+    In student papers, plagiarism is often due to:
+    <br><br>
+    <ul>
+      <li>Turning in someone else’s paper as one’s own</li>
+      <li>Using another person’s data or ideas without acknowledgment</li>
+      <li>Failing to cite a written source (printed or internet) of information that you used to collect data or ideas</li>
+      <li>Copying an author’s exact words and putting them in the paper without quotation marks</li>
+      <li>Rephrasing an author’s words and failing to cite the source</li>
+      <li>Copying, rephrasing, or quoting an author’s exact words and citing a source other than where the material was obtained</li>
+      <li>Using wording that is very similar to that of the original source, but passing it off as one’s own</li>
+    </ul>
+    <br><br>
+    The last item is probably the most common problem in student writing. It is still plagiarism if students use an author’s key phrases or sentences in a way that implies they are their own, even if they cite the source.
+</details>
 
-Students enrolled in this course are expected to abide by the University of Miami Honor Code. The purpose of the Honor Code is to protect the academic integrity of the University by encouraging consistent ethical behavior in assigned coursework. Academic dishonesty of any kind, for whatever reason, will not be tolerated.
-
-No honest student wants to be guilty of the intellectual crime of plagiarism, even unintentionally. Therefore, we provide you with these guidelines so that you don’t accidentally fall into the plagiarism trap.
-
-Plagiarism is the taking of someone else’s words, work, or ideas, and passing them off as a product of your own efforts. Plagiarism may occur when a person fails to place quotation marks around someone else’s exact words, directly rephrasing or paraphrasing someone else’s words while still following the general form of the original, and/or failing to issue the proper citation to one’s source material.
-
-In student papers, plagiarism is often due to:
-
-- Turning in someone else’s paper as one’s own
-- Using another person’s data or ideas without acknowledgment
-- Failing to cite a written source (printed or internet) of information that you used to collect data or ideas
-- Copying an author’s exact words and putting them in the paper without quotation marks
-- Rephrasing an author’s words and failing to cite the source
-- Copying, rephrasing, or quoting an author’s exact words and citing a source other than where the material was obtained
-- Using wording that is very similar to that of the original source, but passing it off as one’s own
-
-The last item is probably the most common problem in student writing. It is still plagiarism if students use an author’s key phrases or sentences in a way that implies they are their own, even if they cite the source.
-
-### Well-Being Resources & Support
+## Well-Being Resources & Support
 
 As you complete your coursework, consider how you can maintain your health and well-being as a top priority. To help you become familiar with the many programs and services available on campus, review the information collected on the Student Well-Being and Resiliency website available at [miami.edu/well-being](https://miami.edu/well-being).
 
-Please reach out to me or any of the resources listed on the site if you need assistance or support throughout the semester.
+Please reach out to your instructor or any of the resources listed on the site if you need assistance or support throughout the semester.
