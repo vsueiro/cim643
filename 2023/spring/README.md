@@ -41,9 +41,9 @@ This course also covers tools that help us organize and scale up our projects:
 Optionally:
 
 - [Vercel](https://vercel.com/) (to easily deploy your website)
-- [Visual Studio Code](https://code.visualstudio.com/) (to write code as files in your own computer)
-- [GitHub](https://github.com/) (to collaborate with others – and your future self)
 - [Google Domains](https://domains.google/) (to rent a friendly name, like “example.com”)
+  <!-- - [GitHub](https://github.com/) (to collaborate with others – and your future self) -->
+  <!-- - [Visual Studio Code](https://code.visualstudio.com/) (to write code as files in your own computer) -->
 
 All tools are free (or provide a free version), except Google Domains. 💸
 
@@ -53,7 +53,27 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 <div class="timeline" data-id="1UF4zQJUSCg_VkPYPwaEEfqra7Xh9jEW_DLgL6SsF2q4" data-range="CIM 443/643"></div>
 
-After a few of weeks of introduction, students begin working on projects (of increasing complexity).
+#### Presentation day
+
+For each project, students will share their initial **planning** and their final **website** with classmates. Since there are 2 projects, this means that each student will present their work 4&times; during the semester.
+
+In order to present, students need to sign-up for 5-minute **presentation slots** (instructions will be provided via Blackboard).
+
+#### Peer Feedback
+
+During presentation days, each student must <span style="color: DeepPink">provide feedback to (→)</span> at least 1 classmate, as illustrated below:
+
+<img src="../../media/peer-feedback.gif" alt="Animated diagram" width="226">
+
+##### How does it work?
+
+After one student presents, the next student provides feedback to the first one.
+
+After the _last_ student presents, the _first_ student provides feedback.
+
+<!--
+_In other words: right before you present, you provide feedback for the student that has just presented._
+-->
 
 ### Course Content
 
@@ -96,7 +116,7 @@ I reserve the right to adjust the final grade according to class participation, 
         <td>10</td>
     </tr>
     <tr>
-        <td>Feedback</td>
+        <td>Peer Feedback</td>
         <td>5</td>
     </tr>
     <tr>
@@ -105,7 +125,7 @@ I reserve the right to adjust the final grade according to class participation, 
         <td>10</td>
     </tr>
     <tr>
-        <td>Feedback</td>
+        <td>Peer Feedback</td>
         <td>5</td>
     </tr>
     <tr>
@@ -120,7 +140,7 @@ I reserve the right to adjust the final grade according to class participation, 
         <td>10</td>
     </tr>
     <tr>
-        <td>Feedback</td>
+        <td>Peer Feedback</td>
         <td>5</td>
     </tr>
     <tr>
@@ -129,7 +149,7 @@ I reserve the right to adjust the final grade according to class participation, 
         <td>10</td>
     </tr>
     <tr>
-        <td>Feedback</td>
+        <td>Peer Feedback</td>
         <td>5</td>
     </tr>
     <tr>
