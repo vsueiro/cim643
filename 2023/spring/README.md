@@ -69,8 +69,7 @@ The following tables briefly describe what we will be doing during class (“Con
 
 ## Grading
 
-I reserve the right to adjust the final grade according to class participation, attendance, overall
-quality of work, etc.
+I reserve the right to adjust the final grade according to class participation, attendance, overall quality of work, etc.
 
 ### Grading Breakdown
 
