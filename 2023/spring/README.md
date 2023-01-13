@@ -169,32 +169,43 @@ Students are welcome to schedule individual sessions with the instructor. Please
 
 <details>
     <summary>Religious Holy Day Policy</summary>
-    It is the student’s obligation to provide faculty members with notice of the dates they will be absent for religious holy days. Students are responsible for material covered in class regardless of their presence. The University’s complete Religious Holy Day Policy can be found in the current Bulletin.
+    <p>
+      It is the student’s obligation to provide faculty members with notice of the dates they will be absent for religious holy days. Students are responsible for material covered in class regardless of their presence. The University’s complete Religious Holy Day Policy can be found in the current Bulletin.
+    </p>
 </details>
 
 <details>
     <summary>Attendance Policy</summary>
-    Class attendance is critical to the success of hands-on classes, including class participation in discussions and completion of in-class assignments. All students are responsible for material covered in the classroom regardless of their presence; therefore, check the class Blackboard for announcements, assignment requirements and due dates. Do not email your instructor to find out what has been posted to Blackboard.
+    <p>
+      Class attendance is critical to the success of hands-on classes, including class participation in discussions and completion of in-class assignments. All students are responsible for material covered in the classroom regardless of their presence; therefore, check the class Blackboard for announcements, assignment requirements and due dates. Do not email your instructor to find out what has been posted to Blackboard.
+    </p>
 </details>
 
 <details>
     <summary>Recording Policy</summary>
-    Students are expressly prohibited from recording any part of this course. If any recordings are available to students, they are intended to supplement the classroom experience. Students are expected to follow appropriate University policies and maintain the security of passwords used to access recorded lectures. Recordings may not be reproduced, shared with those not in the class, or uploaded to other online environments.
-    <br><br>
-    If the instructor or a University of Miami office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. Instructors are the copyright owner of the courseware; individual recordings of the materials on Blackboard and/or of the virtual sessions are not allowed; and that such materials cannot be shared outside the physical or virtual classroom environment.
+    <p>
+      Students are expressly prohibited from recording any part of this course. If any recordings are available to students, they are intended to supplement the classroom experience. Students are expected to follow appropriate University policies and maintain the security of passwords used to access recorded lectures. Recordings may not be reproduced, shared with those not in the class, or uploaded to other online environments.
+    </p>
+    <p>
+      If the instructor or a University of Miami office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. Instructors are the copyright owner of the courseware; individual recordings of the materials on Blackboard and/or of the virtual sessions are not allowed; and that such materials cannot be shared outside the physical or virtual classroom environment.
+    </p>
 
 </details>
 
 <details>
     <summary>Honor Code & Plagiarism Statements</summary>
-    Students enrolled in this course are expected to abide by the University of Miami Honor Code. The purpose of the Honor Code is to protect the academic integrity of the University by encouraging consistent ethical behavior in assigned coursework. Academic dishonesty of any kind, for whatever reason, will not be tolerated.
-    <br><br>
-    No honest student wants to be guilty of the intellectual crime of plagiarism, even unintentionally. Therefore, we provide you with these guidelines so that you don’t accidentally fall into the plagiarism trap.
-    <br><br>
-    Plagiarism is the taking of someone else’s words, work, or ideas, and passing them off as a product of your own efforts. Plagiarism may occur when a person fails to place quotation marks around someone else’s exact words, directly rephrasing or paraphrasing someone else’s words while still following the general form of the original, and/or failing to issue the proper citation to one’s source material.
-    <br><br>
-    In student papers, plagiarism is often due to:
-    <br><br>
+    <p>
+      Students enrolled in this course are expected to abide by the University of Miami Honor Code. The purpose of the Honor Code is to protect the academic integrity of the University by encouraging consistent ethical behavior in assigned coursework. Academic dishonesty of any kind, for whatever reason, will not be tolerated.
+    </p>
+    <p>
+      No honest student wants to be guilty of the intellectual crime of plagiarism, even unintentionally. Therefore, we provide you with these guidelines so that you don’t accidentally fall into the plagiarism trap.
+    </p>
+    <p>
+      Plagiarism is the taking of someone else’s words, work, or ideas, and passing them off as a product of your own efforts. Plagiarism may occur when a person fails to place quotation marks around someone else’s exact words, directly rephrasing or paraphrasing someone else’s words while still following the general form of the original, and/or failing to issue the proper citation to one’s source material.
+    </p>
+    <p>
+      In student papers, plagiarism is often due to:
+    </p>
     <ul>
       <li>Turning in someone else’s paper as one’s own</li>
       <li>Using another person’s data or ideas without acknowledgment</li>
@@ -204,8 +215,9 @@ Students are welcome to schedule individual sessions with the instructor. Please
       <li>Copying, rephrasing, or quoting an author’s exact words and citing a source other than where the material was obtained</li>
       <li>Using wording that is very similar to that of the original source, but passing it off as one’s own</li>
     </ul>
-    <br><br>
-    The last item is probably the most common problem in student writing. It is still plagiarism if students use an author’s key phrases or sentences in a way that implies they are their own, even if they cite the source.
+    <p>
+      The last item is probably the most common problem in student writing. It is still plagiarism if students use an author’s key phrases or sentences in a way that implies they are their own, even if they cite the source.
+    </p>
 </details>
 
 ## Well-Being Resources & Support
