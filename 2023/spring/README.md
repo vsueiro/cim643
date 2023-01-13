@@ -83,6 +83,13 @@ quality of work, etc.
         <th>Points</th>
     </tr>
     <tr>
+        <td>Introduction</td>
+        <td>10 Points</td>
+        <td>Expectations</td>
+        <td>Submission</td>
+        <td>10</td>
+    </tr>
+    <tr>
         <td rowspan=5>Project: Profile</td>
         <td rowspan=5>40 Points</td>
         <td rowspan=2>Planning</td>
@@ -108,7 +115,7 @@ quality of work, etc.
     </tr>
     <tr>
         <td rowspan=5>Project: Quiz</td>
-        <td rowspan=5>50 Points</td>
+        <td rowspan=5>40 Points</td>
         <td rowspan=2>Planning</td>
         <td>Presentation</td>
         <td>10</td>
@@ -120,7 +127,7 @@ quality of work, etc.
     <tr>
         <td rowspan=3>Website</td>
         <td>Presentation</td>
-        <td>20</td>
+        <td>10</td>
     </tr>
     <tr>
         <td>Feedback</td>
