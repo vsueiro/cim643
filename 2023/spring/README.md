@@ -87,6 +87,14 @@ The following tables briefly describe what we will be doing during class (“Con
 
 <div class="table" data-step="4"></div>
 
+#### Learn More
+
+There is a _lot_ of learning resources out there. This course does not intend to replace any of those. Instead, we heavily rely on them. Here is my top 3 free learning resources:
+
+- [W3Schools](https://www.w3schools.com/) (simplified documentation)
+- [MDN Web Docs](https://developer.mozilla.org/) (advanced documentation)
+- [freeCodeCamp](https://www.freecodecamp.org/) (beginner-friendly courses)
+
 ## Grading
 
 I reserve the right to adjust the final grade according to class participation, attendance, overall quality of work, etc.
