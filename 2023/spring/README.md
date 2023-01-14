@@ -57,7 +57,7 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 For each project, students will share their initial **planning** and their final **website** with classmates. Since there are 2 projects, this means that each student will present their work 4&times; during the semester.
 
-In order to present, students need to sign-up for 5-minute **presentation slots** (instructions will be provided via Blackboard).
+In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
 
 #### Peer Feedback
 
@@ -67,9 +67,11 @@ During presentation days, each student must <span style="color: DeepPink">provid
 
 ##### How does it work?
 
-After one student presents, the next student provides feedback to the first one.
+After one student presents, the next student provides feedback.
 
 After the _last_ student presents, the _first_ student provides feedback.
+
+Most importantly, your feedback can be about your classmate’s project idea (conceptual) or its execution (technical) – it can also take many forms, like compliments, questions, or suggestions.
 
 <!--
 _In other words: right before you present, you provide feedback for the student that has just presented._
@@ -77,7 +79,7 @@ _In other words: right before you present, you provide feedback for the student 
 
 ### Course Content
 
-The following tables briefly describe what we will be doing during class (“Content”), what you are expected to do before each class (“Preparation”), and what we have built during class (“Materials”).
+The following tables describe what you are expected to do before class (“Preparation”), what we will do during class (“Content”), and what we have done during class (“Materials”).
 
 <div class="table" data-step="1"></div>
 
@@ -86,14 +88,6 @@ The following tables briefly describe what we will be doing during class (“Con
 <div class="table" data-step="3"></div>
 
 <div class="table" data-step="4"></div>
-
-#### Learn More
-
-There is a _lot_ of learning resources out there. This course does not intend to replace any of those. Instead, we heavily rely on them. Here is my top 3 free learning resources:
-
-- [W3Schools](https://www.w3schools.com/) (simplified documentation)
-- [MDN Web Docs](https://developer.mozilla.org/) (advanced documentation)
-- [freeCodeCamp](https://www.freecodecamp.org/) (beginner-friendly courses)
 
 ## Grading
 
@@ -259,3 +253,11 @@ Students are welcome to schedule individual sessions with the instructor. Please
 As you complete your coursework, consider how you can maintain your health and well-being as a top priority. To help you become familiar with the many programs and services available on campus, review the information collected on the Student Well-Being and Resiliency website available at [miami.edu/well-being](https://miami.edu/well-being).
 
 Please reach out to your instructor or any of the resources listed on the site if you need assistance or support throughout the semester.
+
+## Learn More
+
+There is a _lot_ of learning resources out there. This course does not intend to replace any of those. Instead, we heavily rely on them. Here are my top 3 free learning resources:
+
+- [W3Schools](https://www.w3schools.com/) (simplified documentation)
+- [MDN Web Docs](https://developer.mozilla.org/) (advanced documentation)
+- [freeCodeCamp](https://www.freecodecamp.org/) (beginner-friendly courses)
