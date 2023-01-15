@@ -71,7 +71,7 @@ After one student presents, the next student provides feedback.
 
 After the _last_ student presents, the _first_ student provides feedback.
 
-Most importantly, your feedback can be about your classmate’s project idea (conceptual) or its execution (technical) – it can also take many forms, like compliments, questions, or suggestions.
+In essense, your feedback should be about your classmate’s project idea (conceptual) or its execution (technical), in the form of compliments, questions, or suggestions.
 
 <!--
 _In other words: right before you present, you provide feedback for the student that has just presented._
