@@ -11,7 +11,7 @@ This is the main document for the CIM 443/643 course at University of Miami, Spr
 | ----------------------------------------------------------------- | --------------- |
 | [Vinicius Sueiro](https://com.miami.edu/profile/vinicius-sueiro/) | vss43@miami.edu |
 
-Last updated on Jan 9, 2023. This document is subject to change.
+This document is subject to change.
 
 ## About the Course
 
