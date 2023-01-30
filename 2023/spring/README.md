@@ -63,7 +63,8 @@ In order to present, students need to sign-up for 5-min **presentation slots** (
 
 During presentation days, each student must <span style="color: DeepPink">provide feedback to (→)</span> at least 1 classmate, as illustrated below:
 
-<img src="../../media/peer-feedback.gif" alt="Animated diagram" width="226">
+<img src="../../media/peer-feedback.gif" alt="Animated diagram" width="226" class="screen-only">
+<img src="../../media/peer-feedback-print.png" alt="Animated diagram" width="226" class="print-only">
 
 ##### How does it work?
 
