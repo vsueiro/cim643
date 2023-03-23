@@ -136,28 +136,19 @@ I reserve the right to adjust the final grade according to class participation, 
         <td>10</td>
     </tr>
     <tr>
-        <td rowspan=5>Project: Quiz</td>
-        <td rowspan=5>40 Points</td>
-        <td rowspan=2>Planning</td>
-        <td>Presentation</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Peer Feedback</td>
-        <td>5</td>
-    </tr>
-    <tr>
+        <td rowspan=3>Project: Quiz</td>
+        <td rowspan=3>40 Points</td>
         <td rowspan=3>Website</td>
         <td>Presentation</td>
-        <td>10</td>
+        <td>15</td>
     </tr>
     <tr>
         <td>Peer Feedback</td>
-        <td>5</td>
+        <td>10</td>
     </tr>
     <tr>
         <td>Submission</td>
-        <td>10</td>
+        <td>15</td>
     </tr>
     <tr>
         <td>Final Exam</td>
