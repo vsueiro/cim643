@@ -253,3 +253,4 @@ There is a _lot_ of learning resources out there. This course does not intend to
 - [W3Schools](https://www.w3schools.com/) (simplified documentation)
 - [MDN Web Docs](https://developer.mozilla.org/) (advanced documentation)
 - [freeCodeCamp](https://www.freecodecamp.org/) (beginner-friendly courses)
+- [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) (amazing JavaScript cheatsheet)
