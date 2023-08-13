@@ -3,9 +3,9 @@
 
 # Syllabus — Front End Fundamentals
 
-This is the main document for the CIM 443/643 course at University of Miami, Spring 2023.
+This is the main document for the CIM 443/643 course at University of Miami, fall 2023.
 
-🗓 Classes on Tuesdays and Thursdays, from `3:30 PM` to `4:45 PM`.
+🗓 Classes on Tuesdays and Thursdays, from `12:30 PM` to `1:45 PM`.
 
 | Lecturer                                                          | Email           |
 | ----------------------------------------------------------------- | --------------- |
@@ -13,7 +13,7 @@ This is the main document for the CIM 443/643 course at University of Miami, Spr
 
 This document is subject to change.
 
-## About the Course
+## Course Description
 
 This course focuses on job-ready skills and production workflow techniques in highest demand for front-end web developers. Students will learn, practice and demonstrate the skills and principles needed to make effective use of these technologies.
 
