@@ -96,68 +96,18 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Grading Breakdown
 
-<table>
-    <tr>
-        <th>Step</th>
-        <th>Weight</th>
-        <th>Assignment</th>
-        <th>Task</th>
-        <th>Points</th>
-    </tr>
-    <tr>
-        <td>Introduction</td>
-        <td>10 Points</td>
-        <td>Expectations</td>
-        <td>Submission</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td rowspan=5>Project: Profile</td>
-        <td rowspan=5>40 Points</td>
-        <td rowspan=2>Planning</td>
-        <td>Presentation</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Peer Feedback</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td rowspan=3>Website</td>
-        <td>Presentation</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Peer Feedback</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>Submission</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td rowspan=3>Project: Quiz</td>
-        <td rowspan=3>40 Points</td>
-        <td rowspan=3>Website</td>
-        <td>Presentation</td>
-        <td>15</td>
-    </tr>
-    <tr>
-        <td>Peer Feedback</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Submission</td>
-        <td>15</td>
-    </tr>
-    <tr>
-        <td>Final Exam</td>
-        <td>10 Points</td>
-        <td>Self-reflection</td>
-        <td>Submission</td>
-        <td>10</td>
-    </tr>
-</table>
+| Step             | Weight    | Assignment      | Task          | Points |
+| ---------------- | --------- | --------------- | ------------- | ------ |
+| Introduction     | 10 Points | Expectations    | Submission    | 10     |
+| Project: Profile | 40 Points | Planning        | Presentation  | 10     |
+| Project: Profile | 40 Points | Planning        | Peer Feedback | 5      |
+| Project: Profile | 40 Points | Website         | Presentation  | 10     |
+| Project: Profile | 40 Points | Website         | Peer Feedback | 5      |
+| Project: Profile | 40 Points | Website         | Submission    | 10     |
+| Project: Quiz    | 40 Points | Website         | Presentation  | 15     |
+| Project: Quiz    | 40 Points | Website         | Peer Feedback | 10     |
+| Project: Quiz    | 40 Points | Website         | Submission    | 15     |
+| Final Exam       | 10 Points | Self-reflection | Submission    | 10     |
 
 #### Missed a task?
 
