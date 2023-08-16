@@ -105,8 +105,8 @@ I reserve the right to adjust the final grade according to class participation, 
 | Project: Profile | 40 Points       | Website         | Peer Feedback    | 5        |
 | Project: Profile | 40 Points       | Website         | Submission       | 10       |
 | Project: Quiz    | 40 Points&nbsp; | Website&nbsp;   | Presentation     | 15       |
-| Project: Quiz    | 40 Points       | Website         | Peer Feedback    | 10       |
-| Project: Quiz    | 40 Points       | Website         | Submission       | 15       |
+| Project: Quiz    | 40 Points&nbsp; | Website&nbsp;   | Peer Feedback    | 10       |
+| Project: Quiz    | 40 Points&nbsp; | Website&nbsp;   | Submission       | 15       |
 | Final Exam       | 10 Points       | Self-reflection | Submission&nbsp; | 10       |
 
 #### Missed a task?
