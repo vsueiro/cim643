@@ -96,18 +96,18 @@ I reserve the right to adjust the final grade according to class participation, 
 
 ### Grading Breakdown
 
-| Step             | Weight          | Assignment      | Task             | Points   |
-| ---------------- | --------------- | --------------- | ---------------- | -------- |
-| Introduction     | 10 Points       | Expectations    | Submission       | 10&nbsp; |
-| Project: Profile | 40 Points       | Planning        | Presentation     | 10       |
-| Project: Profile | 40 Points       | Planning        | Peer Feedback    | 5        |
-| Project: Profile | 40 Points       | Website         | Presentation     | 10       |
-| Project: Profile | 40 Points       | Website         | Peer Feedback    | 5        |
-| Project: Profile | 40 Points       | Website         | Submission       | 10       |
-| Project: Quiz    | 40 Points&nbsp; | Website&nbsp;   | Presentation     | 15       |
-| Project: Quiz    | 40 Points&nbsp; | Website&nbsp;   | Peer Feedback    | 10       |
-| Project: Quiz    | 40 Points&nbsp; | Website&nbsp;   | Submission       | 15       |
-| Final Exam       | 10 Points       | Self-reflection | Submission&nbsp; | 10       |
+| Step             | Weight    | Assignment      | Task          | Points |
+| ---------------- | --------- | --------------- | ------------- | ------ |
+| Introduction     | 10 Points | Expectations    | Submission    | 10     |
+| Project: Profile | 40 Points | Planning        | Presentation  | 10     |
+| \*               | \*        | \*              | Peer Feedback | 5      |
+| \*               | \*        | Website         | Peer Feedback | 5      |
+| \*               | \*        | \*              | Presentation  | 10     |
+| \*               | \*        | \*              | Submission    | 10     |
+| Project: Quiz    | 40 Points | Website         | Presentation  | 15     |
+| \*               | \*        | \*              | Peer Feedback | 10     |
+| \*               | \*        | \*              | Submission    | 15     |
+| Final Exam       | 10 Points | Self-reflection | Submission    | 10     |
 
 #### Missed a task?
 
