@@ -710,7 +710,7 @@ quality of work, etc.
 
 ## Office Hours
 
-Students may schedule individual sessions with the instructor. Please use [Calendly](https://calendly.com/vsueiro/office-hours) to pick a specific time slot for our remote (Zoom) meeting.
+Students may schedule individual sessions with the instructor. Please use [Calendly](https://calendly.com/viniciussueiro/office-hours) to pick a specific time slot for our remote (Zoom) meeting.
 
 ## Policies
 
