@@ -31,7 +31,7 @@ In order to reach the desired goals, students will learn concepts and techniques
 
 - 🧱 [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) (to define structure and content)
 - 🎨 [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) (to apply visual styles)
-- ✨ [JS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (to create interactions)
+- ✨ [JS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (to make it dynamic & interactive)
 
 This course also covers tools that help us organize and scale up our projects:
 
@@ -40,10 +40,8 @@ This course also covers tools that help us organize and scale up our projects:
 Optionally:
 
 - [Vercel](https://vercel.com/) (to easily deploy your website)
-- [Google Domains](https://domains.google/) (to rent a friendly name, like “example.com”)
+- [Google Domains 🪦](https://domains.google/) (to rent a friendly name, like “example.com”)
 - [React](https://reactjs.org/) or [Svelte](https://reactjs.org/) (to organize your website into components)
-  <!-- - [GitHub](https://github.com/) (to collaborate with others – and your future self) -->
-  <!-- - [Visual Studio Code](https://code.visualstudio.com/) (to write code as files in your own computer) -->
 
 All tools are free (or provide a free version), except Google Domains. 💸
 
@@ -72,11 +70,9 @@ After one student presents, the next student provides feedback.
 
 After the _last_ student presents, the _first_ student provides feedback.
 
-In essense, your feedback should be about your classmate’s project idea (conceptual) or its execution (technical), in the form of compliments, questions, or suggestions.
-
-<!--
 _In other words: right before you present, you provide feedback for the student that has just presented._
--->
+
+Your feedback should be about your classmate’s project idea (conceptual) or its execution (technical), in the form of compliments, questions, or suggestions.
 
 ### Course Content
 
@@ -90,24 +86,34 @@ The following tables describe what you are expected to do before class (“Prepa
 
 <div class="table" data-step="4"></div>
 
+<div class="table" data-step="5"></div>
+
 ## Grading
 
 I reserve the right to adjust the final grade according to class participation, attendance, overall quality of work, etc.
 
 ### Grading Breakdown
 
-| Step             | Weight    | Assignment      | Task          | Points |
-| ---------------- | --------- | --------------- | ------------- | ------ |
-| Introduction     | 10 Points | Expectations    | Submission    | 10     |
-| Project: Profile | 40 Points | Planning        | Presentation  | 10     |
-| \*               | \*        | \*              | Peer Feedback | 5      |
-| \*               | \*        | Website         | Peer Feedback | 5      |
-| \*               | \*        | \*              | Presentation  | 10     |
-| \*               | \*        | \*              | Submission    | 10     |
-| Project: Quiz    | 40 Points | Website         | Presentation  | 15     |
-| \*               | \*        | \*              | Peer Feedback | 10     |
-| \*               | \*        | \*              | Submission    | 15     |
-| Final Exam       | 10 Points | Self-reflection | Submission    | 10     |
+| Step                        | Weight    | Assignment      | Task          | Points |
+| --------------------------- | --------- | --------------- | ------------- | ------ |
+| Introduction                | 10 Points | Expectations    | Submission    | 5      |
+| \*                          | \*        | Critique        | Submission    | 5      |
+| Project 1: Personal Profile | 20 Points | Planning        | Presentation  | 5      |
+| \*                          | \*        | \*              | Peer Feedback | 2.5    |
+| \*                          | \*        | Website         | Presentation  | 5      |
+| \*                          | \*        | \*              | Peer Feedback | 2.5    |
+| \*                          | \*        | \*              | Submission    | 5      |
+| Project 2: Guessing Game    | 30 Points | Planning        | Presentation  | 5      |
+| \*                          | \*        | \*              | Peer Feedback | 2.5    |
+| \*                          | \*        | Website         | Presentation  | 5      |
+| \*                          | \*        | \*              | Peer Feedback | 2.5    |
+| \*                          | \*        | \*              | Submission    | 5      |
+| Project 3: Web Experiments  | 30 Points | Planning        | Presentation  | 5      |
+| \*                          | \*        | \*              | Peer Feedback | 2.5    |
+| \*                          | \*        | Website         | Presentation  | 5      |
+| \*                          | \*        | \*              | Peer Feedback | 2.5    |
+| \*                          | \*        | \*              | Submission    | 5      |
+| Final Exam                  | 10 Points | Self-reflection | Submission    | 10     |
 
 #### Missed a task?
 
@@ -156,10 +162,6 @@ Students are welcome to schedule individual sessions with the instructor. Please
     <p>
       Students are expressly prohibited from recording any part of this course. If any recordings are available to students, they are intended to supplement the classroom experience. Students are expected to follow appropriate University policies and maintain the security of passwords used to access recorded lectures. Recordings may not be reproduced, shared with those not in the class, or uploaded to other online environments.
     </p>
-    <p>
-      If the instructor or a University of Miami office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. Instructors are the copyright owner of the courseware; individual recordings of the materials on Blackboard and/or of the virtual sessions are not allowed; and that such materials cannot be shared outside the physical or virtual classroom environment.
-    </p>
-
 </details>
 
 <details>
@@ -177,7 +179,7 @@ Students are welcome to schedule individual sessions with the instructor. Please
       In student papers, plagiarism is often due to:
     </p>
     <ul>
-      <li>Turning in someone else’s paper as one’s own</li>
+      <li>Turning in someone else’s work as one’s own</li>
       <li>Using another person’s data or ideas without acknowledgment</li>
       <li>Failing to cite a written source (printed or internet) of information that you used to collect data or ideas</li>
       <li>Copying an author’s exact words and putting them in the paper without quotation marks</li>
@@ -185,9 +187,19 @@ Students are welcome to schedule individual sessions with the instructor. Please
       <li>Copying, rephrasing, or quoting an author’s exact words and citing a source other than where the material was obtained</li>
       <li>Using wording that is very similar to that of the original source, but passing it off as one’s own</li>
     </ul>
-    <p>
-      The last item is probably the most common problem in student writing. It is still plagiarism if students use an author’s key phrases or sentences in a way that implies they are their own, even if they cite the source.
+</details>
+
+<details>
+  <summary>Use of Artificial Intelligence</summary>
+  <p>
+    ChatGPT and other Generative Artificial Intelligence (AI) software may be useful tools for enhancing learning, productivity, and creativity. For instance, they can assist with brainstorming, finding information, and creating materials, such as text, images, and other media. However, these tools must be used appropriately and ethically, and you must understand their limitations.
+  </p>
+  <p>
+    AI should help you think, not think for you. AI tools may be used to help generate ideas, frame problems, and perform research. It can be a starting point to your own thought process, analysis, and discovery. Do not use them to do your work for you, e.g., do not enter an assignment question into ChatGPT and copy & paste the response as your answer. The use of AI must be open and documented. The use of any AI in the creation of your work must be declared in your submission and explained. Your faculty can provide guidance as to the format and contents of the disclosure.
     </p>
+  <p>
+    If you use AI tools in any part of your work, you are responsible for the final product of that work, both academically and in the workforce.
+  </p>
 </details>
 
 ## Well-Being Resources & Support
