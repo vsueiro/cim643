@@ -103,14 +103,14 @@ I reserve the right to adjust the final grade according to class participation, 
 | \*                          | \*        | \*              | Peer Feedback | 2.5    |
 | \*                          | \*        | \*              | Submission    | 5      |
 | Project 2: Guessing Game    | 30 Points | Planning        | Presentation  | 5      |
-| \*                          | \*        | \*              | Peer Feedback | 2.5    |
-| \*                          | \*        | Website         | Presentation  | 5      |
-| \*                          | \*        | \*              | Peer Feedback | 2.5    |
+| \*                          | \*        | \*              | Peer Feedback | 5      |
+| \*                          | \*        | Website         | Presentation  | 10     |
+| \*                          | \*        | \*              | Peer Feedback | 5      |
 | \*                          | \*        | \*              | Submission    | 5      |
 | Project 3: Web Experiment   | 30 Points | Planning        | Presentation  | 5      |
-| \*                          | \*        | \*              | Peer Feedback | 2.5    |
-| \*                          | \*        | Website         | Presentation  | 5      |
-| \*                          | \*        | \*              | Peer Feedback | 2.5    |
+| \*                          | \*        | \*              | Peer Feedback | 5      |
+| \*                          | \*        | Website         | Presentation  | 10     |
+| \*                          | \*        | \*              | Peer Feedback | 5      |
 | \*                          | \*        | \*              | Submission    | 5      |
 | Final Exam                  | 10 Points | Self-reflection | Submission    | 10     |
 
