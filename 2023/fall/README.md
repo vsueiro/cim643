@@ -209,7 +209,7 @@ Please reach out to your instructor or any of the resources listed on the site i
 
 ## Learn More
 
-There is a _lot_ of learning resources out there. This course does not intend to replace any of those. Instead, we heavily rely on them. Here are my top 3 free learning resources:
+There is a _lot_ of learning resources out there. This course does not intend to replace any of those. Instead, we heavily rely on them. Here are some good free learning resources:
 
 - [W3Schools](https://www.w3schools.com/) (simplified documentation)
 - [MDN Web Docs](https://developer.mozilla.org/) (advanced documentation)
