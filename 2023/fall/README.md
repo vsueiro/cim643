@@ -53,9 +53,8 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 #### Presentation day
 
-For each project, students will share their initial **planning** and their final **website** with classmates. Since there are 2 projects, this means that each student will present their work 4&times; during the semester.
-
-In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
+For each project, students will share their initial **planning** in small groups, but share their final **website** with the whole class.
+In order to present to the whole class, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
 
 #### Peer Feedback
 
@@ -108,7 +107,7 @@ I reserve the right to adjust the final grade according to class participation, 
 | \*                          | \*        | Website         | Presentation  | 5      |
 | \*                          | \*        | \*              | Peer Feedback | 2.5    |
 | \*                          | \*        | \*              | Submission    | 5      |
-| Project 3: Web Experiments  | 30 Points | Planning        | Presentation  | 5      |
+| Project 3: Web Experiment   | 30 Points | Planning        | Presentation  | 5      |
 | \*                          | \*        | \*              | Peer Feedback | 2.5    |
 | \*                          | \*        | Website         | Presentation  | 5      |
 | \*                          | \*        | \*              | Peer Feedback | 2.5    |
