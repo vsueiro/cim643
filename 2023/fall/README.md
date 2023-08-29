@@ -53,8 +53,8 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 #### Presentation day
 
-For each project, students will share their initial **planning** in small groups, but share their final **website** with the whole class.
-In order to present to the whole class, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
+For each project, students will share their initial **planning** and their final **website** with the whole class.
+In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
 
 #### Peer Feedback
 
