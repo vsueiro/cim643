@@ -50,15 +50,16 @@ In order to reach the desired goals, students will learn concepts and techniques
 
 This course also covers tools that help us organize and scale up our projects:
 
-- [CodeSandbox](https://codesandbox.io/) (to write code without installing stuff)
+- [Visual Studio Code](https://code.visualstudio.com/) (to write code and preview it on your computer)
+- [GitHub Desktop + GitHub Pages](https://code.visualstudio.com/) (to store and deploy your website)
 
 Optionally:
 
-- [Vercel](https://vercel.com/) (to easily deploy your website)
-- [Google Domains 🪦](https://domains.google/) (to rent a friendly name, like “example.com”)
+- [CodeSandbox](https://codesandbox.io/) (to use frameworks without installing stuff)
+- [Squarespace Domains](https://domains.squarespace.com/) (to rent a friendly name, like “example.com”)
 - [React](https://reactjs.org/) or [Svelte](https://reactjs.org/) (to organize your website into components)
 
-All tools are free (or provide a free version), except Google Domains. 💸
+All tools are free (or provide a free version), except custom domains. 💸
 
 ### Course Timeline
 
@@ -68,8 +69,7 @@ We will not learn everything at once. Instead, this course is split into a few s
 
 #### Presentation day
 
-For each project, students will share their initial **planning** and their final **website** with the whole class.
-In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
+For each project, students will share their final **website** with the whole class. For the third project, students will also present their **planning** beforehand, so they can to get early feedback on their idea. In order to present, students need to sign-up for 5-min **presentation slots** (instructions will be provided via Blackboard).
 
 #### Peer Feedback
 
