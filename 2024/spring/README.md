@@ -124,7 +124,7 @@ I reserve the right to adjust the final grade according to class participation, 
 | \*                                        | \*        | Website         | Presentation    | 10     |
 | \*                                        | \*        | \*              | Peer Feedback   | 5      |
 | \*                                        | \*        | \*              | Submission      | 5      |
-| Final Exam                                | 5 Points  | Self-reflection | Submission      | 5      |
+| Final Exam                                | 10 Points | Self-reflection | Submission      | 10     |
 
 #### Missed a task?
 
