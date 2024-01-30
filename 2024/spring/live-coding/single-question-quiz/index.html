@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Single-Question Quiz</title>
+  </head>
+  <body>
+    <h1>How you should NOT refer to JavaScript?</h1>
+
+    <button>Vanilla JS</button>
+    <button>JS</button>
+    <button class="correct">Java</button>
+
+    <!-- Use internal JS -->
+    <script>
+      // Select all <button> elements on the page
+      let myButtons = document.querySelectorAll("button");
+
+      // Define instructions to check answer
+      function checkAnswer(event) {
+        // Find clicked button, by looking into event details
+        let button = event.target;
+
+        // Get boolean (true or false) if <button> has class "correct" or not
+        let isCorrect = button.classList.contains("correct");
+
+        // Check if answer is correct
+        if (isCorrect) {
+          // Show success message
+          alert("YAY! You got it!");
+        } else {
+          // Show error message
+          alert("Nope :(");
+        }
+      }
+
+      // For each button
+      for (let button of myButtons) {
+        // When clicked, check answer
+        button.onclick = checkAnswer;
+      }
+    </script>
+  </body>
+</html>
