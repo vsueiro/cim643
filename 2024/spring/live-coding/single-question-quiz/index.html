@@ -4,6 +4,20 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Single-Question Quiz</title>
+    <style>
+      button {
+        transition: rotate 0.5s;
+      }
+
+      .clicked {
+        background: red;
+      }
+
+      .clicked.correct {
+        background: green;
+        rotate: 360deg;
+      }
+    </style>
   </head>
   <body>
     <h1>How you should NOT refer to JavaScript?</h1>
@@ -17,6 +31,14 @@
       // Select all <button> elements on the page
       let myButtons = document.querySelectorAll("button");
 
+      function disableButtons() {
+        // For each button
+        for (let button of myButtons) {
+          // Disable it
+          button.disabled = true;
+        }
+      }
+
       // Define instructions to check answer
       function checkAnswer(event) {
         // Find clicked button, by looking into event details
@@ -25,14 +47,16 @@
         // Get boolean (true or false) if <button> has class "correct" or not
         let isCorrect = button.classList.contains("correct");
 
+        button.classList.add("clicked");
+
         // Check if answer is correct
         if (isCorrect) {
-          // Show success message
-          alert("YAY! You got it!");
+          // Do stuff
         } else {
-          // Show error message
-          alert("Nope :(");
+          // Do other stuff
         }
+
+        disableButtons();
       }
 
       // For each button
