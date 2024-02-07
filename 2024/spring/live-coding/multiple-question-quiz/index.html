@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Multiple-Question Quiz</title>
+    <style>
+      button {
+        transition: rotate 0.5s;
+      }
+
+      .clicked {
+        background: red;
+      }
+
+      .clicked.correct {
+        background: green;
+        rotate: 360deg;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My Amazing Quiz</h1>
+
+    <div class="question">
+      <h2>How you should NOT refer to JavaScript?</h2>
+      <button>Vanilla JS</button>
+      <button>JS</button>
+      <button class="correct">Java</button>
+    </div>
+
+    <div class="question">
+      <h2>Q2</h2>
+      <button>Vanilla JS</button>
+      <button>JS</button>
+      <button class="correct">Java</button>
+    </div>
+
+    <div class="question">
+      <h2>Q3</h2>
+      <button>Vanilla JS</button>
+      <button>JS</button>
+      <button class="correct">Java</button>
+    </div>
+
+    <p>Score: <span class="score-element">0</span></p>
+
+    <!-- Use internal JS -->
+    <script>
+      // Select all <button> elements on the page
+      let myButtons = document.querySelectorAll("button");
+
+      // Select my score element
+      let scoreElement = document.querySelector(".score-element");
+
+      // Create score tracker
+      let score = 0;
+
+      function disableButtons(question) {
+        let currentButtons = question.querySelectorAll("button");
+
+        // For each button
+        for (let button of currentButtons) {
+          // Disable it
+          button.disabled = true;
+        }
+      }
+
+      // Define instructions to check answer
+      function checkAnswer(event) {
+        // Find clicked button, by looking into event details
+        let button = event.target;
+        let question = button.parentElement;
+
+        // Get boolean (true or false) if <button> has class "correct" or not
+        let isCorrect = button.classList.contains("correct");
+
+        button.classList.add("clicked");
+
+        // Check if answer is correct
+        if (isCorrect) {
+          // Adds 1
+          score++;
+          scoreElement.innerText = score;
+          // Do stuff
+        } else {
+          // Do other stuff
+        }
+
+        disableButtons(question);
+      }
+
+      // For each button
+      for (let button of myButtons) {
+        // When clicked, check answer
+        button.onclick = checkAnswer;
+      }
+    </script>
+  </body>
+</html>
