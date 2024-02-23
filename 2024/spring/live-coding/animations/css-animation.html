@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Animation</title>
+    <style>
+      @keyframes move {
+        0% {
+          translate: 0;
+          rotate: 0deg;
+          scale: 0;
+        }
+        50% {
+          translate: 200px;
+          scale: 1;
+        }
+        100% {
+          translate: 0;
+          rotate: 360deg;
+          scale: 0;
+        }
+      }
+
+      .circle {
+        width: 100px;
+        height: 100px;
+        background: DeepPink;
+        border-radius: 50% 0;
+        animation: move 2s infinite;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="circle"></div>
+  </body>
+</html>

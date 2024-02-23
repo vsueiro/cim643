@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Canvas Animation</title>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
+    <script>
+      let x = 0;
+      let y = -60;
+      let end = 400;
+
+      function setup() {
+        createCanvas(600, 400);
+        background(0);
+      }
+
+      function draw() {
+        background("rgba(0,0,0,.05)");
+        noStroke();
+        fill(255, 255, 255);
+        circle(x, y, 40);
+        x = x + 2;
+        y = y + 2;
+
+        if (y >= end) {
+          fill(255, 0, 0);
+          circle(x, y, 200);
+          // reset it
+          x = 0;
+          y = -60;
+        }
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
