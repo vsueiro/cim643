@@ -9,6 +9,15 @@
       let x = 0;
       let y = -60;
       let end = 400;
+      let radius = 20;
+
+      function explode() {
+        fill(255, 0, 0);
+        circle(x, y, 200);
+        // reset it
+        x = 0;
+        y = -60;
+      }
 
       function setup() {
         createCanvas(600, 400);
@@ -19,16 +28,20 @@
         background("rgba(0,0,0,.05)");
         noStroke();
         fill(255, 255, 255);
-        circle(x, y, 40);
+        circle(x, y, radius * 2);
         x = x + 2;
         y = y + 2;
 
+        let distance = dist(x, y, mouseX, mouseY);
+
+        let isOverCircle = distance < radius;
+
+        if (isOverCircle && mouseIsPressed) {
+          explode();
+        }
+
         if (y >= end) {
-          fill(255, 0, 0);
-          circle(x, y, 200);
-          // reset it
-          x = 0;
-          y = -60;
+          explode();
         }
       }
     </script>
