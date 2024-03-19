@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fetch</title>
+  </head>
+  <body>
+    <p>Check the console!</p>
+    <script>
+      // Define asynchronous function
+      async function getAge() {
+        // Define URL to be fetched
+        let url = "https://api.agify.io/?name=sidney&country_id=us";
+
+        // Make the request and wait for the response
+        let response = await fetch(url);
+
+        // Interpret response as JSON data
+        let data = await response.json();
+
+        // Print message
+        console.log(`Sidney is ${data.age}`);
+      }
+
+      // Call function
+      getAge();
+    </script>
+  </body>
+</html>
