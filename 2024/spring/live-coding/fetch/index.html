@@ -6,12 +6,23 @@
     <title>Fetch</title>
   </head>
   <body>
-    <p>Check the console!</p>
+    <p>My name is <input id="myInput" placeholder="Sidney" /></p>
+    <button id="myButton">Guess my age</button>
+    <p>
+      <output id="myOutput">…</output>
+    </p>
     <script>
+      // Clear output if empty
+      myInput.oninput = function () {
+        if (myInput.value === "") {
+          myOutput.textContent = "…";
+        }
+      };
+
       // Define asynchronous function
       async function getAge() {
         // Define URL to be fetched
-        let url = "https://api.agify.io/?name=sidney&country_id=us";
+        let url = `https://api.agify.io/?name=${myInput.value}`;
 
         // Make the request and wait for the response
         let response = await fetch(url);
@@ -19,12 +30,14 @@
         // Interpret response as JSON data
         let data = await response.json();
 
+        console.log(data);
+
         // Print message
-        console.log(`Sidney is ${data.age}`);
+        myOutput.textContent = `You are ${data.age}, based on ${data.count} people on record`;
       }
 
-      // Call function
-      getAge();
+      // Call function when button is clicked
+      myButton.onclick = getAge;
     </script>
   </body>
 </html>
