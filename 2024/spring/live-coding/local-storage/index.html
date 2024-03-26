@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>localStorage Demo</title>
+  </head>
+  <body>
+    <input type="range" value="0" />
+
+    <script>
+      let slider = document.querySelector("input");
+
+      if (localStorage.getItem("volume")) {
+        slider.value = localStorage.getItem("volume");
+      }
+
+      function updateValue() {
+        localStorage.setItem("volume", slider.value);
+      }
+
+      slider.oninput = updateValue;
+    </script>
+  </body>
+</html>
