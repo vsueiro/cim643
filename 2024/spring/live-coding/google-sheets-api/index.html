@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Google Sheets API</title>
+  </head>
+  <body>
+    <script>
+      // Read Documentation at https://sheets.vsueiro.com/
+
+      async function writeData(data = []) {
+        const api = "https://sheets.vsueiro.com/api/write";
+        const id = "1nGZMlEC9snucgu78vEgvSe9E-4kyYxKtqwC5jyQXQJo";
+        const range = "Vinicius";
+        const row = JSON.stringify(data);
+
+        const url = `${api}?id=${id}&range=${range}&row=${row}`;
+
+        fetch(url);
+      }
+
+      writeData(["Abc", 123]);
+    </script>
+  </body>
+</html>
