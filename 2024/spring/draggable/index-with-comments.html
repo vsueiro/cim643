@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Sets the initial scale of the webpage to the width of the device and the zoom level to 1 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Draggable Images</title>
+    <style>
+      /* Styles for the drop zone */
+      #dropZone {
+        aspect-ratio: 16/9; /* Sets the width to height ratio */
+        background: lavender; /* Background color of the drop zone */
+        overflow: hidden; /* Hides any overflow */
+        position: relative; /* Positioning context for absolutely positioned images */
+        width: 640px; /* Width of the drop zone */
+      }
+      #dropZone img {
+        position: absolute; /* Images inside drop zone are positioned absolutely to it */
+      }
+    </style>
+  </head>
+  <body>
+    <!-- The drop zone where images can be dropped -->
+    <div id="dropZone"></div>
+    <br />
+    <!-- Draggable images with placeholder images -->
+    <img draggable="true" src="//placehold.co/100x100/deeppink/white/png" />
+    <img draggable="true" src="//placehold.co/100x100/coral/white/png" />
+    <img draggable="true" src="//placehold.co/100x100/turquoise/white/png" />
+
+    <script>
+      // Get the drop zone and images elements
+      const dropZone = document.querySelector("#dropZone");
+      const images = document.querySelectorAll("img");
+
+      // Variables to keep track of the dragged image and its offset
+      let draggedImage = null;
+      let offsetX = 0;
+      let offsetY = 0;
+
+      // Function to handle the start of dragging
+      function handleDragStart(event) {
+        draggedImage = event.target; // The image being dragged
+
+        // Get the rectangle of the dragged image to calculate the offset
+        const draggedImageRect = draggedImage.getBoundingClientRect();
+
+        // Calculate offsets between the mouse and the image corners
+        offsetX = event.clientX - draggedImageRect.left;
+        offsetY = event.clientY - draggedImageRect.top;
+      }
+
+      // Function to handle dragging over the drop zone (necessary to allow dropping)
+      function handleDragOver(event) {
+        event.preventDefault(); // Prevents the default behavior to allow dropping
+      }
+
+      // Function to handle the drop action
+      function handleDrop(event) {
+        event.preventDefault(); // Prevents the default behavior
+        if (draggedImage) {
+          // Get the drop zone rectangle to calculate the position
+          const dropZoneRect = dropZone.getBoundingClientRect();
+
+          // Calculate the new position of the image within the drop zone
+          const x = event.clientX - dropZoneRect.left - offsetX;
+          const y = event.clientY - dropZoneRect.top - offsetY;
+
+          // Set the image's new position
+          draggedImage.style.left = `${x}px`;
+          draggedImage.style.top = `${y}px`;
+          dropZone.append(draggedImage); // Append the dragged image to the drop zone
+        }
+      }
+
+      // Assign the handleDrop function to the drop event on the drop zone
+      dropZone.ondrop = handleDrop;
+      // Assign the handleDragOver function to the dragover event on the drop zone
+      dropZone.ondragover = handleDragOver;
+
+      // Assign the handleDragStart function to the dragstart event for each draggable image
+      for (let image of images) {
+        image.ondragstart = handleDragStart;
+      }
+    </script>
+  </body>
+</html>

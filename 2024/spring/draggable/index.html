@@ -35,8 +35,10 @@
       function handleDragStart(event) {
         draggedImage = event.target;
 
-        offsetX = event.clientX - draggedImage.getBoundingClientRect().left;
-        offsetY = event.clientY - draggedImage.getBoundingClientRect().top;
+        const draggedImageRect = draggedImage.getBoundingClientRect();
+
+        offsetX = event.clientX - draggedImageRect.left;
+        offsetY = event.clientY - draggedImageRect.top;
       }
 
       function handleDragOver(event) {
