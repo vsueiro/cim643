@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Draggable Images</title>
+    <style>
+      #dropZone {
+        aspect-ratio: 16/9;
+        background: lavender;
+        overflow: hidden;
+        position: relative;
+        width: 640px;
+      }
+      #dropZone img {
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="dropZone"></div>
+    <br />
+    <img draggable="true" src="//placehold.co/100x100/deeppink/white/png" />
+    <img draggable="true" src="//placehold.co/100x100/coral/white/png" />
+    <img draggable="true" src="//placehold.co/100x100/turquoise/white/png" />
+
+    <script>
+      const dropZone = document.querySelector("#dropZone");
+      const images = document.querySelectorAll("img");
+
+      let draggedImage = null;
+      let offsetX = 0;
+      let offsetY = 0;
+
+      function handleDragStart(event) {
+        draggedImage = event.target;
+
+        offsetX = event.clientX - draggedImage.getBoundingClientRect().left;
+        offsetY = event.clientY - draggedImage.getBoundingClientRect().top;
+      }
+
+      function handleDragOver(event) {
+        event.preventDefault();
+      }
+
+      function handleDrop(event) {
+        event.preventDefault();
+        if (draggedImage) {
+          const dropZoneRect = dropZone.getBoundingClientRect();
+
+          const x = event.clientX - dropZoneRect.left - offsetX;
+          const y = event.clientY - dropZoneRect.top - offsetY;
+
+          draggedImage.style.left = `${x}px`;
+          draggedImage.style.top = `${y}px`;
+          dropZone.append(draggedImage);
+        }
+      }
+
+      dropZone.ondrop = handleDrop;
+      dropZone.ondragover = handleDragOver;
+
+      for (let image of images) {
+        image.ondragstart = handleDragStart;
+      }
+    </script>
+  </body>
+</html>
