@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Canvas Animation</title>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
+    <script>
+      class Meteor {
+        constructor() {
+          this.x = random(-50, 50);
+          this.y = random(-50, -400);
+        }
+        reset() {
+          this.x = random(-50, 50);
+          this.y = random(-50, -400);
+        }
+      }
+
+      let meteors = [];
+      let end = 400;
+      let radius = 20;
+
+      function explode(meteor) {
+        fill(255, 0, 0);
+        circle(meteor.x, meteor.y, 200);
+
+        meteor.reset();
+      }
+
+      function setup() {
+        createCanvas(600, 400);
+        background(0);
+
+        for (let i = 0; i < 5; i++) {
+          meteors.push(new Meteor());
+        }
+      }
+
+      function draw() {
+        background("rgba(0,0,0,.05)");
+
+        for (let meteor of meteors) {
+          noStroke();
+          fill(255, 255, 255);
+          circle(meteor.x, meteor.y, radius * 2);
+          meteor.x += 2;
+          meteor.y += 2;
+
+          let distance = dist(meteor.x, meteor.y, mouseX, mouseY);
+
+          let isOverCircle = distance < radius;
+
+          if (isOverCircle && mouseIsPressed) {
+            explode(meteor);
+          }
+
+          if (meteor.y >= end) {
+            explode(meteor);
+          }
+        }
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
