@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Like Button (Class)</title>
+  </head>
+  <body>
+    <script>
+      class LikeButton {
+        constructor() {
+          this.counter = 0;
+          this.create();
+          this.update();
+
+          console.log(this);
+        }
+
+        addOne() {
+          this.counter++;
+          this.update();
+        }
+
+        create() {
+          this.button = document.createElement("button");
+          this.button.textContent = "💜";
+          this.button.addEventListener("click", () => {
+            this.addOne();
+          });
+
+          this.span = document.createElement("span");
+
+          this.button.append(this.span);
+          document.body.append(this.button);
+        }
+
+        update() {
+          this.span.textContent = this.counter;
+        }
+      }
+
+      for (let i = 0; i < 3; i++) {
+        new LikeButton();
+      }
+    </script>
+
+    <!-- <button>💜 <span>0</span></button> -->
+    <!-- <script>
+      let counter = 0;
+
+      let button = document.querySelector("button");
+      let span = button.querySelector("span");
+
+      function addOne() {
+        counter++;
+        span.textContent = counter;
+      }
+
+      button.onclick = addOne;
+    </script> -->
+  </body>
+</html>
