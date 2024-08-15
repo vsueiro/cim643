@@ -51,7 +51,7 @@ In order to reach the desired goals, students will learn concepts and techniques
 This course also covers tools that help us organize and scale up our projects:
 
 - [Visual Studio Code](https://code.visualstudio.com/) (to write code and preview it on your computer)
-- [GitHub Desktop + GitHub Pages](https://code.visualstudio.com/) (to store and deploy your website)
+- [GitHub](https://github.com/) + [GitHub Desktop](https://github.com/apps/desktop) + [GitHub Pages](https://pages.github.com/) (to store and deploy your website)
 
 Optionally:
 
