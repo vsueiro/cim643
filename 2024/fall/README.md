@@ -56,8 +56,8 @@ This course also covers tools that help us organize and scale up our projects:
 Optionally:
 
 - [CodeSandbox](https://codesandbox.io/) (to use frameworks without installing stuff)
-- [Squarespace Domains](https://domains.squarespace.com/) (to rent a friendly name, like “example.com”)
 - [React](https://reactjs.org/) or [Svelte](https://reactjs.org/) (to organize your website into components)
+- [Squarespace Domains](https://domains.squarespace.com/) or similar (to rent a friendly name, like “example.com”)
 
 All tools are free (or provide a free version), except custom domains. 💸
 
@@ -112,7 +112,7 @@ I reserve the right to adjust the final grade according to class participation, 
 | ----------------------------------------- | --------- | --------------- | --------------- | ------ |
 | Introduction                              | 10 Points | Expectations    | Submission      | 5      |
 | \*                                        | \*        | Critique        | Submission      | 5      |
-| Inspiration Days                          | 10 Points | Analyze         | Submission (8×) | 1.25   |
+| Inspiration Days                          | 10 Points | Analyze         | Submission (4×) | 2.5    |
 | Project 1: Customize a Guessing Game      | 20 Points | Website         | Presentation    | 10     |
 | \*                                        | \*        | \*              | Peer Feedback   | 5      |
 | \*                                        | \*        | \*              | Submission      | 5      |
