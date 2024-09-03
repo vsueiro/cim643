@@ -1,0 +1,34 @@
+body {
+  background: Indigo;
+  color: Lavender;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  gap: 20px;
+  transition: all 0.4s;
+}
+
+a:hover {
+  scale: 1.1;
+}
+
+.profile-pic {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 0 2px deeppink;
+}
