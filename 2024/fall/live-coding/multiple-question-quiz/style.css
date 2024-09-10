@@ -1,0 +1,4 @@
+/* Hide explation by default */
+.explanation {
+  display: none;
+}

@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Single-Question Quiz</title>
+    <title>Multiple-Question Quiz</title>
     <link rel="stylesheet" href="style.css" />
     <script src="script.js" defer></script>
   </head>
@@ -13,10 +13,21 @@
     <p>Score: <span class="score">0</span></p>
 
     <div class="question">
-      <h2>How you should NOT refer to JavaScript?</h2>
+      <h2>How should you NOT refer to JavaScript?</h2>
       <button>Vanilla JS</button>
       <button>JS</button>
       <button class="correct">Java</button>
+      <p class="explanation">
+        Java is a completely different programming language
+      </p>
+      <p class="explanation">Didn’t you know?</p>
+    </div>
+
+    <div class="question">
+      <h2>How do you create a variable in JavaScript?</h2>
+      <button class="correct">let score = 0</button>
+      <button>int score = 0</button>
+      <button>myvar score = 0</button>
     </div>
   </body>
 </html>
