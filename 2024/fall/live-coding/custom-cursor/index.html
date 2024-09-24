@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Cursor</title>
+    <style>
+      #cursor {
+        width: 48px;
+        height: 48px;
+        background: black;
+        position: fixed;
+        top: 0%;
+        left: 0%;
+        translate: -50% -50%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hi</h1>
+    <div id="cursor"></div>
+
+    <script>
+      function moveCursor(event) {
+        cursor.style.top = event.y + "px";
+        cursor.style.left = event.x + "px";
+      }
+
+      window.onmousemove = moveCursor;
+    </script>
+  </body>
+</html>

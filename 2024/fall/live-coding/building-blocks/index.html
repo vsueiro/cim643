@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Building Blocks</title>
+  </head>
+  <body>
+    <script>
+      function isOfLegalDrinkingAge(age) {
+        return age >= 21;
+      }
+
+      // List of Objects
+      let people = [
+        {
+          name: "Vini",
+          age: 33,
+        },
+        {
+          name: "Liza",
+          age: 22,
+          pets: [
+            {
+              kind: "dog",
+              name: "Skippy",
+            },
+            {
+              kind: "bird",
+              name: "Chico",
+            },
+          ],
+        },
+        {
+          name: "Shavelly",
+          age: 35,
+          pets: [
+            {
+              name: "Luna",
+              kind: "cat",
+            },
+          ],
+        },
+        {
+          name: "Carys",
+          age: 20,
+          pets: [
+            {
+              name: "Snoopy",
+              kind: "dog",
+            },
+            {
+              name: "Basil",
+              kind: "dog",
+            },
+          ],
+        },
+      ];
+
+      // console.log("We have " + people.length + " people");
+
+      for (let person of people) {
+        let response = isOfLegalDrinkingAge(person.age) ? "yes" : "no";
+        // console.log("Can " + person.name + " drink? " + response);
+
+        let petCount = "no";
+
+        if (person.pets) {
+          petCount = person.pets.length;
+        }
+
+        console.log(person.name + " has " + petCount + " pets");
+      }
+    </script>
+  </body>
+</html>
