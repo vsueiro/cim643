@@ -6,6 +6,11 @@
     <title>Building Blocks</title>
   </head>
   <body>
+    <p>
+      Open to console to see messages based on <code>people</code>, our
+      list/array of objects!
+    </p>
+
     <script>
       function isOfLegalDrinkingAge(age) {
         return age >= 21;
@@ -57,7 +62,7 @@
         },
       ];
 
-      // We have X people
+      // Print: We have X people
       console.log("We have " + people.length + " people");
 
       // For each person in our list of people
@@ -65,16 +70,19 @@
         // Check if they can drink or not
         let response = isOfLegalDrinkingAge(person.age) ? "yes" : "no";
 
-        // Can X drink? yes/no
+        // Print: Can X drink? yes/no
         console.log("Can " + person.name + " drink? " + response);
 
+        // Define standard pet count as “no”
         let petCount = "no";
 
+        // If the person has a list of pets
         if (person.pets) {
+          // Update pet count to reflect the amount of pets
           petCount = person.pets.length;
         }
 
-        // Person has no/X pets
+        // Print: Person has no/X pets
         console.log(person.name + " has " + petCount + " pets");
       }
     </script>
