@@ -57,11 +57,16 @@
         },
       ];
 
-      // console.log("We have " + people.length + " people");
+      // We have X people
+      console.log("We have " + people.length + " people");
 
+      // For each person in our list of people
       for (let person of people) {
+        // Check if they can drink or not
         let response = isOfLegalDrinkingAge(person.age) ? "yes" : "no";
-        // console.log("Can " + person.name + " drink? " + response);
+
+        // Can X drink? yes/no
+        console.log("Can " + person.name + " drink? " + response);
 
         let petCount = "no";
 
@@ -69,6 +74,7 @@
           petCount = person.pets.length;
         }
 
+        // Person has no/X pets
         console.log(person.name + " has " + petCount + " pets");
       }
     </script>
