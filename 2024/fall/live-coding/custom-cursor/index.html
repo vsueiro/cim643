@@ -5,27 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Custom Cursor</title>
     <style>
-      #cursor {
+      .cursor {
         width: 48px;
         height: 48px;
         background: black;
         position: fixed;
-        top: 0%;
-        left: 0%;
+        top: 0px;
+        left: 0px;
         translate: -50% -50%;
+        pointer-events: none;
       }
     </style>
   </head>
   <body>
-    <div id="cursor"></div>
+    <button onclick="alert('YOU CLICKED ME!')">Click me</button>
+
+    <div class="cursor" hidden></div>
 
     <script>
+      let cursor = document.querySelector(".cursor");
+
       function moveCursor(event) {
         cursor.style.top = event.y + "px";
         cursor.style.left = event.x + "px";
+
+        cursor.hidden = false;
       }
 
-      window.onmousemove = moveCursor;
+      function hideCursor() {
+        cursor.hidden = true;
+      }
+
+      document.onmousemove = moveCursor;
+      document.onmouseleave = hideCursor;
     </script>
   </body>
 </html>
