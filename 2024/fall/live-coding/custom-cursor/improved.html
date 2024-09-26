@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Cursor</title>
+    <style>
+      body {
+        background-color: Indigo;
+        height: 100vh;
+        overflow: hidden;
+        place-content: center center;
+        font-family: sans-serif;
+        text-align: center;
+      }
+
+      #cursor {
+        width: 48px;
+        height: 48px;
+        position: fixed;
+        top: -100%;
+        left: -100%;
+        translate: -50% -50%;
+        border-radius: 50%;
+        border: 6px solid DeepPink;
+        border-top-color: transparent;
+        border-bottom-color: transparent;
+        animation: spin 1s infinite linear;
+        place-content: center;
+        mix-blend-mode: color-dodge;
+        pointer-events: none;
+      }
+
+      #cursor::before {
+        content: "";
+        width: 12px;
+        height: 12px;
+        background: DeepPink;
+        translate: -50% -50%;
+        position: absolute;
+        border-radius: 50%;
+      }
+
+      @keyframes spin {
+        to {
+          rotate: 360deg;
+        }
+      }
+
+      button {
+        all: unset;
+        padding: 1em 2em;
+        background-color: Turquoise;
+        border-radius: 0.5em;
+        color: Indigo;
+        user-select: none;
+      }
+    </style>
+  </head>
+  <body>
+    <button onclick="alert('Yooo!')">Click me</button>
+
+    <div id="cursor"></div>
+
+    <script>
+      function moveCursor(event) {
+        cursor.style.top = event.y + "px";
+        cursor.style.left = event.x + "px";
+      }
+
+      function hideCursor() {
+        cursor.hidden = true;
+      }
+
+      function showCursor() {
+        cursor.hidden = false;
+      }
+
+      document.onmousemove = moveCursor;
+      document.onmouseleave = hideCursor;
+      document.onmouseenter = showCursor;
+    </script>
+  </body>
+</html>
