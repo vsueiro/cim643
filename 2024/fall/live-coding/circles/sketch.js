@@ -5,16 +5,16 @@ function setup() {
 
   // Paint it pink
   background("DeepPink");
-}
 
-// Run every frame
-function draw() {
   // Pick a fill color
   fill("Indigo");
 
   // Pick a stroke color
   stroke("DeepPink");
+}
 
+// Run every frame
+function draw() {
   // Get distance from current to previous mouse position
   let distance = dist(mouseX, mouseY, pmouseX, pmouseY);
 
