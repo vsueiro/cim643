@@ -4,17 +4,20 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Market Map</title>
-  </head>
-  <body>
-    <script>
-      async function load() {
-        let response = await fetch("umap.json");
-        let data = await response.json();
-
-        console.log(data);
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/"
+        }
       }
-
-      load();
     </script>
-  </body>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+    <script src="main.js" type="module"></script>
+  </head>
+  <body></body>
 </html>
