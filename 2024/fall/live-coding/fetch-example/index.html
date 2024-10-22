@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fetch Example</title>
+  </head>
+  <body>
+    <h1>Fetch Example</h1>
+    <pre id="pre"></pre>
+
+    <script>
+      async function load() {
+        let response = await fetch("data.json");
+        let data = await response.json();
+
+        for (let company of data[0].data) {
+          pre.textContent += company.ticker + ",";
+        }
+      }
+
+      load();
+    </script>
+  </body>
+</html>
