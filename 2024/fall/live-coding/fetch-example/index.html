@@ -11,12 +11,16 @@
 
     <script>
       async function load() {
-        let response = await fetch("data.json");
+        let response = await fetch(
+          "https://nominatim.openstreetmap.org/search?q=St%20Petersburg&format=jsonv2&limit=1"
+        );
         let data = await response.json();
 
-        for (let company of data[0].data) {
-          pre.textContent += company.ticker + ",";
-        }
+        console.log(data);
+
+        // for (let company of data[0].data) {
+        //   pre.textContent += company.ticker + ",";
+        // }
       }
 
       load();

@@ -13,17 +13,24 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 renderer.setAnimationLoop(animate);
 document.body.appendChild(renderer.domElement);
 
-// const geometry = new THREE.SphereGeometry(1, 32, 16); // Sphere
-const geometry = new THREE.BoxGeometry(1, 1, 1); // Cube
-const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
-const cube = new THREE.Mesh(geometry, material);
-scene.add(cube);
+for (let i = 0; i < 1000; i++) {
+  const geometry = new THREE.SphereGeometry(0.5, 32, 16); // Sphere
+  const material = new THREE.MeshNormalMaterial();
+  const sphere = new THREE.Mesh(geometry, material);
+  scene.add(sphere);
 
-camera.position.z = 5;
+  sphere.position.set(
+    THREE.MathUtils.randFloat(-2, 2),
+    THREE.MathUtils.randFloat(-2, 2),
+    THREE.MathUtils.randFloat(-2, 2)
+  );
+}
+
+camera.position.z = 10;
 
 function animate() {
-  cube.rotation.x += 0.01;
-  cube.rotation.y += 0.01;
+  // cube.rotation.x += 0.01;
+  // cube.rotation.y += 0.01;
 
   renderer.render(scene, camera);
 }
