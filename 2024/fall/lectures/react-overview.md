@@ -1,6 +1,6 @@
 # React
 
-This overview was kindly written by [Tim Shaw](https://www.linkedin.com/in/timshaww/) in the fall of 2024.
+This [React](https://react.dev/) overview was kindly written by [Tim Shaw](https://www.linkedin.com/in/timshaww/) in the fall of 2024.
 
 ## Overview of ReactJS
 
@@ -29,7 +29,7 @@ They are incredibly simple to write and do not require much 'boilerplate'
 
 ```jsx
 function Greeting() {
-    return <h1>Hello, World!</h1>
+  return <h1>Hello, World!</h1>;
 }
 ```
 
@@ -37,12 +37,12 @@ Another way to write functions is by using _arrow functions_
 
 ```jsx
 const Greeting = () => {
-    return <h1>Hello, World!</h1>
-}
+  return <h1>Hello, World!</h1>;
+};
 
 // OR
 
-const Greeting = () => <h1>Hello, World!</h1>
+const Greeting = () => <h1>Hello, World!</h1>;
 ```
 
 Functional components are like Legos -- small, reuseable pieces of UI that can be used over and over again in different parts of the application.
@@ -54,16 +54,16 @@ Example:
 
 ```jsx
 function ParentComponent() {
-    return (
-        <div>
-            <p>This is a parent component</p>
-            <ChildComponent />
-        </div>
-    )
+  return (
+    <div>
+      <p>This is a parent component</p>
+      <ChildComponent />
+    </div>
+  );
 }
 
 function ChildComponent() {
-    return <p>This is a child component</p>
+  return <p>This is a child component</p>;
 }
 ```
 
@@ -97,16 +97,16 @@ The `useState` hook adds interactivity by allowing each instance of a component 
 If you have multiple instances of the same component, each instance has its own state that is entirely seperate from the state of other instances.
 
 ```jsx
-import { useState } from 'react';
+import { useState } from "react";
 
 function Counter() {
-    const [count, setCount] = useState(0); // count starts at 0
-    return (
-        <div>
-            <p>Count: {count}</p>
-            <button onClick={() => setCount(count + 1)}>Increase</button>
-        </div>
-    );
+  const [count, setCount] = useState(0); // count starts at 0
+  return (
+    <div>
+      <p>Count: {count}</p>
+      <button onClick={() => setCount(count + 1)}>Increase</button>
+    </div>
+  );
 }
 ```
 
@@ -119,16 +119,16 @@ The `useEffect` hook handles side effects like data fetching or updating the pag
 `useEffect` runs after each render of the component. Optionally, you can also add dependecies to a `useEffect` hook that will also cause the hook to run whenever one of the dependencies changes. If there are no dependencies, the hooks only runs when the component is first rendered.
 
 ```jsx
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from "react";
 
 function Timer() {
-    const [seconds, setSeconds] = useState(0);
-    useEffect(() => {
-        const interval = setInterval(() => setSeconds(s => s + 1), 1000);
-        return () => clearInterval(interval); // Clean up on unmount
-    }, []); // Empty dependency array runs effect once
+  const [seconds, setSeconds] = useState(0);
+  useEffect(() => {
+    const interval = setInterval(() => setSeconds((s) => s + 1), 1000);
+    return () => clearInterval(interval); // Clean up on unmount
+  }, []); // Empty dependency array runs effect once
 
-    return <p>Seconds: {seconds}</p>;
+  return <p>Seconds: {seconds}</p>;
 }
 ```
 
@@ -138,17 +138,17 @@ The `useRef` hook gives access to DOM elements directly.
 Where you would normally use `document.getElementById()` in vanilla JS, you must now use the `useRef` hook.
 
 ```jsx
-import { useRef } from 'react';
+import { useRef } from "react";
 
 function TextInput() {
-    const inputRef = useRef(null);
-    const focusInput = () => inputRef.current.focus();
-    return (
-        <div>
-            <input ref={inputRef} placeholder="Type here..." />
-            <button onClick={focusInput}>Focus Input</button>
-        </div>
-    );
+  const inputRef = useRef(null);
+  const focusInput = () => inputRef.current.focus();
+  return (
+    <div>
+      <input ref={inputRef} placeholder="Type here..." />
+      <button onClick={focusInput}>Focus Input</button>
+    </div>
+  );
 }
 ```
 
@@ -157,13 +157,13 @@ function TextInput() {
 The `useContext` hook allows data to be shared across multiple components without passing props manually at every level.
 
 ```jsx
-import { createContext, useContext } from 'react';
+import { createContext, useContext } from "react";
 
-const ThemeContext = createContext('light');
+const ThemeContext = createContext("light");
 
 function ThemedComponent() {
-    const theme = useContext(ThemeContext);
-    return <div>The current theme is {theme}</div>;
+  const theme = useContext(ThemeContext);
+  return <div>The current theme is {theme}</div>;
 }
 ```
 
@@ -182,10 +182,10 @@ The `onClick` event triggers an action when an element is clicked.
 ```html
 <button id="myButton">Click me</button>
 <script>
-    const button = document.getElementById("myButton");
-    button.addEventListener("click", function() {
-        alert("Button clicked!");
-    });
+  const button = document.getElementById("myButton");
+  button.addEventListener("click", function () {
+    alert("Button clicked!");
+  });
 </script>
 ```
 
@@ -193,8 +193,8 @@ The `onClick` event triggers an action when an element is clicked.
 
 ```jsx
 function MyButton() {
-    const handleClick = () => alert("Button clicked!");
-    return <button onClick={handleClick}>Click me</button>;
+  const handleClick = () => alert("Button clicked!");
+  return <button onClick={handleClick}>Click me</button>;
 }
 ```
 
@@ -205,11 +205,13 @@ The `onClick` event captures changes in an input field, such as when a user type
 **Vanilla JS**
 
 ```html
-<input type="text" id="myInput" placeholder="Type here">
+<input type="text" id="myInput" placeholder="Type here" />
 <p id="output"></p>
 <script>
   document.getElementById("myInput").addEventListener("input", (e) => {
-    document.getElementById("output").textContent = `You typed: ${e.target.value}`;
+    document.getElementById(
+      "output"
+    ).textContent = `You typed: ${e.target.value}`;
   });
 </script>
 ```
