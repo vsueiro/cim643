@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Like Button</title>
+  </head>
+  <body>
+    <button onclick="increment(this)" data-counter="0">
+      💚
+      <span> 0 </span>
+    </button>
+
+    <button onclick="increment(this)" data-counter="0">
+      🧡
+      <span> 0 </span>
+    </button>
+
+    <script>
+      function increment(button) {
+        button.dataset.counter++;
+        let span = button.querySelector("span");
+        span.textContent = button.dataset.counter;
+      }
+    </script>
+  </body>
+</html>
