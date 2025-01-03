@@ -164,7 +164,7 @@ Students are welcome to schedule individual sessions with the instructor. Please
 <details>
   <summary>Religious Holy Day Policy</summary>
   <p>
-    It is the student’s obligation to provide faculty members with notice of the dates they will be absent for religious holy days, preferably before the beginning of classes but no later than the end of the first three (3) class days. Absences due to observance of religious holy days not pre-arranged within the first three class days may be considered unexcused and there is no obligation to allow any make up work, including examinations. Missing a class due to travel plans associated with a particular religious holy day does not constitute an excused absence. The University’s complete Religious Holy Day Policy can be found in the current UM Bulletin.
+    It is the student’s obligation to provide faculty members with notice of the dates they will be absent for religious holy days, preferably before the beginning of classes but no later than the end of the first three (3) class days. Absences due to observance of religious holy days not pre-arranged within the first three class days may be considered unexcused and there is no obligation to allow any make up work, including examinations. Missing a class due to travel plans associated with a particular religious holy day does not constitute an excused absence. The University’s complete Religious Holy Day Policy can be found in the current <i>UM Bulletin</i>.
   </p> 
 </details>
 
@@ -177,14 +177,6 @@ Students are welcome to schedule individual sessions with the instructor. Please
 </details>
 
 <!-- AI -->
-
-<details>
-  <summary>UM Academic Integrity Policy</summary>
-  <p>
-    Students in this and all UM courses are bound by the
-    <a href="https://fs.miami.edu/_assets/pdf/facultysenate/Documents/academic-integrity-policy-final-changes-accepted.pdf">University’s Academic Integrity Policy</a>. 
-  </p> 
-</details>
 
 <details>
   <summary>Generative Artificial Intelligence</summary>
@@ -216,7 +208,7 @@ Students are welcome to schedule individual sessions with the instructor. Please
   <p>Please adhere to the following overarching institutional principles for the use of AI systems in any SoC coursework:</p>
 
   <ul>
-    <li>Unless expressly approved by the instructor in writing, AI system outcomes should not be incorporated in final submissions or deliverables. They should solely be employed for process and research purposes.</li>
+    <li>Unless expressly approved by the instructor in writing, AI system outcomes should <u>not</u> be incorporated in final submissions or deliverables. They should solely be employed for process and research purposes.</li>
     <li>Students must properly cite the AI systems and document the pertinent prompts utilized during their process and research in the final assignment outcomes.</li>
     <li>Unless expressly approved by the instructor in writing, refrain from using the names of artists, designers, companies, or brands within the prompts. This is to uphold the artistic integrity of those involved.</li>
     <li>The instructor must ensure equitable access to any AI systems utilized in the course. This means that platforms used by students to meet course requirements must be freely accessible or offered through a UM-provided subscription.</li>
@@ -230,15 +222,13 @@ Students are welcome to schedule individual sessions with the instructor. Please
   <p>The School of Communication is committed to providing a safe, comfortable and inclusive learning environment that promotes a culture of respect and civility for everyone. Disruptive, rude, discriminatory, or disrespectful behavior toward the instructor, guest lecturers, or your fellow students will not be tolerated. Students who exhibit disruptive or uncivil behavior will be required to leave the classroom.</p>
 </details>
 
-<!-- -->
-
 <details>
     <summary>Intellectual Property</summary>
     <p>
       Pursuant to the University’s Policy on Inventions, Intellectual Property, and Technology Transfer, “courseware” includes course syllabi, assignments, assessments, software, and/or other materials that are first created and made available to students as part of the educational curriculum at the University. Courseware is owned by the faculty member, unless otherwise agreed to beforehand in a written contract between the University and the faculty member. This policy and position have not changed due to recent circumstances and this policy and definitions apply to all means by which the course material is provided.
     </p>
     <p>
-      The instructor is the copyright owner of the courseware; individual <b>recordings of the materials on Blackboard and/or of the course sessions are not allowed</b>; and such materials cannot be shared outside the physical or virtual classroom environments.
+      The instructor is the copyright owner of the courseware; individual recordings of the materials on Blackboard and/or of the course sessions are not allowed; and such materials cannot be shared outside the physical or virtual classroom environments.
     </p>
 </details>
 
