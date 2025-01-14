@@ -55,7 +55,7 @@ This course also covers tools that help us organize and scale up our projects:
 
 Optionally:
 
-- [CodeSandbox](https://codesandbox.io/) (to use frameworks without installing stuff)
+- [CodeSandbox](https://codesandbox.io/) or [StackBlitz](https://stackblitz.com/) (to use frameworks without installing stuff)
 - [React](https://reactjs.org/) or [Svelte](https://reactjs.org/) (to organize your website into components)
 - [Squarespace Domains](https://domains.squarespace.com/) or similar (to rent a friendly name, like “example.com”)
 
