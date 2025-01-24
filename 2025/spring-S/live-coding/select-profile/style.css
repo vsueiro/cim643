@@ -1,0 +1,35 @@
+body {
+  background: indigo;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+
+a img:hover {
+  outline: 4px solid deeppink;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin-bottom: 15px;
+}
+
+#profiles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 15px;
+}
