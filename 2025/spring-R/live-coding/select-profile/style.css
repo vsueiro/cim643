@@ -1,0 +1,25 @@
+body {
+  background: black;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+}
+
+#profiles {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
