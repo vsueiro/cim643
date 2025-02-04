@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Like Button</title>
+    <style>
+      button::after {
+        content: attr(data-count);
+      }
+    </style>
+  </head>
+  <body>
+    <button data-count="0" onclick="this.dataset.count++">🧡</button>
+    <button data-count="0" onclick="this.dataset.count++">💚</button>
+  </body>
+</html>
