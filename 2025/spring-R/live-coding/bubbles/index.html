@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bubbles</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/addons/p5.sound.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      function setup() {
+        createCanvas(windowWidth, windowHeight);
+        background("DeepPink");
+
+        fill("Indigo");
+        stroke("DeepPink");
+      }
+
+      function draw() {
+        let distance = dist(pmouseX, pmouseY, mouseX, mouseY);
+        let size = distance * 2;
+
+        if (size < 6) {
+          size = 6;
+        }
+
+        circle(mouseX, mouseY, size);
+      }
+    </script>
+  </body>
+</html>

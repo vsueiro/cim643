@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Cursor</title>
+    <style>
+      #cursor {
+        background: red;
+        width: 50px;
+        aspect-ratio: 1;
+        border-radius: 50%;
+
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        translate: -50% -50%;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="cursor"></div>
+
+    <script>
+      function updateCursor(event) {
+        cursor.style.top = event.y + "px";
+        cursor.style.left = event.x + "px";
+        cursor.hidden = false;
+      }
+
+      function hideCursor() {
+        cursor.hidden = true;
+      }
+
+      document.onmousemove = updateCursor;
+      document.onmouseleave = hideCursor;
+    </script>
+  </body>
+</html>
