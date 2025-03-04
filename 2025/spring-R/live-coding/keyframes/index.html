@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Keyframes</title>
+    <style>
+      .block {
+        width: 200px;
+        height: 100px;
+        background: RebeccaPurple;
+        place-self: center;
+        transition: 1s;
+      }
+
+      .block:hover {
+        animation: shake 0.25s;
+      }
+
+      @keyframes shake {
+        0% {
+          translate: 0%;
+        }
+        25% {
+          translate: -5%;
+        }
+        50% {
+          translate: 5%;
+        }
+        75% {
+          transform: -5%;
+        }
+        100% {
+          translate: 0%;
+        }
+      }
+
+      /* .block:hover {
+        translate: 100%;
+      } */
+    </style>
+  </head>
+  <body>
+    <div class="block"></div>
+  </body>
+</html>
